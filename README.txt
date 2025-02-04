@@ -1,5 +1,5 @@
 ╔════════════════════════════════════════════════╗
-AL's The Beautify Mod (Ver 5) for Paleon 1.6.1
+  AL's The Beautify Mod (Ver 5) for Paleon 1.6.1
 ╚════════════════════════════════════════════════╝
 
 This mod introduces dozens of new plants that are edible, decorative, and useable in crafting dyed items such as red tunics or blue wool coats. Other natural resources are also available, such as sand to make Glass and Limestone to make sculptures. Technology has been simplified and may not reflect real-life equivalents exactly to preserve playability.
