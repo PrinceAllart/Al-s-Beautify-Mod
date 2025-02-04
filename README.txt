@@ -1,22 +1,18 @@
 ╔════════════════════════════════════════════════╗
-
 AL's The Beautify Mod (Ver 5) for Paleon 1.6.1
-
 ╚════════════════════════════════════════════════╝
 
-This mod introduces dozens of new plants that are edible, decorative, and useable in crafting dyed items such as red tunics or blue wool coats. Other natural resources are also available, such as sand to make Glass and Limestone to make sculptures. Technology has been simplified and may not reflet real-life equivilents exactly to preserve playability.
+This mod introduces dozens of new plants that are edible, decorative, and useable in crafting dyed items such as red tunics or blue wool coats. Other natural resources are also available, such as sand to make Glass and Limestone to make sculptures. Technology has been simplified and may not reflect real-life equivalents exactly to preserve playability.
 
-This mod is always a work-in-progress and suggestions are welcome. Just remember that this is a mod that strives to keep in-tune with the original Paleon look and feel. So, not everything will be emplemented.
+This mod is always a work-in-progress and suggestions are welcome. Just remember that this is a mod that strives to keep in tune with the original Paleon look and feel. So, not everything will be emplemented.
 
 ╭══• ೋ•✧๑♡๑✧•ೋ •══╮
-
-  ❤ SPECIAL  THANKS ❤
-	
+  ❤ SPECIAL  THANKS ❤	
 ╰══• ೋ•✧๑♡๑✧•ೋ •══╯
 
 Thank you, Paleon's Dev for your help with implementing these mods and encouraging more mods for this wonderful game!❤
 
-Thank to Alexandrino for the animal powered mining drill idea!
+Thank to Alexandrino for the animal-powered mining drill idea!
 
 Big thanks to Jem for fixing my JSON bracket errors and sharing the fixed files so everyone can enjoy!❤
 
@@ -39,7 +35,7 @@ Removed Foods: Lettuce, Red Cabbage, Red beets, and Tumeric have been removed so
 
 New Foods: Pumpkins, Jack-O-Lanterns, and Pumpkin Pie just in time for October!
 
-Tree Tappers: Now you can tap sap from Pine and Maple Trees. Due to how the game is, you cannot add a tapper to an already grown tree, but instead plant a tree with a tapper. Tapped Trees can be found in FOOD unce unlocked.
+Tree Tappers: Now you can tap sap from Pine and Maple Trees. Due to how the game is, you cannot add a tapper to an already grown tree, but instead plant a tree with a tapper. Tapped Trees can be found in FOOD once unlocked.
 
 Auto Oven: Set and Forget! Will automatically make food once a recipe is chosen by settler and the ingredients are delivered.
 
@@ -81,14 +77,12 @@ Sycamore, Pine, & Redwood trees function the same as Oaks, except redwood are ra
 ╔══════════════╗
   INSTALLATION
 ╚══════════════╝
-❗❗❗❗❗❗❗❗❗❗❗❗❗❗❗❗❗❗❗❗❗❗❗❗❗❗❗❗❗❗❗❗❗❗❗❗❗❗❗❗❗❗❗❗❗❗❗❗❗❗❗❗❗❗❗❗❗❗❗❗❗❗❗❗❗❗❗❗❗
-█▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀█
-  ❗ PLEASE backup your game via steam before installation to 
-  avoid saved-game currouption. 
-  ❗ To insure you have access to all the new resources, it is
-    best to start a new game.
-█▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄█
-❗❗❗❗❗❗❗❗❗❗❗❗❗❗❗❗❗❗❗❗❗❗❗❗❗❗❗❗❗❗❗❗❗❗❗❗❗❗❗❗❗❗❗❗❗❗❗❗❗❗❗❗❗❗❗❗❗❗❗❗❗❗❗❗❗❗❗❗❗
+❗❗❗❗❗❗❗❗❗❗❗❗❗❗❗❗❗❗❗❗❗❗❗❗❗❗❗❗❗❗❗❗❗❗❗❗❗❗❗❗
+█▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀█
+  ❗ PLEASE backup your game via steam before installation to avoid saved-game currouption. 
+  ❗ To insure you have access to all the new resources, it is best to start a new game.
+█▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄█
+❗❗❗❗❗❗❗❗❗❗❗❗❗❗❗❗❗❗❗❗❗❗❗❗❗❗❗❗❗❗❗❗❗❗❗❗❗❗❗❗
 
 To Install, unzip the Beautify Mod zip file and copy the "Content" folder.
 
