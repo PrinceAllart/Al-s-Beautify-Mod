@@ -1,0 +1,246 @@
+{
+  "name_key": "crafting_desk",
+  "description_key": "used_for_crafting",
+  "width": 2,
+  "height": 1,
+  "type": "Crafter",
+  "category": "Production",
+  "animated": true,
+  "rotatable": false,
+  "cloneable": true,
+  "requireBuilding": true,
+  "destructible": true,
+  "movementSpeed": 50,
+  "constructionTime": 25,
+  "lightEmitter": {
+    "radius": 50
+          },
+  "crafter": {
+    "laborType": "Craft",
+    "autocrafter": false,
+    "recipes": [
+      {
+        "main_item": "unfired_pot",
+        "time": 50,
+        "result": [
+          {
+            "item": "unfired_pot",
+            "weight": 2
+          }
+        ],
+        "ingredients": [
+          {
+            "item": "clay",
+            "weight": 2,
+            "show": true
+          }
+        ]
+      },
+      {
+        "main_item": "basket",
+        "time": 50,
+        "result": [
+          {
+            "item": "basket",
+            "weight": 2
+          }
+        ],
+        "ingredients": [
+          {
+            "item": "wood",
+            "weight": 4,
+            "show": true
+          }
+        ]
+      },
+      {
+        "main_item": "bow",
+        "time": 30,
+        "result": [
+          {
+            "item": "bow",
+            "weight": 2
+          }
+        ],
+        "ingredients": [
+          {
+            "item": "wood",
+            "weight": 2,
+            "show": true
+          },
+          {
+            "item": "yarn",
+            "weight": 1,
+            "show": false
+          }
+        ]
+      },
+      {
+        "main_item": "copper_wire",
+        "time": 50,
+        "result": [
+          {
+            "item": "copper_wire",
+            "weight": 2
+          }
+        ],
+        "ingredients": [
+          {
+            "item": "copper",
+            "weight": 2,
+            "show": true
+          }
+        ]
+      },
+      {
+        "main_item": "empty_battery",
+        "time": 100,
+        "result": [
+          {
+            "item": "empty_battery",
+            "weight": 2
+          }
+        ],
+        "ingredients": [
+          {
+            "item": "copper_wire",
+            "weight": 2,
+            "show": false
+          },
+          {
+            "item": "silicon_ingot",
+            "weight": 2,
+            "show": false
+          }
+        ]
+      },
+      {
+        "main_item": "mudbrick",
+        "time": 100,
+        "result": [
+          {
+            "item": "mudbrick",
+            "weight": 4
+          }
+        ],
+        "ingredients": [
+          {
+            "item": "clay",
+            "weight": 4,
+            "show": false
+          },
+          {
+            "item": "hay",
+            "weight": 2,
+            "show": false
+          }
+        ]
+     },
+     {
+        "main_item": "steel_drill",
+        "time": 30,
+        "result": [
+          {
+            "item": "steel_drill",
+            "weight": 1
+          }
+        ],
+        "ingredients": [
+          {
+            "item": "steel_ingot",
+            "weight": 1,
+            "show": true
+          },
+          {
+            "item": "silicon_ingot",
+            "weight": 1
+          },
+          {
+            "item": "copper_wire",
+            "weight": 1
+          }
+        ]
+      },
+      {
+        "main_item": "chainsaw",
+        "time": 30,
+        "result": [
+          {
+            "item": "chainsaw",
+            "weight": 1
+          }
+        ],
+        "ingredients": [
+          {
+            "item": "steel_ingot",
+            "weight": 1,
+            "show": true
+          },
+          {
+            "item": "silicon_ingot",
+            "weight": 1
+          },
+          {
+            "item": "copper_wire",
+            "weight": 1
+          }
+        ]
+      }
+    ]
+  },
+  "texture": {
+    "name": "crafting_desk",
+    "width": 32,
+    "height": 22
+  },
+  "walkable_pattern": [
+    [
+      true,
+      true
+    ],
+    [
+      true,
+      true
+    ]
+  ],
+  "target_pattern": [
+    [
+      true,
+      true
+    ],
+    [
+      false,
+      false
+    ]
+  ],
+  "ground_pattern": [
+    [
+      "A",
+      "A"
+    ],
+    [
+      "A",
+      "A"
+    ]
+  ],
+  "ingredients": [
+    {
+      "item": "wood",
+      "weight": 4
+    },
+    {
+      "item": "candle",
+      "weight": 1
+    }
+  ],
+  "fuelConsumer": {
+    "fuel": [
+      "charcoal",
+      "dry_manure_fuel",
+      "candle",
+      "animal_fat",
+      "full_battery"
+    ],
+    "energy_consumption": 0.06
+  }
+}

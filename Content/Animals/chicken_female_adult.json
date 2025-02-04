@@ -1,0 +1,66 @@
+{
+    "key":  "chicken",
+    "kind":  "chicken",
+    "texture":  {
+                    "name":  "chicken_female_adult",
+                    "width":  16,
+                    "height":  16
+                },
+    "attributes":  [
+                       {
+                           "name":  "Satiety"
+                       },
+                       {
+                           "name":  "Energy"
+                       },
+                       {
+                           "name":  "Health"
+                       },
+                       {
+                           "name":  "Productivity"
+                       }
+                   ],
+    "movementSpeed":  3.5,
+    "canProtect":  false,
+    "isWild":  false,
+    "gender":  "F",
+    "health":  50,
+    "hunger":  100,
+    "energy":  100,
+    "DaysUntilAging":  60,
+    "damage":  6,
+    "defense":  0,
+    "product":  {
+                    "percentPerDay":  100,
+                    "item":  123,
+                    "requiredItem":  1
+                },
+    "drop":  [
+                 {
+                     "item":  "raw_meat",
+                     "count":  2
+                 },
+                 {
+                     "item":  "bone",
+                     "count":  2
+                 }
+             ],
+    "ration":  [
+                   "hay"
+               ],
+    "allowedLabors":  [
+
+                      ],
+    "attackChance":  "75",
+    "PregnancyData":  {
+                          "DurationInDays":  4,
+                          "Offspring":  [
+                                            "chicken_female_baby",
+                                            "chicken_male_baby",
+                                            "chicken_female_baby",
+                                            "chicken_female_baby"
+                                        ]
+                      },
+    "Price":  50,
+    "AgeState":  "Adult"
+}

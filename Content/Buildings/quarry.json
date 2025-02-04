@@ -1,0 +1,150 @@
+{
+  "name_key": "quarry",
+  "description_key": "quarry_description",
+  "width": 2,
+  "height": 2,
+  "type": "Crafter",
+  "category": "Mining",
+  "animated": true,
+  "rotatable": false,
+  "cloneable": true,
+  "requireBuilding": true,
+  "destructible": true,
+  "movementSpeed": 50,
+  "constructionTime": 50,
+  "crafter": {
+    "laborType": "Craft",
+    "autocrafter": false,
+    "recipes": [
+      {
+        "main_item": "sand",
+        "time": 50,
+        "result": [
+          {
+            "item": "sand",
+            "weight": 2
+          },
+          {
+            "item": "ceramic_pot",
+            "weight": 1
+          }
+        ],
+        "ingredients": [
+          {
+            "item": "ceramic_pot",
+            "weight": 1,
+            "show": false
+          }
+        ]
+      },
+      {
+        "main_item": "limestone",
+        "time": 50,
+        "result": [
+          {
+            "item": "basket",
+            "weight": 1
+          },
+          {
+            "item": "limestone",
+            "weight": 2
+          }
+        ],
+        "ingredients": [
+          {
+            "item": "basket",
+            "weight": 1,
+            "show": false
+          }
+        ]
+      },
+      {
+        "main_item": "silicon",
+        "time": 100,
+        "result": [
+          {
+            "item": "silicon",
+            "weight": 1
+          },
+          {
+            "item": "basket",
+            "weight": 1,
+            "show": false
+          }
+        ],
+        "ingredients": [
+          {
+            "item": "basket",
+            "weight": 1
+          }
+        ]
+      },
+      {
+        "main_item": "stone",
+        "time": 25,
+        "result": [
+          {
+            "item": "stone",
+            "weight": 2
+          },
+          {
+            "item": "basket",
+            "weight": 1
+          }
+        ],
+        "ingredients": [
+          {
+            "item": "basket",
+            "weight": 1,
+            "show": false
+          }
+        ]
+      }
+    ]
+  },
+  "texture": {
+    "name": "quarry",
+    "width": 32,
+    "height": 32
+  },
+  "walkable_pattern": [
+    [
+      true,
+      true
+    ],
+    [
+      true,
+      true
+    ]
+  ],
+  "target_pattern": [
+    [
+      false,
+      false
+    ],
+    [
+      true,
+      false
+    ]
+  ],
+  "ground_pattern": [
+    [
+      "A",
+      "A"
+    ],
+    [
+      "A",
+      "A"
+    ]
+  ],
+  "ingredients": [
+    {
+      "item": "wood",
+      "weight": 4
+    },
+    {
+      "item": "stone",
+      "weight": 4
+    }
+  ]
+}

@@ -1,0 +1,57 @@
+{
+  "name_key": "totem",
+  "description_key": "decoration_desc",
+  "width": 1,
+  "height": 2,
+  "type": "None",
+  "category": "Settlement",
+  "animated": false,
+  "rotatable": false,
+  "cloneable": true,
+  "requireBuilding": true,
+  "show_item_on_top": false,
+  "destructible": true,
+  "movementSpeed": -1,
+  "constructionTime": 1,
+  "texture": {
+    "name": "totem",
+    "width": 18,
+    "height": 33
+  },
+  "walkable_pattern": [
+    [
+      true,
+      true
+    ],
+    [
+      false,
+      false
+    ]
+  ],
+  "target_pattern": [
+    [
+      false,
+      false
+    ],
+    [
+      false,
+      false
+    ]
+  ],
+  "ground_pattern": [
+    [
+      "A",
+      "A"
+    ],
+    [
+      "A",
+      "A"
+    ]
+  ],
+  "ingredients": [
+    {
+      "item": "wood",
+      "weight": 3
+    }
+  ]
+}

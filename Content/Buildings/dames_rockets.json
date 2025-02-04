@@ -1,0 +1,62 @@
+{
+  "name_key": "dames_rockets",
+  "description_key": "dames_rockets",
+  "width": 1,
+  "height": 1,
+  "type": "FarmPlot",
+  "category": "Agriculture",
+  "buildingLaborType": "Plant",
+  "buildingToolType": "Plowing",
+  "animated": false,
+  "rotatable": false,
+  "cloneable": true,
+  "requireBuilding": true,
+  "destructible": false,
+  "constructionTime": 30,
+  "movementSpeed": 75,
+  "plant": {
+    "key": "dames_rockets",
+    "growthSpeed": 15,
+    "toolType": "Harvesting",
+    "toolRequired": false,
+    "maxStrength": 30,
+    "isFlower": true,
+    "harvestable": null,
+    "stages": 4,
+    "variations": 4,
+    "texture": 
+    {
+      "name": "dames_rockets",
+      "width": 24,
+      "height": 24
+    },
+    "seasonsVariations":
+    {
+      "3": [0],
+      "0": [1],
+      "1": [2],
+      "2": [3]
+    }
+  },
+  "texture": {
+    "name": "dames_rockets",
+    "width": 24,
+    "height": 24
+  },
+  "walkable_pattern": [
+    [
+      true
+    ]
+  ],
+  "target_pattern": [
+    [
+      false
+    ]
+  ],
+  "ground_pattern": [
+    [
+      "A"
+    ]
+  ],
+  "ingredients": []
+}

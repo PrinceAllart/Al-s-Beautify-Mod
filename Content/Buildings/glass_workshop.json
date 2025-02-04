@@ -1,0 +1,118 @@
+{
+  "name_key": "glass_workshop",
+  "description_key": "used_to_make_glass",
+  "width": 2,
+  "height": 2,
+  "type": "Crafter",
+  "category": "Production",
+  "animated": true,
+  "rotatable": false,
+  "cloneable": true,
+  "requireBuilding": true,
+  "destructible": true,
+  "movementSpeed": 50,
+  "constructionTime": 10,
+  "lightEmitter": {
+    "radius": 100
+  },
+  "crafter": {
+    "laborType": "Craft",
+    "autocrafter": false,
+    "recipes": [
+      {
+        "main_item": "glass",
+        "time": 80,
+        "result": [
+          {
+            "item": "glass",
+            "weight": 2
+          }
+        ],
+        "ingredients": [
+          {
+            "item": "sand",
+            "weight": 4
+          }
+        ]
+      },
+      {
+        "main_item": "glass_bottle",
+        "time": 100,
+        "result": [
+          {
+            "item": "glass_bottle",
+            "weight": 2
+          }
+        ],
+        "ingredients": [
+          {
+            "item": "glass",
+            "weight": 2
+          }
+        ]
+      },
+      {
+        "main_item": "silicon_ingot",
+        "time": 100,
+        "result": [
+          {
+            "item": "silicon_ingot",
+            "weight": 1
+          }
+        ],
+        "ingredients": [
+          {
+            "item": "silicon",
+            "weight": 4,
+            "show": true
+          }
+        ]
+      }
+    ]
+  },
+  "texture": {
+    "name": "glass_workshop",
+    "width": 32,
+    "height": 32
+  },
+  "walkable_pattern": [
+    [
+      true,
+      true
+    ],
+    [
+      true,
+      true
+    ]
+  ],
+  "target_pattern": [
+    [
+      true,
+      false
+    ],
+    [
+      false,
+      false
+    ]
+  ],
+  "ground_pattern": [
+    [
+      "A",
+      "A"
+    ],
+    [
+      "A",
+      "A"
+    ]
+  ],
+  "ingredients": [
+    {
+      "item": "wood",
+      "weight": 2
+    },
+    {
+      "item": "clay",
+      "weight": 4
+    }
+  ]
+}

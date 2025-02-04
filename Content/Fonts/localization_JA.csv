@@ -1,0 +1,803 @@
+key,translation
+language_change_warning,"変更を有効にするには
+ゲームを再起動してください"
+language_name,Japanese
+new_game,新規ゲーム
+resume,一時停止
+result,結果
+language,言語
+load_game,ロードゲーム
+exit_to_desktop,デスクトップへ戻る
+exit_to_main_menu,メインメニューへ戻る
+save,セーブ
+gather,収集
+mine,採掘
+mine_mine,採掘
+chop,伐採
+cut,収穫
+chop_completely,完全に伐採
+cut_completely,完全に収穫
+сhop_automatically,自動伐採
+cut_automatically,自動収穫
+chop_now,すぐに伐採
+cut_now,すぐに収穫
+сhop_automatically_description,完全に成長した植物を自動的に伐採
+сut_automatically_description,完全に成長した植物を自動的に収穫
+hunt,狩猟
+cancel,キャンセル
+destruct,破壊
+stone_tools,石の道具
+charcoal_kiln,炭焼き窯
+copper_smelting,銅の精錬
+bronze_smelting,青銅の製錬
+iron_smelting,鉄の製錬
+time_machine,タイム・マシン
+grain_processing,穀物加工
+pottery,陶器
+brewing,醸造
+alcoholic_drinks,アルコール飲料
+tanning,なめし革法
+animals_domestication,動物家畜化
+cheesemaking,チーズ製造
+oven,かまど
+agriculture,農業
+fertilizing,施肥
+weaving,織工
+satiety,満腹度
+energy,活力
+health,体力
+age,年齢
+day,日数
+settlers,移民
+animals,動物
+wall,壁
+floor,路面
+hut,小屋
+production,製造
+storage,貯蔵庫
+level,レベル
+defense,防御
+bridge,桟橋
+paleolithic,旧石器時代
+mesolithic,中石器時代
+neolithic,新石器時代
+chalcolithic,金石併用時代
+bronze_age,青銅器時代
+iron_age,鉄器時代
+fuel,燃料
+burial,埋葬
+consumption,消費
+irrigation,灌漑
+sowing,播種
+irrigate,水まき
+fertilize,肥料
+technologies,技術
+rest,休憩
+work,労働
+sleep,睡眠
+happiness,幸福度
+nutrition,栄養
+time,時間
+ingredients,材料
+hours,時間
+felling,伐採
+gathering,収集
+building,建物
+farming,農業
+supplying,供給
+ranching,放牧
+capacity,収容可能
+resource,資源
+required_technology,必要な技術
+ration,配給
+growth_speed,成長速度
+growth_progress,成長経過
+days,日間
+food_drying,食品乾燥
+fertilizer,肥料
+None,なし
+spinning,紡糸
+new_settlers_arrived,新しい移民が到着
+new_technologies_available,新技術が利用可能
+required,必須
+deposit,貯蔵量
+recipe,レシピ
+progress,進捗
+crafting,クラフト
+Pick,ツルハシ
+copy_settings,設定コピー
+value,価値
+trade,取引
+metallurgy,金属学
+open,開く
+close,閉じる
+clone,複製
+mechanisms,機械
+experience_points,経験値
+world_settings,ワールド設定
+create,創造
+back,戻る
+world_with_that_name_already_exists,そのワールド名はすでに存在しています
+world_name,ワールド名
+world_size,ワールド・サイズ
+cooking,調理
+freshness,鮮度
+durability,日持ち
+season,季節
+spoilage_rate,腐敗率
+per_day,/日
+soil,土壌
+moisture,水分
+plant,植物
+name,名前
+temperature,体温
+protects_against_low_temperatures,低温保護
+priority,優先度
+speed,速度
+spoiled,が腐敗
+barley,大麦
+flax,亜麻
+grape_bush,ブドウの低木
+oak,オーク
+pea,えんどう豆
+culinary_ingredients,料理の材料
+fertilizers,肥料
+resources,資源
+seeds,種
+food,食糧
+tools,道具
+clothes,衣類
+containers,容器
+summer,夏
+autumn,秋
+winter,冬
+spring,春
+woodcutting,木材切断
+mining,採掘
+hunting,狩猟
+harvesting,収穫
+planting,植付
+plowing,耕起
+fishing,魚釣り
+hauling,運搬
+wooden_cart,木製荷車
+wooden_plow,木製のすき
+copper_reaper,銅の刈り取り機
+copper,銅
+bronze,青銅
+iron,鉄
+manure,肥料
+wood,木
+charcoal,木炭
+stone,石
+clay,粘土
+leather,革
+copper_ore,銅鉱石
+tin_ore,錫鉱石
+iron_ore,鉄鉱石
+crushed_copper_ore,破砕済み銅鉱石
+crushed_tin_ore,破砕済み錫鉱石
+crushed_iron_ore,破砕済み鉄鉱石
+fiber,繊維
+cloth,布
+yarn,糸
+woven_clothing,編んだ服
+dry_skin,乾燥した皮
+raw_skin,無加工の皮
+mudbrick,泥レンガ
+settler_corpse,移民の死体
+stone_sickle,石の鎌
+copper_sickle,銅の鎌
+bronze_sickle,青銅の鎌
+iron_sickle,鉄の鎌
+stone_axe,石の斧
+copper_axe,銅の斧
+bronze_axe,青銅の斧
+iron_axe,鉄の斧
+stone_hoe,石の鍬
+copper_hoe,銅の鍬
+bronze_hoe,青銅の鍬
+iron_hoe,鉄の鍬
+stone_pick,石のツルハシ
+copper_pick,銅のツルハシ
+bronze_pick,青銅のツルハシ
+iron_pick,鉄のツルハシ
+wooden_spear,木製の槍
+stone_spear,石の槍
+copper_spear,銅の槍
+bronze_spear,青銅の槍
+iron_spear,鉄の槍
+wooden_harpoon,木製の銛
+stone_harpoon,石の銛
+copper_harpoon,銅の銛
+bronze_harpoon,青銅の銛
+iron_harpoon,鉄の銛
+sling,スリング
+bow,弓
+crossbow,クロスボウ
+barley_seeds,大麦の種
+skins_outfit,皮の服
+warm_fur_clothes,暖かい毛皮の服
+warm_knitted_clothes,暖かい編んだ服
+chainmail,チェインメイル
+leather_outfit,革の服
+ceramic_pot,陶磁器の壺
+unfired_pot,素焼きの壺
+pot_of_beer,ビールの壺
+pot_of_wine,ワインの壺
+pot_of_mead,ミードの壺
+pot_of_water,水の壺
+pot_of_milk,ミルクの壺
+flour,小麦粉
+grape,ブドウ
+raisin,レーズン
+raw_meat,生肉
+dry_fish,干した魚
+dry_meat,干し肉
+raw_fish,生魚
+number_of_fish,魚の数
+peas,豆
+cooked_meat,調理した肉
+cooked_fish,調理した魚
+flatbread,板パン
+cheese,チーズ
+hay,干し草
+mudbrick_hut,泥レンガの小屋
+bloomery,塊鉄炉
+used_to_smelting_metals_from_its_ores,鉱石から金属を製錬するために使用
+clay_barn,粘土製の倉庫
+used_for_storing_resources,資源の貯蔵に使用
+used_for_coal_production,木炭生産に使用
+clay_deposit,粘土鉱床
+clay_hut,粘土製の小屋
+clay_oven,粘土製のかまど
+used_for_quick_cooking,調理を速くするために使用
+iron_smithy,鉄の鍛冶場
+used_for_forging_iron_tools,鉄の道具の鍛造に使用
+copper_deposit,銅鉱床
+crafter,製作台
+used_to_create_primitive_tools,原始的な道具の生産に使用
+dirt_path,土砂の道
+dolmen,巨石墓
+drop_spindle,糸紡ぎ機
+used_for_spinning_yarn,糸を紡ぐのに使用
+farm_plot,農場区画
+used_for_growing_plants,植物の成長に使用
+fermenting_pot,発酵用の壺
+used_to_ferment_foods,食品の発酵に使用
+fishing_place,釣り場
+used_for_fishing,魚釣りに使用
+fish_trap,魚用の罠
+food_dryer,食品乾燥機
+used_for_drying_food,食糧の乾燥に使用
+grave,墓
+used_to_bury_the_dead,死者を埋葬するのに使用
+hearth,囲炉裏
+used_for_cooking,調理に使用
+iron_deposit,鉄鉱床
+kiln,窯
+used_for_firing_ceramic_products,陶磁器製造の焼成に使用
+warp_weighted_loom,たて加重織機
+used_to_weave_cloth,布を織るために使用
+mechanical_crusher,機械式粉砕機
+used_to_crushing_resources,資源を粉砕するために使用
+millstone,石臼
+used_for_quick_grinding_of_grain,穀物を素早く粉砕するために使用
+used_for_mining,採掘に使用
+mortar_and_pestle,すり鉢とすりこぎ
+used_to_grinding_and_crushing_resources,資源の製粉と粉砕に使用
+mudbrick_dryer,泥レンガ乾燥機
+used_for_drying_adobe,日干しレンガを換装させるために使用
+palisade,くい柵
+barn,牛小屋
+primitive_animal_dwelling,原始的な動物小屋
+used_to_cross_water,水を渡るのに使用
+skin_drying_rack,皮乾燥ラック
+used_for_drying_skins,皮の乾燥に使用
+spinning_wheel,糸車
+stick_hut,小枝の小屋
+stockpile,備蓄所
+copper_smithy,銅鍛冶場
+used_for_forging_copper_and_bronze_tools,銅および青銅の道具の鍛造に使用
+stone_deposit,石鉱床
+stone_floor,石床
+allows_creatures_to_move_faster,生物がより速く移動することが可能
+primitive_dwelling,原始の居住施設
+stone_pieces,石片
+stone_wall,石の壁
+tannery,皮なめし
+used_for_tanning_skins,皮のなめしに使用
+tin_deposit,錫鉱床
+water_gathering_place,集水所
+used_to_collect_water,水を集めるために使用
+well,井戸
+windmill,風車
+used_for_automated_grinding_of_grain,穀物の自動粉砕に使用
+wooden_gate,木製の門
+point_of_entry_to_a_space_which_is_enclosed_by_walls,壁に囲まれた場所への入口
+wood_pieces,木片
+workshop,作業場
+used_to_create_advanced_tools,高度な道具を作成するために使用
+sound_volume,音量
+accept,承認
+decline,拒否
+tailors_workshop,仕立て屋の作業場
+used_to_make_clothes,服を作るために使用
+irrigation_canals,灌漑用水路
+build_irrigation_canal,灌漑用水路の建設
+destruct_irrigation_canal,灌漑用水路の破壊
+melee_damage,近接ダメージ
+range_damage,遠距離ダメージ
+recharge_time,再チャージ時間
+tool_type,道具タイプ
+efficiency,効率
+chance,チャンス
+projectile_speed,発射速度
+repeat,リピート
+fishing_rod,釣り竿
+source_of_mechanical_energy,機械式エネルギー源
+mechanical_millstone,機械式石臼
+energy_consumer,エネルギー消費
+energy_source,エネルギー源
+connected,接続中
+disconnected,切断中
+travel_speed,移動速度
+beekeeping,養蜂
+wild_bee_hive,野生のミツバチの巣
+bee_hive,ミツバチの巣
+beeswax,蜜ろう
+dandelion,タンポポ
+pot_of_honey,ハチミツの壺
+honeycomb,ハチの巣
+flowers,花
+base_speed,基本速度
+total_speed,合計速度
+honey,ハチミツ
+bee_hive_description,野生のハチの巣の２倍の効率でハチミツを生産
+a_wild_bee_hive_has_appeared_near_you,あなたの近くに野生のミツバチの巣が現れた
+future,未来
+game_finished,ゲーム終了
+energy_consumption,エネルギー消費
+energy_output,エネルギー出力
+time_machine_description,タイムトラベル装置
+energy_available,利用可能エネルギー
+return_to_the_future,未来に戻る
+windowed,ウィンドウ
+fullscreen,フルスクリーン
+open_game_data_folder,ゲームデータフォルダを開く
+credits,クレジット
+turn_on_music,音楽を再生
+turn_off_music,音楽を消す
+recipes,レシピ
+aurochs,野生牛
+boar,イノシシ
+tarpan,ターパン
+mouflon,ムフロン
+workers,労働者
+knowledge_points,知識ポイント
+knowledge,知識
+primitive_school_description,知識ポイントを獲得するために使用
+skin_tent,皮のテント
+edge_scrolling_camera,画面端でスクロール
+learning,学習
+left_click,左クリック
+right_click,右クリック
+enable_all,全て有効
+disable_all,全て無効
+pregnancy,妊娠
+was_killed_by,|0|が{1}に殺されました
+command_line,コマンドライン
+x_died_of_starvation,{0}は飢えで死亡しました
+x_died_from_the_cold,{0}は寒さで死亡しました
+x_died_of_old_age,{0}は老齢で死亡しました
+domesticate,飼いならす
+slaughter,食肉処理
+animal_male,オス
+animal_female,メス
+shelf_life_of_products,生産品の保存可能期間
+food_storage_hut_description,食品を保管するために使用。食品を長期間新鮮に保ちます
+food_storage_hut,食糧貯蔵小屋
+mammoth,マンモス
+copy,コピー
+paste,ペースト
+brick,レンガ
+the_settlers_are_freezing,移民たちは凍えている
+the_settlers_are_starving,移民たちは飢えている
+child,子ども
+adult,大人
+old,老年
+animal_pen,動物の囲い
+animal_pen_description,動物の休息やエサやりに使用
+animal_filter,動物の選択
+the_settlers_are_unhappy,移民たちは不満を抱いている
+production_limit,生産限界
+repeat_until_production_limits_are_reached,生産限界に達するまで繰り返します
+all,全て
+stored,貯蔵済み
+wolf,オオカミ
+peaceful_mode,平和モード
+a_wild_animal_is_about_to_attack_your_settlement,野生動物があなたの開拓地を攻撃しようとしています！
+weapon,武器
+attack,攻撃
+equip,装備
+come_here,こっちに来い
+bone,骨
+bone_sickle,骨の鎌
+bone_harpoon,骨の銛
+bone_spear,骨の槍
+bone_tools,骨の道具
+items,アイテム
+wolf_domestication,オオカミの家畜化
+clean_up_manure,肥やしの掃除
+cattle,牛
+horse,馬
+pig,豚
+sheep,羊
+dog,犬
+brick_floor,レンガの床
+brick_wall,レンガの壁
+haystack,干し草の山
+haystack_description,干し草を保管するために使用
+disband,解散
+automatically_mine_spawned_deposits,生成された鉱床を自動的に採掘
+mine_description,鉱山から資源を抽出するために使用。それ自身の周囲に堆積物を生み出します
+shelf_life,保存可能期間
+raisin_buns,レーズンパン
+rename,名前の変更
+wool,羊毛
+wool_clothing,羊毛の衣類
+wool_yarn,毛糸
+wool_cloth,羊毛の布
+new_settlers,新しい移民
+duration_x_minutes,持続時間: {0} 分
+duration_x_hours,持続時間: {0:0.0} 時間
+movement_speed,移動速度
+effects,効果
+herbalist_table,薬草採取者の机
+herbalist_table_description,原始的な医薬品の作成に使用
+food_poisoning_cure,食中毒の治療薬
+primitive_medicine,原始医学
+medicine,薬
+causes,誘発
+cures,治療
+productivity,生産性
+wind,風
+calm,穏やか
+light,軽微
+moderate,並み
+strong,強い
+depends_on_wind_speed,風速により異なります
+mudbrick_wall,日干しレンガの壁
+mudbrick_floor,日干しレンガの床
+torch,松明
+torch_description,空間を照らすために使用
+energy_type,エネルギーの種類
+kinetic,運動的
+gas,ガス
+knowledge_table,知識の机
+pause,一時停止
+has_joined_your_settlement,{0}が開拓地に加わりました
+walls,壁
+wall_description,通行できない障壁を作るために使用される構造物
+basket,カゴ
+number_of_uses,使用回数
+to_do_the_job_of_x_you_need_tools,{0}をするには道具が必要
+game_menu,ゲームメニュー
+food_poisoning,食中毒
+vomiting,嘔吐
+sleeping,睡眠
+sleeping_on_the_ground,地面で寝ています
+winter_cold,冬の寒さ
+warm_clothing,温かい衣類
+cozy_hut,居心地の良い小屋
+cozy_tent,居心地の良いテント
+warm_place,温かい場所
+dirty_animal_pen,汚れた動物の囲い
+hunger,飢餓
+low_light,弱い光源
+spawn_time,生産時間
+show_resource_in_the_general_list,一般リストに資源を表示
+rain,雨
+stopped_due_to,停止理由: {0}
+pea_seeds,エンドウ豆の種
+pea_soup,エンドウ豆スープ
+thresher,脱穀機
+thresher_description,植物を脱穀して干し草から種子を分離するために使用
+sheaf_of_barley,大麦の束
+bunch_of_peas,エンドウ豆の束
+threshing_floor,脱穀場
+threshing_floor_description,"干し草から種子を分離するために動物が
+大量に植物を脱穀するために使用されます。"
+noria,水くみ水車
+noria_description,"井戸から水をくみ上げ、
+用水路に導くために使用されます。"
+iron_bloom,鉄の華
+assigned_to,{0}に割り当て済み
+assign_to,{0}に割り当て
+unassign_from,{0}から割り当て解除
+assign_a_pet,ペットを割り当て
+pets,ペット
+music_volume,ミュージック音量
+destruct_surface,路面の破壊
+x_got_the_y_effect,{0}は{1}の影響を受けています
+days_until_aging_x,世代変更まで: {0} 日
+days_until_death_x,死亡まで: {0} 日
+trading_post,交易所
+trading,交易
+trading_post_assortment_update,交易所の品揃えが更新されました！
+buying,購入
+selling,販売
+trading_post_description,商品の売買ができます。品揃えは１日に１回更新されます。
+mealing_stone,石皿
+mealing_stone_description,穀物や種の加工に使用されます。
+animal_fat,動物油脂
+oil_lamp,オイルランプ
+oil_lamp_description,照明に用いられ、燃料として油や動物性油脂が使用されます
+pemmican,ペミカン
+settlement,集落
+side_item,Side item
+mulberry,Mulberry
+carrot,Carrot
+carrot_seeds,Carrot Seeds
+carrot_wild,Carrot Plant
+lettuce_leaves,Lettuce Leaves
+wineberries,Wineberries
+wineberry_bush,Wineberry Bush
+limestone,Limestone
+limestone_deposit,Limestone Deposit
+lettuce_wild,Lettuce Plant
+lettuce_seeds,Lettuce Seeds
+lamp_post,Lamp Post
+sycamore,Sycamore Tree
+sycamore_pod,Sycamore Seed
+red_beet_seeds,Red beet Seeds
+pine,Pine Tree
+pinecone,Pinecone
+avacado_seed,Avocado Seed
+avacado,Avocado
+avacado_tree,Avocado Tree
+red_beet,Red Beet
+red_beet_plant,Red Beet Plant
+onion,Onion
+onion_seeds,Onion Seeds
+onion_plant,Onion Plant
+lemon_seeds,Lemon Seeds
+tumeric,Tumeric
+tumeric_plant,Tumeric Plant
+lemon,Lemon
+lemon_tree,Lemon Tree
+spinach_plant,Spinach Plant
+spinach,Spinach Leaves
+spinach_seeds,Spinach Seeds
+woad_leaves,Woad Leaves
+woad_plant,Woad Plant
+woad_seeds,Woad Seeds
+red_cabbage,Red Cabbage
+red_cabbage_plant,Red Cabbage Plant
+red_cabbage_seeds,Red Cabbage Seeds
+blueberries,Blueberries
+blueberry_ plant,Blueberry Plant
+blueberry_seeds,Blueberry Seeds
+red_beet_chips,Red beet Chips
+used_to_dye_clothes,Used to dye clothes
+dye_station,Dye Station
+red_tunic,Red Tunic
+pink_tunic,Pink Tunic
+orange_tunic,Orange Tunic
+yellow_tunic,Yellow Tunic
+green_tunic,Green Tunic
+ltblue_tunic,Light Blue Tunic
+dkblue_tunic,Dark Blue Tunic
+purple_tunic,Purple Tunic
+pot_of_vinegar,Pot of Vinegar
+redwood_tree,Redwood Tree
+blueberry_bush,Blueberry Bush
+mulberry_tree,Mulberry Tree
+purple_coat,Purple Coat
+dkblue_coat,Dark Blue Coat
+ltblue_coat,Light Blue Coat
+green_coat,Green Coat
+orange_coat,Orange Coat
+yellow_coat,Yellow Coat
+pink_coat,Pink Coat
+red_coat,Red Coat
+quarry,Quarry
+quarry_description,"Used to gather Stones, Sand, Limestone, and someones Silicon."
+sand,Sand
+silicon,Silicon
+silicon_ingot,Silicon Ingot
+butterfly_bush,Butterfly Bush
+decoration_desc,Used only for decoration.
+farmer_statue,Farmer Statue
+bird_bath,Bird Bath
+joyful_statue,Statue of Joy
+merchant_statue,Merchant Statue
+merchant_statue_desc,The one who brings joy upon arrival.
+fountain,Fountain
+fountain_small,Small Fountain
+stone_ball,Stone Ball Sculpture
+holder_statue_light,Lit Holder Statue
+holder_statue,Holder Statue
+copper_lamp,Copper Lamp
+copper_lamp_post,Copper Lamp on Post
+bronze_lamp,Bronze Lamp
+bronze_lamp_post,Bronze Lamp on Post
+iron_lamp,Iron Lamp
+iron_lamp_post,Iron Lamp on Post
+stone_arch,Stone Archway
+dog_statue,Stone Dog Statue
+limestone_dog_statue,Limestone Dog Statue
+totem,Totem
+timothy_grass,Timothy Grass (Hay)
+timothy_grass_desc,Can be cut to produce animal feed (Hay)
+timothy_grass_seeds,Timothy Grass Seeds
+multiflora_rose_bush,Multiflora Rose Bush
+rose_bush,Rose bush
+dames_rockets,Dame Rocket Flowers
+tulip,Tulip
+star_flower,Star Flower
+wood_flower_wall,Wooden Flower Wall
+stone_flower_wall,Stone Flower Wall
+hedge,Leafy Hedge Wall
+stone_rose_wall,Stone Rose Wall
+brick_flower_wall,Brick Flower Wall
+mudbrick_flower_wall,Mudbright Flower Wall
+brick_rose_wall,Brick Rose Wall
+mudbrick_rose_wall,Midbrick Rose Wall
+wood_rose_wall,Wooden Rose Wall
+wood_butterfly_wall,Wooden Butterfly Flower Wall
+stone_butterfly_wall,Stone Butterfly Flower Wall
+brick_butterfly_wall,Brick Butterfly Flower Wall
+mudbrick_butterfly_wall,Mudbright Butterfly Flower Wall
+chicken,Chicken
+egg,Egg
+sugar,Sugar
+limestone_pillar,Limestone Pillar
+rose_sculpture_large,Rose Sculpture Pillar
+rose_sculpture_small,Small Rose Sculpture Pillar
+fish_cake,Fish Patty
+spinach_quiche,Spinach Quiche
+lemon_square,Lemon Square
+blueberry_tart,Blueberry Tart
+onion_quiche,Onion Quiche
+meat_pie,Meat Pie
+wineberry_pie,Wineberry Pie
+muffin,Muffin
+carving,Decorative Carving
+dwelling,A place to call Home.
+brick_abode,Brick House
+wooden_gate_small,Small Wooden Doors
+wooden_gate_large,Large Wooden Doors
+simple_bed,Simple Bed
+steel_smelting,Steel Smelting
+blast_furnace,Blast Furnace
+steel_ingot,Steel Ingot
+solar_power,Solar Power
+solar_panel,Solar Panel
+charging_station,Charging Station
+used_to_charge_batteries,Used to charge batteries
+empty_battery,Empty Battery
+full_battery,Full Battery
+copper_wire,Copper Wire
+coop,Chicken Coop
+glass,Glass
+used_to_make_glass,Used to make Glass.
+glass_workshop,Glass Workshop
+glass_bottle,Glass Bottle
+source_of_solar_energy,Creates a power source using Solar Energy
+solar_light_desc,Solar Powered Lamp
+plank_floor,Wooden Plank Floor
+used_to_create_tools,Used to Create Advanced Tools
+crafting_desk,Crafting Desk
+sewing_desk,Sewing Desk
+study_desk,Study Desk
+used_to_make_clothes,Used to make Clothes
+used_for_crafting,Used for Crafting Items
+steel_smelting,Steel Smelting
+candle,Candle
+wax,Wax
+honey,Honey
+avacado_oil,Avocado Oil
+candle_maker,Candle Maker
+candle_making,Candle Making
+used_for_crafting_candles,Used for crafting Candles
+advanced_crafting,Advanced Crafting Desks
+candelabra_copper,Copper Candelabra
+candelabra_bronze,Bronze Candelabra
+candelabra_iron,Iron Candelabra
+candelabra_steel,Steel Candelabra
+lemonade,Lemonade
+used_for_cooking,Used for Faster Cooking
+stove_iron,Iron Stove
+brick_oven,Brick Pizza Oven
+food_press,Food Press
+used_to_make_oil,"Used to make Oil, Juices, and Honey"
+used_for_making_pizza,Used for Making Pizza
+tomato,Tomato
+tomato_plant,Tomato Plant
+tomato_seeds,Tomato Seeds
+bell_pepper,Bell Pepper
+bell_pepper_plant,Bell Pepper Plant
+bell_pepper_seeds,Bell Pepper Seeds
+tomato_pizza,Tomato Pizza Pie
+cheese_pizza,Cheese Pizza
+meaty_pizza,Meat Pizza
+veggie_pizza,Vegetable Pizza
+iron_gate,Small Iron Gate
+iron_gate_large,Large Iron Gate
+acorn,Acorn
+tapped_maple,Tapped Maple Tree
+tapped_pine,Tapped Pine Tree
+tapper,Tapper
+maple_sap,Raw Maple Sap
+pine_sap,Raw Pine Sap
+maple_syrup,Maple Syrup
+to_tap_trees,Used to collect sap from a trees.
+tree_tapping,Tree Tapping
+tea_seed,Tea Tree Seed
+tea_leaves,Tea Leaves
+tea_plant,Tea Plant
+black_tea,Black Tea
+tomato_soup,Tomato Soup
+veg_soup,Vegitable Soup
+fried_egg,Fried Egg
+potato_chips,Potato Chips
+knitted_cap,Knitted Hat
+sun_cap,Sun Hat
+head_wrap,Head Wrap
+pancakes,Pancakes w/ Syrup
+maple_seed,Maple Tree Seed
+jack_o_lantern,Jack-O-Lantern
+toasted_pumpkin_seeds,Toasted Pumpkin Seeds
+pumpkin_pie,Pumpkin Pie
+pumpkin,Pumpkin
+pumpkin_seeds,Pumpkin Seeds
+red_head_wrap,Red Head Wrap
+orange_head_wrap,Orange head Wrap
+yellow_head_wrap,Yellow Head Wrap
+green_head_wrap,Green  Head Wrap
+ltblue_head_wrap,Light Blue Head Wrap
+dkblue_head_wrap,Dark Blue  Head Wrap
+purple_head_wrap,Purple  Head Wrap
+pink_head_wrap,Pink  Head Wrap
+red_sun_cap,Red Sun Cap
+orange_sun_cap,Orange Sun Cap
+yellow_sun_cap,Yellow Sun Cap
+green_sun_cap,Green Sun Cap
+ltblue_sun_cap,Light Blue Sun Cap
+dkblue_sun_cap,Dark Blue Sun Cap
+purple_sun_cap,Purple Sun Cap
+pink_sun_cap,Pink Sun Cap
+red_knitted_cap,Red Knitted Cap
+orange_knitted_cap,Orange Knitted Cap
+yellow_knitted_cap,Yellow Knitted Cap
+green_knitted_cap,Green Knitted Cap
+ltblue_knitted_cap,Light Blue Knitted Cap
+dkblue_knitted_cap,Dark Blue Knitted Cap
+purple_knitted_cap,Purple Knitted Cap
+pink_knitted_cap,Pink Knitted Cap
+maple,Maple Tree
+corn,Corn Plant
+corncob,Corncob
+roasted_corncob,Roasted Corncob
+corn_seeds,Corn Seeds
+auto_oven,Auto Oven
+automatic_cooking,Used to cook food automatically.
+solar_lamp_post,Solar Lamp Post
+warehouse,Warehouse
+silo,Silo
+potato,Potato
+potato_plant,Potato Plant
+foot_light_small,Small Floor Light
+floor_light_large,Large Floor Light
+tin_plate,Tin Coated Iron Plate
+plate_casting,Plate Casting
+used_for_casting_plates,Used for casting metal plates.
+steel_drill,Electric Drill
+chainsaw,Electric Chainsaw
+cattle_miner,Mining Machine
+cattle_miner_desc,A machine made that utilizes animals mine ore.
+nursery,Tree Nursery
+nursery_desc,A greenhouse where trees are grown and then made into wood.
+tin_plate,A thin plate of metal coated in tin.
+advanced_buildings,Advanced Buildings

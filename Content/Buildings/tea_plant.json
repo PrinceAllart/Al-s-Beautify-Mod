@@ -1,0 +1,81 @@
+{
+  "name_key": "tea_plant",
+  "description_key": "tea_plant",
+  "width": 1,
+  "height": 1,
+  "type": "FarmPlot",
+  "category": "Agriculture",
+  "buildingLaborType": "Plant",
+  "buildingToolType": "Plowing",
+  "animated": false,
+  "rotatable": false,
+  "cloneable": true,
+  "requireBuilding": true,
+  "destructible": false,
+  "constructionTime": 30,
+  "movementSpeed": 75,
+  "plant": {
+    "key": "tea_plant",
+    "growthSpeed": 10,
+    "toolType": "Harvesting",
+    "toolRequired": false,
+    "stages": 6,
+    "variations": 4,
+    "maxStrength": 30,
+    "isFlower": false,
+    "harvestable":
+    {
+      "harvest":
+      [
+        {
+          "item": "tea_leaves",
+          "weight": 1
+        },
+        {
+          "item": "tea_seed",
+          "weight": 1
+        }
+      ],
+      "removeAfterHarvest": true
+    },
+    "texture": 
+    {
+      "name": "tea_plant",
+      "width": 16,
+      "height": 32
+    },
+    "seasonsVariations":
+    {
+      "3": [0],
+      "0": [0],
+      "1": [1,2],
+      "2": [3]
+    }
+  },
+  "texture": {
+    "name": "tea_plant",
+    "width": 16,
+    "height": 32
+  },
+  "walkable_pattern": [
+    [
+      true
+    ]
+  ],
+  "target_pattern": [
+    [
+      false
+    ]
+  ],
+  "ground_pattern": [
+    [
+      "A"
+    ]
+  ],
+  "ingredients": [
+    {
+          "item": "tea_seed",
+          "weight": 1
+        }
+  ]
+}

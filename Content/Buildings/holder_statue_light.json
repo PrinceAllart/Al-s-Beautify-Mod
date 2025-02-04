@@ -1,0 +1,69 @@
+{
+  "name_key": "holder_statue_light",
+  "description_key": "decoration_desc",
+  "width": 1,
+  "height": 1,
+  "type": "Lighter",
+  "category": "Settlement",
+  "animated": false,
+  "rotatable": true,
+  "cloneable": true,
+  "requireBuilding": true,
+  "destructible": true,
+  "movementSpeed": -1,
+  "constructionTime": 10,
+  "lightEmitter": {
+    "radius": 50
+  },
+  "texture": {
+    "name": "holder_statue_light",
+    "width": 30,
+    "height": 30
+  },
+  "walkable_pattern": [
+    [
+      true,
+      true
+    ],
+    [
+      false,
+      false
+    ]
+  ],
+  "target_pattern": [
+    [
+      false,
+      false
+    ],
+    [
+      false,
+      false
+    ]
+  ],
+  "ground_pattern": [
+    [
+      "A",
+      "A"
+    ],
+    [
+      "A",
+      "A"
+    ]
+  ],
+  "ingredients": [
+    {
+      "item": "limestone",
+      "weight": 3
+    },
+    {
+      "item": "glass",
+      "weight": 1
+    }
+  ],
+  "fuelConsumer": {
+    "fuel": [
+      "wood"
+    ],
+    "energy_consumption": 0.01
+  }
+}

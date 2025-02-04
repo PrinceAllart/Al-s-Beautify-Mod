@@ -1,0 +1,801 @@
+key,translation
+language_change_warning,"Пожалуйста, перезапустите игру, чтобы изменения вступили в силу"
+language_name,Русский
+new_game,Новая игра
+resume,Продолжить
+result,Результат
+language,Язык
+load_game,Загрузить игру
+exit_to_desktop,Выйти на рабочий стол
+exit_to_main_menu,Выйти в главное меню
+save,Сохранить
+gather,Собирать
+mine,Добывать
+mine_mine,Шахта
+chop,Срубить
+cut,Срезать
+chop_completely,Срубить полностью
+cut_completely,Срезать полностью
+сhop_automatically,Срубить автоматически
+cut_automatically,Срезать автоматически
+chop_now,Срубить сейчас
+cut_now,Срезать сейчас
+сhop_automatically_description,Автоматически срубить растение после полного произрастания
+сut_automatically_description,Автоматически срезать растение после полного произрастания
+hunt,Охотиться
+cancel,Отменить
+destruct,Разрушить
+stone_tools,Каменные инструменты
+charcoal_kiln,Углевыжигательная печь
+copper_smelting,Выплавка меди
+bronze_smelting,Выплавка бронзы
+iron_smelting,Выплавка железа
+time_machine,Машина времени
+grain_processing,Обработка зерна
+pottery,Гончарное дело
+brewing,Пивоварение
+alcoholic_drinks,Алкогольные напитки
+tanning,Дубление
+animals_domestication,Одомашнивание животных
+cheesemaking,Сыроделие
+oven,Печь
+agriculture,Земледелие
+fertilizing,Удобрение
+weaving,Ткачество
+satiety,Сытость
+energy,Энергия
+health,Здоровье
+age,Возраст
+day,День
+settlers,Поселенцы
+animals,Животные
+wall,Стена
+floor,Пол
+hut,Хижина
+production,Производство
+storage,Хранилище
+level,Уровень
+defense,Защита
+bridge,Мост
+paleolithic,Палеолит
+mesolithic,Мезолит
+neolithic,Неолит
+chalcolithic,Халколит
+bronze_age,Бронзовый век
+iron_age,Железный век
+fuel,Топливо
+burial,Захоронение
+consumption,Потребление
+irrigation,Орошение
+sowing,Посев
+irrigate,Орошать
+fertilize,Удобрять
+technologies,Технологии
+rest,Отдых
+work,Работа
+sleep,Сон
+happiness,Счастье
+nutrition,Питательность
+time,Время
+ingredients,Ингредиенты
+hours,Часов
+felling,Рубка
+gathering,Сбор
+building,Строительство
+farming,Земледелие
+supplying,Доставка
+ranching,Животноводство
+capacity,Вместимость
+resource,Ресурс
+required_technology,Требуемая технология
+ration,Рацион
+growth_speed,Скорость роста
+growth_progress,Прогресс роста
+days,дней
+food_drying,Сушка еды
+fertilizer,Удобрение
+None,None
+spinning,Прядение
+new_settlers_arrived,Прибыли новые поселенцы
+new_technologies_available,Доступны новые технологии
+required,Требуется
+deposit,Залежь
+recipe,Рецепт
+progress,Прогресс
+crafting,Производство
+Pick,Кирка
+copy_settings,Копировать настройки
+value,Цена
+trade,Торговать
+metallurgy,Металлургия
+open,Открыть
+close,Закрыть
+clone,Клонировать
+mechanisms,Механизмы
+experience_points,Очки опыта
+world_settings,Настройки мира
+create,Создать
+back,Назад
+world_with_that_name_already_exists,Мир с таким именем уже существует
+world_name,Наименование мира
+world_size,Размер мира
+cooking,Готовка
+freshness,Свежесть
+durability,Прочность
+season,Сезон
+spoilage_rate,Скорость порчи
+per_day,в день
+soil,Почва
+moisture,Влажность
+plant,Растение
+name,Наименование
+temperature,Температура
+protects_against_low_temperatures,Защищает от низких температур
+priority,Приоритет
+speed,Скорость
+spoiled,Испорчен
+barley,Ячмень
+flax,Лён
+grape_bush,Куст винограда
+oak,Дуб
+pea,Горох
+culinary_ingredients,Кулинарные ингредиенты
+fertilizers,Удобрения
+resources,Ресурсы
+seeds,Семена
+food,Еда
+tools,Инструменты
+clothes,Одежда
+containers,Контейнеры
+summer,Лето
+autumn,Осень
+winter,Зима
+spring,Весна
+woodcutting,Рубка
+mining,Горное дело
+hunting,Охота
+harvesting,Жатва
+planting,Посадка
+plowing,Пашка
+fishing,Рыболовля
+hauling,Переноска
+wooden_cart,Деревянная тележка
+wooden_plow,Деревянная соха
+copper_reaper,Медная жатвенная машина
+copper,Медь
+bronze,Бронза
+iron,Железо
+manure,Навоз
+wood,Древесина
+charcoal,Уголь
+stone,Камень
+clay,Глина
+leather,Кожа
+copper_ore,Медная руда
+tin_ore,Оловянная руда
+iron_ore,Железная руда
+crushed_copper_ore,Дробл. медная руда
+crushed_tin_ore,Дробл. оловянная руда
+crushed_iron_ore,Дробл. железная руда
+fiber,Волокно
+cloth,Ткань
+yarn,Пряжа
+woven_clothing,Тканая одежда
+dry_skin,Сушеная шкура
+raw_skin,Сырая шкура
+mudbrick,Саман
+settler_corpse,Труп поселенца
+stone_sickle,Каменный серп
+copper_sickle,Медный серп
+bronze_sickle,Бронзовый серп
+iron_sickle,Железный серп
+stone_axe,Каменные топор
+copper_axe,Медный топор
+bronze_axe,Бронзовый топор
+iron_axe,Железный топор
+stone_hoe,Каменная мотыга
+copper_hoe,Медная мотыга
+bronze_hoe,Бронзовая мотыга
+iron_hoe,Железная мотыга
+stone_pick,Каменная кирка
+copper_pick,Медная кирка
+bronze_pick,Бронзовая кирка
+iron_pick,Железная кирка
+wooden_spear,Деревянное копье
+stone_spear,Каменное копье
+copper_spear,Медное копье
+bronze_spear,Бронзовое копье
+iron_spear,Железное копье
+wooden_harpoon,Деревянный гарпун
+stone_harpoon,Каменный гарпун
+copper_harpoon,Медный гарпун
+bronze_harpoon,Бронзовый гарпун
+iron_harpoon,Железный гарпун
+sling,Праща
+bow,Лук
+crossbow,Арбалет
+barley_seeds,Семена ячменя
+skins_outfit,Одежда из шкур
+warm_fur_clothes,Теплая меховая одежда
+warm_knitted_clothes,Теплая вязаная одежда
+chainmail,Кольчуга
+leather_outfit,Одежда из кожи
+ceramic_pot,Керамический горшок
+unfired_pot,Необожженный горшок
+pot_of_beer,Кувшин с пивом
+pot_of_wine,Кувшин с вином
+pot_of_mead,Кувшин с медовухой
+pot_of_water,Кувшин с водой
+pot_of_milk,Кувшин с молоком
+flour,Мука
+grape,Виноград
+raisin,Изюм
+raw_meat,Сырое мясо
+dry_fish,Сушеная рыба
+dry_meat,Сушеное мясо
+raw_fish,Сырая рыба
+number_of_fish,Количество рыб
+peas,Горох
+cooked_meat,Жареное мясо
+cooked_fish,Жареная рыба
+flatbread,Лепешка
+cheese,Сыр
+hay,Сено
+mudbrick_hut,Саманная хижина
+bloomery,Сыродутная печь
+used_to_smelting_metals_from_its_ores,Используется для выплавки металлов из руд
+clay_barn,Глиняный амбар
+used_for_storing_resources,Используется для хранения ресурсов
+used_for_coal_production,Используется для производства угля
+clay_deposit,Залежь глины
+clay_hut,Глиняная хижина
+clay_oven,Глиняная печь
+used_for_quick_cooking,Используется для быстрого приготовления пищи
+iron_smithy,Железная кузница
+used_for_forging_iron_tools,Используется для ковки железных инструментов
+copper_deposit,Залежь меди
+crafter,Крафтер
+used_to_create_primitive_tools,Используется для создания примитивных инструментов
+dirt_path,Грунтовая тропинка
+dolmen,Дольмен
+drop_spindle,Веретено
+used_for_spinning_yarn,Используется для прядения пряжи
+farm_plot,Фермерский участок
+used_for_growing_plants,Используется для выращивания растений
+fermenting_pot,Бродильный котел
+used_to_ferment_foods,Используется для ферментирования продуктов
+fishing_place,Место для рыбалки
+used_for_fishing,Используется для ловли рыбы
+fish_trap,Ловушка для рыб
+food_dryer,Сушилка для еды
+used_for_drying_food,Используется для сушки еды
+grave,Могила
+used_to_bury_the_dead,Используется для захоронения умерших
+hearth,Очаг
+used_for_cooking,Используется для приготовления пищи
+iron_deposit,Залежь железа
+kiln,Печь для обжига
+used_for_firing_ceramic_products,Используется для обжига керамических изделий
+warp_weighted_loom,Warp-weighted loom
+used_to_weave_cloth,Используется для изготовления тканей
+mechanical_crusher,Механическая дробилка
+used_to_crushing_resources,Используется для дробления ресурсов
+millstone,Жёрнов
+used_for_quick_grinding_of_grain,Используется для быстрого помола зерна
+used_for_mining,Используется для добычи полезных ископаемых
+mortar_and_pestle,Ступа
+used_to_grinding_and_crushing_resources,Используется для измельчения и дробления ресурсов
+mudbrick_dryer,Сушилка для самана
+used_for_drying_adobe,Используется для сушки самана
+palisade,Частокол
+barn,Хлев
+primitive_animal_dwelling,Примитивное жилище животных
+used_to_cross_water,Используется для пересечения воды
+skin_drying_rack,Сушилка для шкур
+used_for_drying_skins,Используется для сушки шкур
+spinning_wheel,Прялка
+stick_hut,Хижина из палок
+stockpile,Хранилище
+copper_smithy,Медная кузница
+used_for_forging_copper_and_bronze_tools,Используется для ковки медных и бронзовых инструментов
+stone_deposit,Залежь камня
+stone_floor,Каменный пол
+allows_creatures_to_move_faster,Позволяет поселенцам перемещаться быстрее
+primitive_dwelling,Примитивное жилище
+stone_pieces,Кусочки камня
+stone_wall,Каменная стена
+tannery,Дубильня
+used_for_tanning_skins,Используется для дубления шкур
+tin_deposit,Залежь олова
+water_gathering_place,Место сбора воды
+used_to_collect_water,Используется для сбора воды
+well,Колодец
+windmill,Ветряная мельница
+used_for_automated_grinding_of_grain,Используется для автоматического помола зерна
+wooden_gate,Деревянные ворота
+point_of_entry_to_a_space_which_is_enclosed_by_walls,"Проход в стене, запираемый створами"
+wood_pieces,Кусочки дерева
+workshop,Мастерская
+used_to_create_advanced_tools,Используется для создания продвинутых инструментов
+sound_volume,Громкость звука
+accept,Принять
+decline,Отклонить
+tailors_workshop,Мастерская портного
+used_to_make_clothes,Используется для создания одежды
+irrigation_canals,Оросительные каналы
+build_irrigation_canal,Построить оросительный канал
+destruct_irrigation_canal,Разрушить оросительный канал
+melee_damage,Ближний урон
+range_damage,Дальний урон
+recharge_time,Время перезарядки
+tool_type,Тип инструмента
+efficiency,Эффективность
+chance,Шанс
+projectile_speed,Скорость снаряда
+repeat,Повтор
+fishing_rod,Удочка
+source_of_mechanical_energy,Источник механической энергии
+mechanical_millstone,Механический жернов
+energy_consumer,Потребитель энергии
+energy_source,Источник энергии
+connected,Подключен
+disconnected,Отключен
+travel_speed,Скорость перемещения
+beekeeping,Пчеловодство
+wild_bee_hive,Дикий пчелиный улей
+bee_hive,Пчелиный улей
+beeswax,Пчелиный воск
+dandelion,Одуванчик
+pot_of_honey,Кувшин с медом
+honeycomb,Медовые соты
+flowers,Цветы
+base_speed,Базовая скорость
+total_speed,Общая скорость
+honey,Мёд
+bee_hive_description,Производит мед в 2 раза эффективнее дикого улья
+a_wild_bee_hive_has_appeared_near_you,Рядом с вами появился дикий пчелиный улей
+future,Будущее
+game_finished,Игра завершена
+energy_consumption,Потребление энергии
+energy_output,Выработка энергии
+time_machine_description,Устройство для путешествий во времени
+energy_available,Доступная энергия
+return_to_the_future,Вернуться в будущее
+windowed,Оконный режим
+fullscreen,Полноэкранный режим
+open_game_data_folder,Открыть папку с данными игры
+credits,Создатели
+turn_on_music,Включить музыку
+turn_off_music,Выключить музыку
+recipes,Рецепты
+aurochs,Тур
+boar,Кабан
+tarpan,Тарпан
+mouflon,Муфлон
+workers,Рабочие
+knowledge_points,Очки Знаний
+knowledge,Знания
+primitive_school_description,Используется для зарабатывания очков знаний
+skin_tent,Хижина из шкур
+edge_scrolling_camera,Прокрутка камеры по краю экрана
+learning,Обучение
+left_click,Левый клик
+right_click,Правый клик
+enable_all,Разрешить все
+disable_all,Запретить все
+pregnancy,Беременность
+was_killed_by,{0} был убит {1}
+command_line,командная строка
+x_died_of_starvation,{0} умер от голода
+x_died_from_the_cold,{0} умер от холода
+x_died_of_old_age,{0} умер от старости
+domesticate,Приручить
+slaughter,Забить
+animal_male,Самец
+animal_female,Самка
+shelf_life_of_products,Срок хранения продуктов
+food_storage_hut_description,Используется для хранения пищи. Сохраняет пищу свежей в течении длительного времени
+food_storage_hut,Хижина для хранения продуктов
+mammoth,Мамонт
+copy,Копировать
+paste,Вставить
+brick,Кирпич
+the_settlers_are_freezing,Поселенцы замерзают
+the_settlers_are_starving,Поселенцы голодают
+child,Ребенок
+adult,Взрослый
+old,Старый
+animal_pen,Загон для животных
+animal_pen_description,Используется для отдыха и подкормки животных
+animal_filter,Фильтр животных
+the_settlers_are_unhappy,Поселенцы несчастливы
+production_limit,Лимит производства
+repeat_until_production_limits_are_reached,Повторять до установленных лимитов производства
+all,Все
+stored,Хранится
+wolf,Волк
+peaceful_mode,Мирный режим
+a_wild_animal_is_about_to_attack_your_settlement,Дикое животное собирается напасть на ваше поселение!
+weapon,Оружие
+attack,Атаковать
+equip,Экипировать
+come_here,Отправиться сюда
+bone,Кость
+bone_sickle,Костяной серп
+bone_harpoon,Костяной гарпун
+bone_spear,Костяное копье
+bone_tools,Костяные инструменты
+items,Предметы
+wolf_domestication,Одомашнивание волка
+clean_up_manure,Убирать навоз
+cattle,Корова
+horse,Лошадь
+pig,Свинья
+sheep,Овца
+dog,Собака
+brick_floor,Кирпичный пол
+brick_wall,Кирпичная стена
+haystack,Стог сена
+haystack_description,Используется для хранения сена
+disband,Распустить
+automatically_mine_spawned_deposits,Automatically mine spawned deposits
+mine_description,Используется для извлечения залежей из шахт. Спавнит залежи вокруг себя
+shelf_life,Срок хранения
+raisin_buns,Булочка с изюмом
+rename,Переименовать
+wool,Шерсть
+wool_clothing,Шерстяная одежда
+wool_yarn,Шерстяная пряжа
+wool_cloth,Шерстяная ткань
+new_settlers,Новые поселенцы
+duration_x_minutes,Продолжительность: {0} минут
+duration_x_hours,Продолжительность: {0:0.0} часов
+movement_speed,Скорость перемещения
+effects,Эффекты
+herbalist_table,Стол травника
+herbalist_table_description,Используется для создания примитивных лекарств
+food_poisoning_cure,Лекарство от пищевого отравления
+primitive_medicine,Примитивная медицина
+medicine,Медицина
+causes,Вызывает
+cures,Лечит
+productivity,Продуктивность
+wind,Ветер
+calm,Безветренно
+light,Легкий
+moderate,Умеренный
+strong,Сильный
+depends_on_wind_speed,Зависит от скорости ветра
+mudbrick_wall,Саманная стена
+mudbrick_floor,Саманный пол
+torch,Факел
+torch_description,Используется для освещения пространства
+energy_type,Тип энергии
+kinetic,Кинетический
+gas,Газ
+knowledge_table,Стол знаний
+pause,Пауза
+has_joined_your_settlement,{0} присоединился к вашему поселению
+walls,Стены
+wall_description,"Строение, служащее для создания непроходимого заграждения"
+basket,Корзина
+number_of_uses,Кол-во использований
+to_do_the_job_of_x_you_need_tools,Для выполнения работы {0} нужны инструменты
+game_menu,Меню
+food_poisoning,Пищевое отравление
+vomiting,Рвота
+sleeping,Сон
+sleeping_on_the_ground,Сон на земле
+winter_cold,Зимний холод
+warm_clothing,Тёплая одежда
+cozy_hut,Уютная хижина
+cozy_tent,Уютное укрытие
+warm_place,Теплое место
+dirty_animal_pen,Грязный загон
+hunger,Голод
+low_light,Плохая освещенность
+spawn_time,Время спавна
+show_resource_in_the_general_list,Показывать ресурс в общем списке
+rain,Дождь
+stopped_due_to,Остановлен из-за: {0}
+pea_seeds,Семена гороха
+pea_soup,Гороховый суп
+thresher,Молотилка
+thresher_description,"Используется для обмолота растений, чтобы отделить семена от сена"
+sheaf_of_barley,Сноп ячменя
+bunch_of_peas,Связка гороха
+threshing_floor,Гумно
+threshing_floor_description,"Используется для массового обмолота растений 
+животными, чтобы отделить семена от сена"
+noria,Нория
+noria_description,Используется для подъема воды с колодца и направления её по оросительным каналам
+iron_bloom,Крица
+assigned_to,Закреплен за {0}
+assign_to,Закрепить за {0}
+unassign_from,Открепить от {0}
+assign_a_pet,Назначить питомца
+pets,Питомцы
+music_volume,Громкость музыки
+destruct_surface,Разрушить покрытие
+x_got_the_y_effect,{0} получил эффект {1}
+days_until_aging_x,Дней до взросления: {0}
+days_until_death_x,Дней до смерти: {0}
+trading_post,Торговая лавка
+trading,Торговля
+trading_post_assortment_update,Обновился ассортимент торговых лавок!
+buying,Покупка
+selling,Продажа
+trading_post_description,Позволяет покупать и продавать товары. Обновляет свой ассортимент раз в сутки
+mealing_stone,Зернотерка
+mealing_stone_description,Древнейшее приспособление для помола зерна
+animal_fat,Животный жир
+oil_lamp,Масляная лампа
+oil_lamp_description,"Используется для освещения, использует масла и животные жиры как топливо"
+pemmican,Пеммикан
+settlement,Поселение
+side_item,Побочный предмет
+mulberry,Mulberry
+carrot,Carrot
+carrot_seeds,Carrot Seeds
+carrot_wild,Carrot Plant
+lettuce_leaves,Lettuce Leaves
+wineberries,Wineberries
+wineberry_bush,Wineberry Bush
+limestone,Limestone
+limestone_deposit,Limestone Deposit
+lettuce_wild,Lettuce Plant
+lettuce_seeds,Lettuce Seeds
+lamp_post,Lamp Post
+sycamore,Sycamore Tree
+sycamore_pod,Sycamore Seed
+red_beet_seeds,Red beet Seeds
+pine,Pine Tree
+pinecone,Pinecone
+avacado_seed,Avocado Seed
+avacado,Avocado
+avacado_tree,Avocado Tree
+red_beet,Red Beet
+red_beet_plant,Red Beet Plant
+onion,Onion
+onion_seeds,Onion Seeds
+onion_plant,Onion Plant
+lemon_seeds,Lemon Seeds
+tumeric,Tumeric
+tumeric_plant,Tumeric Plant
+lemon,Lemon
+lemon_tree,Lemon Tree
+spinach_plant,Spinach Plant
+spinach,Spinach Leaves
+spinach_seeds,Spinach Seeds
+woad_leaves,Woad Leaves
+woad_plant,Woad Plant
+woad_seeds,Woad Seeds
+red_cabbage,Red Cabbage
+red_cabbage_plant,Red Cabbage Plant
+red_cabbage_seeds,Red Cabbage Seeds
+blueberries,Blueberries
+blueberry_ plant,Blueberry Plant
+blueberry_seeds,Blueberry Seeds
+red_beet_chips,Red beet Chips
+used_to_dye_clothes,Used to dye clothes
+dye_station,Dye Station
+red_tunic,Red Tunic
+pink_tunic,Pink Tunic
+orange_tunic,Orange Tunic
+yellow_tunic,Yellow Tunic
+green_tunic,Green Tunic
+ltblue_tunic,Light Blue Tunic
+dkblue_tunic,Dark Blue Tunic
+purple_tunic,Purple Tunic
+pot_of_vinegar,Pot of Vinegar
+redwood_tree,Redwood Tree
+blueberry_bush,Blueberry Bush
+mulberry_tree,Mulberry Tree
+purple_coat,Purple Coat
+dkblue_coat,Dark Blue Coat
+ltblue_coat,Light Blue Coat
+green_coat,Green Coat
+orange_coat,Orange Coat
+yellow_coat,Yellow Coat
+pink_coat,Pink Coat
+red_coat,Red Coat
+quarry,Quarry
+quarry_description,"Used to gather Stones, Sand, Limestone, and someones Silicon."
+sand,Sand
+silicon,Silicon
+silicon_ingot,Silicon Ingot
+butterfly_bush,Butterfly Bush
+decoration_desc,Used only for decoration.
+farmer_statue,Farmer Statue
+bird_bath,Bird Bath
+joyful_statue,Statue of Joy
+merchant_statue,Merchant Statue
+merchant_statue_desc,The one who brings joy upon arrival.
+fountain,Fountain
+fountain_small,Small Fountain
+stone_ball,Stone Ball Sculpture
+holder_statue_light,Lit Holder Statue
+holder_statue,Holder Statue
+copper_lamp,Copper Lamp
+copper_lamp_post,Copper Lamp on Post
+bronze_lamp,Bronze Lamp
+bronze_lamp_post,Bronze Lamp on Post
+iron_lamp,Iron Lamp
+iron_lamp_post,Iron Lamp on Post
+stone_arch,Stone Archway
+dog_statue,Stone Dog Statue
+limestone_dog_statue,Limestone Dog Statue
+totem,Totem
+timothy_grass,Timothy Grass (Hay)
+timothy_grass_desc,Can be cut to produce animal feed (Hay)
+timothy_grass_seeds,Timothy Grass Seeds
+multiflora_rose_bush,Multiflora Rose Bush
+rose_bush,Rose bush
+dames_rockets,Dame Rocket Flowers
+tulip,Tulip
+star_flower,Star Flower
+wood_flower_wall,Wooden Flower Wall
+stone_flower_wall,Stone Flower Wall
+hedge,Leafy Hedge Wall
+stone_rose_wall,Stone Rose Wall
+brick_flower_wall,Brick Flower Wall
+mudbrick_flower_wall,Mudbright Flower Wall
+brick_rose_wall,Brick Rose Wall
+mudbrick_rose_wall,Midbrick Rose Wall
+wood_rose_wall,Wooden Rose Wall
+wood_butterfly_wall,Wooden Butterfly Flower Wall
+stone_butterfly_wall,Stone Butterfly Flower Wall
+brick_butterfly_wall,Brick Butterfly Flower Wall
+mudbrick_butterfly_wall,Mudbright Butterfly Flower Wall
+chicken,Chicken
+egg,Egg
+sugar,Sugar
+limestone_pillar,Limestone Pillar
+rose_sculpture_large,Rose Sculpture Pillar
+rose_sculpture_small,Small Rose Sculpture Pillar
+fish_cake,Fish Patty
+spinach_quiche,Spinach Quiche
+lemon_square,Lemon Square
+blueberry_tart,Blueberry Tart
+onion_quiche,Onion Quiche
+meat_pie,Meat Pie
+wineberry_pie,Wineberry Pie
+muffin,Muffin
+carving,Decorative Carving
+dwelling,A place to call Home.
+brick_abode,Brick House
+wooden_gate_small,Small Wooden Doors
+wooden_gate_large,Large Wooden Doors
+simple_bed,Simple Bed
+steel_smelting,Steel Smelting
+blast_furnace,Blast Furnace
+steel_ingot,Steel Ingot
+solar_power,Solar Power
+solar_panel,Solar Panel
+charging_station,Charging Station
+used_to_charge_batteries,Used to charge batteries
+empty_battery,Empty Battery
+full_battery,Full Battery
+copper_wire,Copper Wire
+coop,Chicken Coop
+glass,Glass
+used_to_make_glass,Used to make Glass.
+glass_workshop,Glass Workshop
+glass_bottle,Glass Bottle
+source_of_solar_energy,Creates a power source using Solar Energy
+solar_light_desc,Solar Powered Lamp
+plank_floor,Wooden Plank Floor
+used_to_create_tools,Used to Create Advanced Tools
+crafting_desk,Crafting Desk
+sewing_desk,Sewing Desk
+study_desk,Study Desk
+used_to_make_clothes,Used to make Clothes
+used_for_crafting,Used for Crafting Items
+steel_smelting,Steel Smelting
+candle,Candle
+wax,Wax
+honey,Honey
+avacado_oil,Avocado Oil
+candle_maker,Candle Maker
+candle_making,Candle Making
+used_for_crafting_candles,Used for crafting Candles
+advanced_crafting,Advanced Crafting Desks
+candelabra_copper,Copper Candelabra
+candelabra_bronze,Bronze Candelabra
+candelabra_iron,Iron Candelabra
+candelabra_steel,Steel Candelabra
+lemonade,Lemonade
+used_for_cooking,Used for Faster Cooking
+stove_iron,Iron Stove
+brick_oven,Brick Pizza Oven
+food_press,Food Press
+used_to_make_oil,"Used to make Oil, Juices, and Honey"
+used_for_making_pizza,Used for Making Pizza
+tomato,Tomato
+tomato_plant,Tomato Plant
+tomato_seeds,Tomato Seeds
+bell_pepper,Bell Pepper
+bell_pepper_plant,Bell Pepper Plant
+bell_pepper_seeds,Bell Pepper Seeds
+tomato_pizza,Tomato Pizza Pie
+cheese_pizza,Cheese Pizza
+meaty_pizza,Meat Pizza
+veggie_pizza,Vegetable Pizza
+iron_gate,Small Iron Gate
+iron_gate_large,Large Iron Gate
+acorn,Acorn
+tapped_maple,Tapped Maple Tree
+tapped_pine,Tapped Pine Tree
+tapper,Tapper
+maple_sap,Raw Maple Sap
+pine_sap,Raw Pine Sap
+maple_syrup,Maple Syrup
+to_tap_trees,Used to collect sap from a trees.
+tree_tapping,Tree Tapping
+tea_seed,Tea Tree Seed
+tea_leaves,Tea Leaves
+tea_plant,Tea Plant
+black_tea,Black Tea
+tomato_soup,Tomato Soup
+veg_soup,Vegitable Soup
+fried_egg,Fried Egg
+potato_chips,Potato Chips
+knitted_cap,Knitted Hat
+sun_cap,Sun Hat
+head_wrap,Head Wrap
+pancakes,Pancakes w/ Syrup
+maple_seed,Maple Tree Seed
+jack_o_lantern,Jack-O-Lantern
+toasted_pumpkin_seeds,Toasted Pumpkin Seeds
+pumpkin_pie,Pumpkin Pie
+pumpkin,Pumpkin
+pumpkin_seeds,Pumpkin Seeds
+red_head_wrap,Red Head Wrap
+orange_head_wrap,Orange head Wrap
+yellow_head_wrap,Yellow Head Wrap
+green_head_wrap,Green  Head Wrap
+ltblue_head_wrap,Light Blue Head Wrap
+dkblue_head_wrap,Dark Blue  Head Wrap
+purple_head_wrap,Purple  Head Wrap
+pink_head_wrap,Pink  Head Wrap
+red_sun_cap,Red Sun Cap
+orange_sun_cap,Orange Sun Cap
+yellow_sun_cap,Yellow Sun Cap
+green_sun_cap,Green Sun Cap
+ltblue_sun_cap,Light Blue Sun Cap
+dkblue_sun_cap,Dark Blue Sun Cap
+purple_sun_cap,Purple Sun Cap
+pink_sun_cap,Pink Sun Cap
+red_knitted_cap,Red Knitted Cap
+orange_knitted_cap,Orange Knitted Cap
+yellow_knitted_cap,Yellow Knitted Cap
+green_knitted_cap,Green Knitted Cap
+ltblue_knitted_cap,Light Blue Knitted Cap
+dkblue_knitted_cap,Dark Blue Knitted Cap
+purple_knitted_cap,Purple Knitted Cap
+pink_knitted_cap,Pink Knitted Cap
+maple,Maple Tree
+corn,Corn Plant
+corncob,Corncob
+roasted_corncob,Roasted Corncob
+corn_seeds,Corn Seeds
+auto_oven,Auto Oven
+automatic_cooking,Used to cook food automatically.
+solar_lamp_post,Solar Lamp Post
+warehouse,Warehouse
+silo,Silo
+potato,Potato
+potato_plant,Potato Plant
+foot_light_small,Small Floor Light
+floor_light_large,Large Floor Light
+tin_plate,Tin Coated Iron Plate
+plate_casting,Plate Casting
+used_for_casting_plates,Used for casting metal plates.
+steel_drill,Electric Drill
+chainsaw,Electric Chainsaw
+cattle_miner,Mining Machine
+cattle_miner_desc,A machine made that utilizes animals mine ore.
+nursery,Tree Nursery
+nursery_desc,A greenhouse where trees are grown and then made into wood.
+tin_plate,A thin plate of metal coated in tin.
+advanced_buildings,Advanced Buildings

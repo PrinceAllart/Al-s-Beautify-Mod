@@ -1,0 +1,54 @@
+{
+  "name_key": "iron_gate_large",
+  "description_key": "point_of_entry_to_a_space_which_is_enclosed_by_walls",
+  "width": 2,
+  "height": 2,
+  "type": "Gate",
+  "category": "Wall",
+  "animated": true,
+  "rotatable": true,
+  "cloneable": true,
+  "requireBuilding": true,
+  "destructible": true,
+  "movementSpeed": -1,
+  "constructionTime": 50,
+  "texture": {
+    "name": "iron_gate_large",
+    "width": 32,
+    "height": 32
+  },
+  "walkable_pattern": [
+    [
+      true,
+      true
+    ],
+    [
+      true,
+      true
+    ]
+  ],
+  "target_pattern": [
+    [
+      false,
+      false
+    ],
+    [
+      false,
+      false
+    ]
+  ],
+  "ground_pattern": [
+    [
+      "G","G"
+    ],
+    [
+      "G","G"
+    ]
+  ],
+  "ingredients": [
+    {
+      "item": "iron",
+      "weight": 6
+    }
+  ]
+}

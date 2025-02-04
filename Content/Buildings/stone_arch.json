@@ -1,0 +1,77 @@
+{
+  "name_key": "stone_arch",
+  "description_key": "decoration_desc",
+  "width": 1,
+  "height": 3,
+  "type": "None",
+  "category": "Settlement",
+  "animated": false,
+  "rotatable": true,
+  "cloneable": true,
+  "requireBuilding": true,
+  "destructible": true,
+  "movementSpeed": -1,
+  "constructionTime": 50,
+  "texture": {
+    "name": "stone_arch",
+    "width": 48,
+    "height": 48
+  },
+  "walkable_pattern": [
+    [
+      true,
+      true,
+      true
+    ],
+    [
+      true,
+      true,
+      true
+    ],
+    [
+      false,
+      true,
+      false
+    ]
+  ],
+  "target_pattern": [
+    [
+      false,
+      false,
+      false
+    ],
+    [
+      false,
+      false,
+      false
+    ],
+    [
+      false,
+      false,
+      false
+    ]
+  ],
+  "ground_pattern": [
+    [
+      "A",
+      "A",
+      "A"
+    ],
+    [
+      "A",
+      "A",
+      "A"
+    ],
+    [
+      "A",
+      "A",
+      "A"
+    ]
+  ],
+  "ingredients": [
+    {
+      "item": "stone",
+      "weight": 10
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "name_key": "stone_ball",
+  "description_key": "decoration_desc",
+  "width": 1,
+  "height": 1,
+  "type": "None",
+  "category": "Settlement",
+  "animated": false,
+  "rotatable": false,
+  "cloneable": true,
+  "requireBuilding": false,
+  "show_item_on_top": false,
+  "destructible": true,
+  "movementSpeed": -1,
+  "constructionTime": 1,
+  "texture": {
+    "name": "stone_ball",
+    "width": 16,
+    "height": 16
+  },
+  "walkable_pattern": [
+    [
+      true
+    ]
+  ],
+  "target_pattern": [
+    [
+      true
+    ]
+  ],
+  "ground_pattern": [
+    [
+      "A"
+    ]
+  ],
+  "ingredients": [
+    {
+      "item": "stone",
+      "weight": 2
+    }
+  ]
+}

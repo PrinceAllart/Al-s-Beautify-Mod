@@ -1,0 +1,800 @@
+key,translation
+language_change_warning,"Bitte starten Sie das Spiel neu, damit die √Ñnderungen wriksam werden. "
+language_name,Deutsch
+new_game,Neues Spiel
+resume,Fortsetzen
+result,Ergebnis
+language,Sprache
+load_game, Spiel laden
+exit_to_desktop,Zur√ºck zum Desktop
+exit_to_main_menu,Zur√ºck ins Hauptmen√º
+save,Speichern
+gather,Sammeln
+mine,Abbauen
+mine_mine,Bergwerk
+chop, Hacke
+cut, Schneide
+chop_completely,Vollst√§ndig hacken
+cut_completely,Vollst√§ndig schneiden
+—Åhop_automatically,Automatisch hacken
+cut_automatically,Automatisch schneiden
+chop_now,Jetzt hacken
+cut_now,Jetzt schneiden
+—Åhop_automatically_description,Automatisches Hacken der Pflanze nach vollem Wachstum
+—Åut_automatically_description,Automatisches Schneiden der Pflanze nach vollem Wachstum
+hunt,Jagen
+cancel,Abbrechen
+destruct,Zerst√∂ren
+stone_tools,Steinwerkzeuge
+charcoal_kiln,Holzkohleofen
+copper_smelting,Kuper schmelzen
+bronze_smelting,Bronze schmelzen
+iron_smelting,Eisen schmelzen
+time_machine,Zeitmaschine
+grain_processing,Getreideverarbeitung
+pottery,Keramik
+brewing,Brauen
+alcoholic_drinks,Alkoholische Getr√§nke
+tanning,Gerben
+animals_domestication,Domestizierung von Tieren
+cheesemaking,K√§seherstellung
+oven,Ofen
+agriculture,Landwirtschaft
+fertilizing,D√ºngen
+weaving,Weben
+satiety,S√§tigung
+energy,Energie
+health,Gesundheit
+age,Alter
+day,Tag
+settlers,Siedler
+animals,Tiere
+wall,Mauer
+floor,Boden
+hut,H√ºtte
+production,Herstellung
+storage,Lager
+level,Level
+defense,Verteidigung
+bridge,Br√ºcke
+paleolithic,Pal√§olithikum
+mesolithic,Mesolithikum
+neolithic,Neolithikum
+chalcolithic,Chalkolithikum
+bronze_age,Bronzezeit
+iron_age,Eisenzeit
+fuel,Treibstoff
+burial,Beerdigung
+consumption,Verbrauch
+irrigation,Bew√§sserung
+sowing,S√§hen
+irrigate,Bew√§ssern
+fertilize,D√ºngen
+technologies,Technologien
+rest,Ausruhen
+work,Arbeiten
+sleep,Schlafen
+happiness,Freude
+nutrition,N√§hwert
+time,Zeit
+ingredients,Zutaten
+hours,Stunden
+felling,F√§llen
+gathering,Sammeln
+building,Bauen
+farming,Landwirtschaft
+supplying,Versorgung
+ranching,Viehzucht
+capacity,Kapazit√§t
+resource,Ressource
+required_technology,Notwendige Technologie
+ration,Ration
+growth_speed,Wachstumsrate
+growth_progress,Wachstumsfortschritt
+days,Tage
+food_drying,Trocknen von Lebensmitteln
+fertilizer,D√ºnger
+None,None
+spinning,Spinnen
+new_settlers_arrived,Ankuft neuer Siedler
+new_technologies_available,Neue Technologien
+required,Erforderlich
+deposit,Vorkommen
+recipe,Rezept
+progress,Fortschritt
+crafting,Fertigung
+Pick,Spitzhacke
+copy_settings,Einstellungen kopieren
+value,Wert
+trade,Tauschen
+metallurgy,Metallurgie
+open,√ñffnen
+close,Schlie√üen
+clone,Klonen
+mechanisms,Mechanismen
+experience_points,Erfahrungspunkte
+world_settings,Welteinstellungen
+create,Erstellen
+back,Zur√ºck
+world_with_that_name_already_exists,Eine Welt mit diesem Namen existiert bereits
+world_name,Name der Welt
+world_size,Gr√∂√üe der Welt
+cooking,Kochen
+freshness,Frische
+durability,Haltbarkeit
+season,Jahreszeit
+spoilage_rate,Verderblichkeitsrate
+per_day,pro Tag
+soil,Erde
+moisture,Feuchtigkeit
+plant,Pflanze
+name,Name
+temperature,Temperatur
+protects_against_low_temperatures,Sch√ºtzt vor niedrigen Temperaturen
+priority,Priorit√§t
+speed,Geschwindigkeit
+spoiled,Verdorben
+barley,Gerste
+flax,Flachs
+grape_bush,Weinrebe
+oak,Eiche
+pea,Erbsen
+culinary_ingredients,Kulinarische Zutaten
+fertilizers,D√ºnger
+resources,Ressourcen
+seeds,Saatgut
+food,Nahrung
+tools,Werkzeug
+clothes,Kleidung
+containers,Beh√§lter
+summer,Sommer
+autumn,Herbst
+winter,Winter
+spring,Fr√ºhling
+woodcutting,Holzf√§llerarbeit
+mining,Minenarbeit
+hunting,Jagen
+harvesting,Ernten
+planting,Planting
+plowing,Pfl√ºgen
+fishing,Fischen
+hauling,Transportieren
+wooden_cart,Holzkarren
+wooden_plow,H√∂lzerner Pflug
+copper_reaper,Drescher aus Kupfer
+copper,Kupfer
+bronze,Bronze
+iron,Eisen
+manure,G√ºlle
+wood,Holz
+charcoal,Holzkohle
+stone,Stein
+clay,Lehm
+leather,Leder
+copper_ore,Kupfererz
+tin_ore,Zinnerz
+iron_ore,Eisenerz
+crushed_copper_ore,Zerkleinertes Kupfererz
+crushed_tin_ore,Zerkleinertes Zinnerz
+crushed_iron_ore,Zerkleinertes Eisenerz
+fiber,Faser
+cloth,Stoff
+yarn,Garn
+woven_clothing,Gewebte Kleidung
+dry_skin,Trockene Haut
+raw_skin,Rohe Haut
+mudbrick,Lehmziegel
+settler_corpse,Leichnam eines Siedlers
+stone_sickle,Steinsichel
+copper_sickle,Kupfersichel
+bronze_sickle,Bronzesichel
+iron_sickle,Eisensichel
+stone_axe,Steinaxt
+copper_axe,Kupferaxt
+bronze_axe,Bronzeaxt
+iron_axe,Eisenaxt
+stone_hoe,Steinhacke
+copper_hoe,Kupferhacke
+bronze_hoe,Bronzehacke
+iron_hoe,Eisenhacke
+stone_pick,Steinspitzhacke
+copper_pick,Kupferspitzhacke
+bronze_pick,Bronzespitzhacke
+iron_pick,Eisenspitzhacke
+wooden_spear,Holzspeer
+stone_spear,Steinspeer
+copper_spear,Kupferspeer
+bronze_spear,Bronzespeer
+iron_spear,Eisenspeer
+wooden_harpoon,Holzharpune
+stone_harpoon,Steinharpune
+copper_harpoon,Kupferharpune
+bronze_harpoon,Bronzeharpune
+iron_harpoon,Eisenharpune
+sling,Schleuder
+bow,Bogen
+crossbow,Armbrust
+barley_seeds,Gerstensamen
+skins_outfit,Kleidung aus Tierhaut
+warm_fur_clothes,Warme Fellkleidung
+warm_knitted_clothes,Warme Strickkleidung
+chainmail,Kettenhemd
+leather_outfit,Lederkleidung
+ceramic_pot,Keramikkrug
+unfired_pot,Unfired pot
+pot_of_beer,Bierkrug
+pot_of_wine,Weinkrug
+pot_of_mead,Metkrug
+pot_of_water,Wasserkrug
+pot_of_milk,Milchkrug
+flour,Mehl
+grape,Traube
+raisin,Rosine
+raw_meat,Rohes Fleisch
+dry_fish,Trockenfisch
+dry_meat,Trockenfleisch
+raw_fish,Roher Fisch
+number_of_fish,Anzahl Fische
+peas,Erbsen
+cooked_meat,Gekochtes Fleisch
+cooked_fish,Gekochter Fisch
+flatbread,Fladenbrot
+cheese,K√§se
+hay,Heu
+mudbrick_hut,H√ºtte aus Lehmziegeln
+bloomery,Rennofen
+used_to_smelting_metals_from_its_ores,Zum Schmelzen von Metallen aus Erzen
+clay_barn,Scheune aus Lehm
+used_for_storing_resources,Zum Lagern von Ressourcen
+used_for_coal_production,F√ºr die Herstellung von Holzkohle
+clay_deposit,Lehmvorkommen
+clay_hut,H√ºtte aus Lehm
+clay_oven,Lehmofen
+used_for_quick_cooking,Zum schnellen Kochen
+iron_smithy,Eisenschmiede
+used_for_forging_iron_tools,Zum Schmieden von Eisenwerkzeugen
+copper_deposit,Kupfervorkommen
+crafter,Werkbank
+used_to_create_primitive_tools,Zur Herstellung von primitiven Werkzeugen
+dirt_path,Trampelpfad
+dolmen,Dolmen
+drop_spindle,Handspindel
+used_for_spinning_yarn,F√ºr das Spinnen von Garn
+farm_plot,Ackerland
+used_for_growing_plants,F√ºr den Anbau von Pflanzen
+fermenting_pot,G√§rbottich
+used_to_ferment_foods,Zur Fermentierung von Lebensmitteln
+fishing_place,Angelplatz
+used_for_fishing,Zum Fangen von Fischen
+fish_trap,Fischfalle
+food_dryer,Trockengestell
+used_for_drying_food,Zum Konservieren von Lebensmitteln
+grave,Grab
+used_to_bury_the_dead,Zum Beerdigen der Toten
+hearth,Lagerfeuer
+used_for_cooking,Zum Kochen
+iron_deposit,Eisenvorkommen
+kiln,Brennofen
+used_for_firing_ceramic_products,Zum Brennen von Keramik
+warp_weighted_loom,Gewichtswebstuhl
+used_to_weave_cloth,Zum Weben von Kleidung
+mechanical_crusher,Mechanischer Zerkleinerer
+used_to_crushing_resources,Zum Zerkleinern von Ressourcen
+millstone,M√ºhlstein
+used_for_quick_grinding_of_grain,Zum schnellen Mahlen von Getreide
+used_for_mining,Zum Einsatz im Bergbau
+mortar_and_pestle,M√∂rser und St√∂√üel
+used_to_grinding_and_crushing_resources,Zum Mahlen und Zerkleinern von Rohstoffen
+mudbrick_dryer,Lehmziegeltrockner
+used_for_drying_adobe,Zum Trocknen von Lehm
+palisade,Palisade
+barn,Scheune
+primitive_animal_dwelling,Primitive Tierbehausung
+used_to_cross_water,Zum √úberqueren von Wasser
+skin_drying_rack,Trockengestell f√ºr H√§ute
+used_for_drying_skins,Zum Trocknen von H√§uten
+spinning_wheel,Spinnrad
+stick_hut,H√ºtte aus St√∂ckern
+stockpile,Vorratslager
+copper_smithy,Kupferschmiede
+used_for_forging_copper_and_bronze_tools,Zum Schmieden von Werkzeugen aus Kupfer und Bronze
+stone_deposit,Steinvorkommen
+stone_floor,Steinboden
+allows_creatures_to_move_faster,Erlaubt sich schneller fortzubewegen
+primitive_dwelling,Primitive Behausung
+stone_pieces,Kiesel
+stone_wall,Steinmauer
+tannery,Gerberei
+used_for_tanning_skins,Zum Gerben von H√§uten
+tin_deposit,Zinnvorkommen
+water_gathering_place,Wassersammelstelle
+used_to_collect_water,Zum Sammeln von Wasser
+well,Brunnen
+windmill,Windm√ºhle
+used_for_automated_grinding_of_grain,Zum automatischen Mahlen von Getreide
+wooden_gate,Holztor
+point_of_entry_to_a_space_which_is_enclosed_by_walls,Eingang zu einem Bereich
+wood_pieces,St√∂cker
+workshop,Werkstatt
+used_to_create_advanced_tools,Zur Herstellung fortgeschrittener Werkzeuge
+sound_volume,Lautst√§rke
+accept,Annehmen
+decline,Ablehnen
+tailors_workshop,Schneiderwerkbank
+used_to_make_clothes,Zum Herstellen von Kleidung
+irrigation_canals,Bew√§sserungskan√§le
+build_irrigation_canal,Bew√§sserungskanal bauen
+destruct_irrigation_canal,Bew√§sserungskanal zerst√∂ren
+melee_damage,Nahkampfschaden
+range_damage,Fernkampfschaden
+recharge_time,Wiederaufladezeit
+tool_type,Art von Werkzeug
+efficiency,Effizienz
+chance,Chance
+projectile_speed,Projektilgeschwindigkeit
+repeat,Wiederholen
+fishing_rod,Angel
+source_of_mechanical_energy,Quelle mechanischer Energie
+mechanical_millstone,Quelle mechanischer Energie
+energy_consumer,Energieverbraucher
+energy_source,Energiequelle
+connected,Verbunden
+disconnected,Getrennt
+travel_speed,Bewegungsgeschwindigkeit
+beekeeping,Imkerei
+wild_bee_hive,Wilder Bienenstock
+bee_hive,Bienenstock
+beeswax,Bienenwachs
+dandelion,L√∂wenzahn
+pot_of_honey,Honigtopf
+honeycomb,Honigwabe
+flowers,Blumen
+base_speed,Basisgeschwindigkeit
+total_speed,H√∂chstgeschwindigkeit
+honey,Honig
+bee_hive_description,Produziert doppelt so viel Honig wie ein wilder Bienenstock
+a_wild_bee_hive_has_appeared_near_you,Ein wilder Bienenstock ist in der N√§he erschienen
+future,Zukunft
+game_finished,Spiel beendet
+energy_consumption,Energieverbrauch
+energy_output,Energieerzeugung
+time_machine_description,Ger√§t f√ºr Zeitreisen
+energy_available,Verf√ºgbare Energie
+return_to_the_future,Zur√ºck in die Zukunft
+windowed,Fenstermodus
+fullscreen,Vollbild
+open_game_data_folder,Ordner mit Spieldaten √∂ffnen
+credits,Credits
+turn_on_music,Musik ein
+turn_off_music, Musik aus
+recipes,Rezepte
+aurochs,Auerochse
+boar,Wildschwein
+tarpan,Tarpan
+mouflon,Mufflon
+workers,Arbeiter
+knowledge_points,Wissenspunkte
+knowledge,Wissen
+primitive_school_description,Zum Verdienen von Wissenspunkten
+skin_tent,Zelt aus Tierh√§uten
+edge_scrolling_camera,Kamera-Bildlauf am Rand
+learning,Lernen
+left_click,Linksklick
+right_click,Rechtsklick
+enable_all,Alles aktivieren
+disable_all,Alles deaktivieren
+pregnancy,Schwangerschaft
+was_killed_by,{0} verstarb durch {1}
+command_line,Befehlslinie
+x_died_of_starvation,{0} verhungerte
+x_died_from_the_cold,{0} erfror
+x_died_of_old_age,{0} starb am hohen Alter
+domesticate,Domestizieren
+slaughter,Schlachten
+animal_male,M√§nnlich
+animal_female,Weiblich
+shelf_life_of_products,Haltbarkeit von Produkten
+food_storage_hut_description,Zum Lagern von Nahrung
+food_storage_hut,Vorratsh√ºtte
+mammoth,Mammut
+copy,Kopieren 
+paste,Einf√ºgen
+brick,Ziegel
+the_settlers_are_freezing,Die Siedler frieren
+the_settlers_are_starving,Die Siedler hungern
+child,Kind
+adult,Erwachsen
+old,Alt
+animal_pen,Tierpferch
+animal_pen_description,Zum Ausruhen und F√ºttern der Tiere
+animal_filter,Tierfilter
+the_settlers_are_unhappy,Die Siedler sind ungl√ºcklich
+production_limit,Produktionslimit
+repeat_until_production_limits_are_reached,Wiederholen des Vorgangs
+all,Alle
+stored,Gelagert
+wolf,Wolf
+peaceful_mode,Friedlicher Modus
+a_wild_animal_is_about_to_attack_your_settlement,Ein wildes Tier steht im Begriff
+weapon,Waffe
+attack,Anrgiff
+equip,Ausr√ºsten
+come_here,Komm her
+bone,Knochen
+bone_sickle,Knochensichel
+bone_harpoon,Knochenharpune
+bone_spear,Knochenspeer
+bone_tools,Knochenwerkzege
+items,Items
+wolf_domestication,Domestizierung von W√∂lfen
+clean_up_manure,G√ºlle beseitigen
+cattle,Rind
+horse,Pferd
+pig,Schwein
+sheep,Schaf
+dog,Hund
+brick_floor,Ziegelboden
+brick_wall,Ziegelmauer
+haystack,Heuhaufen
+haystack_description,Zum Lagern von Heu
+disband,Aufl√∂sen
+automatically_mine_spawned_deposits,Automatischer Abbau von gespawnten Vorkommen
+mine_description,Wird zum Abbau von Ressourcen aus Minen verwendet. Erzeugt Vorkommen um sich herum
+shelf_life,Haltbarkeit
+raisin_buns,Rosinenbr√∂tchen
+rename,Umbenennen
+wool,Wolle
+wool_clothing,Wollkleidung
+wool_yarn,Wollgarn
+wool_cloth,Wollstoff
+new_settlers,Neue Siedler
+duration_x_minutes,Dauer: {0} Minuten
+duration_x_hours,Duration: {0:0.0} Stunden
+movement_speed,Bewegungsgeschwindigkeit
+effects,Effekte
+herbalist_table,Tisch des Kr√§uterkundlers
+herbalist_table_description,Zur Herstellung primitiver Arzneimittel
+food_poisoning_cure,Heilmittel f√ºr Lebensmittelvergiftung
+primitive_medicine,Primitive Medizin
+medicine,Medizin
+causes,Ursachen
+cures,Heilmittel
+productivity,Produktivit√§t
+wind,Wind
+calm,Calm
+light,Light
+moderate,Moderate
+strong,Strong
+depends_on_wind_speed,Depends on wind speed
+mudbrick_wall,Mudbrick wall
+mudbrick_floor,Mudbrick floor
+torch,Fackel
+torch_description,Used to illuminate a space
+energy_type,Energy type
+kinetic,Kinetic
+gas,Gas
+knowledge_table,Knowledge table
+pause,Pause
+has_joined_your_settlement,{0} has joined your settlement
+walls,Walls
+wall_description,A structure used to create an impassable barrier
+basket,Korb
+number_of_uses,Number of uses
+to_do_the_job_of_x_you_need_tools,To do the job of {0} you need tools
+game_menu,Men√º
+food_poisoning,Food poisoning
+vomiting,Vomiting
+sleeping,Sleeping
+sleeping_on_the_ground,Sleeping on the ground
+winter_cold,Winter cold
+warm_clothing,Warm clothing
+cozy_hut,Cozy hut
+cozy_tent,Cozy tent
+warm_place,Warm place
+dirty_animal_pen,Dirty animal pen
+hunger,Hunger
+low_light,Low light
+spawn_time,Spawn time
+show_resource_in_the_general_list,Show resource in the general list
+rain,Regen
+stopped_due_to,Gestoppt wegen: {0}
+pea_seeds,Erbsensamen
+pea_soup,Erbsensuppe
+thresher,Thresher
+thresher_description,"Wird zum Dreschen von Pflanzen verwendet, um Samen vom Heu zu trennen"
+sheaf_of_barley,Gerste Garbe
+bunch_of_peas,Bunch of peas
+threshing_floor,Tenne
+threshing_floor_description,Wird zum Massendreschen von Tieren verwendet 
+noria,"Pflanzen, um Samen vom Heu zu trennenì"
+noria_description,"Wird verwendet, um Wasser aus einem Brunnen zu heben und es durch Bew√§sserungskan√§le zu leiten"
+iron_bloom,Luppe
+assigned_to,Assigned to {0}
+assign_to,Assign to {0}
+unassign_from,Unassign from {0}
+assign_a_pet,Assign a pet
+pets,Pets
+music_volume,Music volume
+destruct_surface,Destruct surface
+x_got_the_y_effect,{0} bekam den Effekt {1}
+days_until_aging_x,Days until aging: {0}
+days_until_death_x,Days until death: {0}
+trading_post,Handelsposten
+trading,Handel
+trading_post_assortment_update,The assortment of trading posts has been updated!
+buying,Buying
+selling,Selling
+trading_post_description,Allows you to buy and sell goods. Updates its assortment once a day
+mealing_stone,Mahlstein
+mealing_stone_description,Used for processing grain and seeds
+animal_fat,Tierfett
+oil_lamp,√ñllampe
+oil_lamp_description,"Wird zur Beleuchtung verwendet, nutzt √ñle und tierische Fette als Brennstoff"
+pemmican,Pemmikan
+settlement,Siedlung
+side_item,Nebenartikel
+mulberry,Maulbeere
+carrot,Karotte
+carrot_seeds,Karottensamen
+carrot_wild,Karottenpflanze
+lettuce_leaves,Salatbl‰tter
+wineberries,Weinbeeren
+wineberry_bush,Weinbeerstrauch
+limestone,Kalkstein
+limestone_deposit,Kalksteinlagerst‰tte
+lettuce_wild,Salatpflanze
+lettuce_seeds,Salatsamen
+lamp_post,Laternenpfahl
+sycamore,Bergahorn
+sycamore_pod,Bergahornsamen
+red_beet_seeds,Rote-Bete-Samen
+pine,Kiefer
+pinecone,Tannenzapfen
+avacado_seed,Avocadosamen
+avacado,Avocado
+avacado_tree,Avocadobaum
+red_beet,Rote Bete
+red_beet_plant,Rote-Bete-Pflanze
+onion,Zwiebel
+onion_seeds,Zwiebelsamen
+onion_plant,Zwiebelpflanze
+lemon_seeds,Zitronensamen
+tumeric,Kurkuma
+tumeric_plant,Kurkumapflanze
+lemon,Zitrone
+lemon_tree,Zitronenbaum
+spinach_plant,Spinatpflanze
+spinach,Spinatbl‰tter
+spinach_seeds,Spinatsamen
+woad_leaves,Waidbl‰tter
+woad_plant,Waidpflanze
+woad_seeds,Waidsamen
+red_cabbage,Rotkohl
+red_cabbage_plant,Rotkohlpflanze
+red_cabbage_seeds,Rotkohlsamen
+blueberries,Blaubeeren
+blueberry_ plant,Blaubeerpflanze
+blueberry_seeds,Blaubeersamen
+red_beet_chips,Rote-Bete-Chips
+used_to_dye_clothes,Wird zum F‰rben von Kleidung verwendet
+dye_station,F‰rbestation
+red_tunic,Rote Tunika
+pink_tunic,Rosa Tunika
+orange_tunic,Orangefarbene Tunika
+yellow_tunic,Gelbe Tunika
+green_tunic,Gr¸ne Tunika
+ltblue_tunic,Hellblaue Tunika
+dkblue_tunic,Dunkelblaue Tunika
+purple_tunic,Lila Tunika
+pot_of_vinegar,Topf mit Essig
+redwood_tree,Redwood-Baum
+blueberry_bush,Blaubeerstrauch
+mulberry_tree,Maulbeerbaum
+purple_coat,Lila Mantel
+dkblue_coat,Dunkelblauer Mantel
+ltblue_coat,Hellblauer Mantel
+green_coat,Gr¸ner Mantel
+orange_coat,Oranger Mantel
+yellow_coat,Gelber Mantel
+pink_coat,Rosa Mantel
+red_coat,Roter Mantel
+quarry,Steinbruch
+quarry_description,"Wird zum Sammeln von Steinen, Sand, Kalkstein und Silizium verwendet."
+sand,Sand
+silicon,Silizium
+silicon_ingot,Siliziumbarren
+butterfly_bush,Schmetterlingsstrauch
+decoration_desc,Wird nur zur Dekoration verwendet.
+farmer_statue,Bauernstatue
+bird_bath,Vogelbad
+joyful_statue,Statue der Freude
+merchant_statue,H‰ndlerstatue
+merchant_statue_desc,"Derjenige, der bei der Ankunft Freude bereitet."
+fountain,Brunnen
+fountain_small,Kleiner Brunnen
+stone_ball,Steinkugelskulptur
+holder_statue_light,Beleuchtete Halterstatue
+holder_statue,Halterstatue
+copper_lamp,Kupferlampe
+copper_lamp_post,Kupferlampe auf Pfosten
+bronze_lamp,Bronzelampe
+bronze_lamp_post,Bronzelampe auf Pfosten
+iron_lamp,Eisenlampe
+iron_lamp_post,Eisenlampe auf Pfosten
+stone_arch,Steinbogen
+dog_statue,Hundestatue aus Stein
+limestone_dog_statue,Hundestatue aus Kalkstein
+totem,Totem
+timothy_grass,Timothy Grass (Heu)
+timothy_grass_desc,Kann zur Herstellung von Tierfutter (Heu) geschnitten werden
+timothy_grass_seeds,Wiesengrassamen
+multiflora_rose_bush,Multiflora-Rosenstrauch
+rose_bush,Rosenstrauch
+dames_rockets,Dame Rocket Flowers
+tulip,Tulpe
+star_flower,Sternblume
+wood_flower_wall,Blumenwand aus Holz
+stone_flower_wall,Steinblumenmauer
+hedge,Belaubte Heckenwand
+stone_rose_wall,Steinrosenwand
+brick_flower_wall,Backstein-Blumenwand
+mudbrick_flower_wall,Blumenwand aus Lehmziegeln
+brick_rose_wall,Backstein-Rosenwand
+mudbrick_rose_wall,Rosenmauer aus Lehmziegeln
+wood_rose_wall,Hˆlzerne Rosenwand
+wood_butterfly_wall,Hˆlzerne Schmetterlings-Blumenwand
+stone_butterfly_wall,Stein-Schmetterlings-Blumenwand
+brick_butterfly_wall,Backstein-Schmetterlings-Blumenwand
+mudbrick_butterfly_wall,Lehmziegel-Schmetterlings-Blumenwand
+chicken,Huhn
+egg,Ei
+sugar,Zucker
+limestone_pillar,Kalksteins‰ule
+rose_sculpture_large,Rosenskulptur-S‰ule
+rose_sculpture_small,Kleine Rosenskulptur-S‰ule
+fish_cake,Fischpastetchen
+spinach_quiche,Spinat-Quiche
+lemon_square,Zitronenquadrat
+blueberry_tart,Blaubeer-Tarte
+onion_quiche,Zwiebelquiche
+meat_pie,Fleischpastete
+wineberry_pie,Wineberry Pie
+muffin,Weinbeerkuchen
+carving,Dekorative Schnitzerei
+dwelling,"Ein Ort, den man Zuhause nennen kann."
+brick_abode,Backsteinhaus
+wooden_gate_small,Kleine Holzt¸ren
+wooden_gate_large,Groﬂe Holzt¸ren
+simple_bed,Einfaches Bett
+steel_smelting,Stahlschmelze
+blast_furnace,Hochofen
+steel_ingot,Stahlbarren
+solar_power,Solarenergie
+solar_panel,Solarpanel
+charging_station,Ladestation
+used_to_charge_batteries,Wird zum Laden von Batterien verwendet
+empty_battery,Leere Batterie
+full_battery,Volle Batterie
+copper_wire,Kupferdraht
+coop,H¸hnerstall
+glass,Glas
+used_to_make_glass,Wird zur Herstellung von Glas verwendet.
+glass_workshop,Glaswerkstatt
+glass_bottle,Glasflasche
+source_of_solar_energy,Erstellt eine Stromquelle mithilfe von Solarenergie
+solar_light_desc,Solarbetriebene Lampe
+plank_floor,Holzdielenboden
+used_to_create_tools,Wird zum Erstellen erweiterter Tools verwendet
+crafting_desk,Basteltisch
+sewing_desk,N‰htisch
+study_desk,Schreibtisch
+used_to_make_clothes,Wird zur Herstellung von Kleidung verwendet
+used_for_crafting,Wird zum Herstellen von Gegenst‰nden verwendet
+steel_smelting,Stahlschmelze
+candle,Kerze
+wax,Wachs
+honey,Honig
+avacado_oil,Avocadoˆl
+candle_maker,Kerzenmacher
+candle_making,Kerzenherstellung
+used_for_crafting_candles,Wird zur Herstellung von Kerzen verwendet
+advanced_crafting,Fortschrittliche Basteltische
+candelabra_copper,Kupferkandelaber
+candelabra_bronze,Bronzekandelaber
+candelabra_iron,Eisenkandelaber
+candelabra_steel,Kandelaber aus Stahl
+lemonade,Limonade
+used_for_cooking,Wird f¸r schnelleres Kochen verwendet
+stove_iron,Eisenofen
+brick_oven,Gemauerter Pizzaofen
+food_press,Lebensmittelpresse
+used_to_make_oil,"Wird zur Herstellung von ÷l, S‰ften und Honig verwendet"
+used_for_making_pizza,Wird zur Herstellung von Pizza verwendet
+tomato,Tomate
+tomato_plant,Tomatenpflanze
+tomato_seeds,Tomatensamen
+bell_pepper,Paprika
+bell_pepper_plant,Paprikapflanze
+bell_pepper_seeds,Paprikasamen
+tomato_pizza,Tomatenpizzakuchen
+cheese_pizza,K‰sepizza
+meaty_pizza,Fleischpizza
+veggie_pizza,Gem¸sepizza
+iron_gate,Kleines Eisentor
+iron_gate_large,Groﬂes Eisentor
+acorn,Eichel
+tapped_maple,Angezapfter Ahornbaum
+tapped_pine,Angezapfte Kiefer
+tapper,Tapper
+maple_sap,Roher Ahornsaft
+pine_sap,Roher Kiefernsaft
+maple_syrup,Ahornsirup
+to_tap_trees,Wird zum Sammeln von Saft von B‰umen verwendet.
+tree_tapping,Baumklopfen
+tea_seed,Teebaumsamen
+tea_leaves,Teebl‰tter
+tea_plant,Teepflanze
+black_tea,Schwarzer Tee
+tomato_soup,Tomatensuppe
+veg_soup,Gem¸sesuppe
+fried_egg,Spiegelei
+potato_chips,Kartoffelchips
+knitted_cap,Gestrickte M¸tze
+sun_cap,Sonnenhut
+head_wrap,Kopfwickel
+pancakes,Pfannkuchen mit Sirup
+maple_seed,Ahornbaumsamen
+jack_o_lantern,Jack-O-Lantern
+toasted_pumpkin_seeds,Gerˆstete K¸rbiskerne
+pumpkin_pie,K¸rbiskuchen
+pumpkin,K¸rbis
+pumpkin_seeds,K¸rbiskerne
+red_head_wrap,Roter Kopfwickel
+orange_head_wrap,Orangefarbener Kopfwickel
+yellow_head_wrap,Gelber Kopfwickel
+green_head_wrap,Gr¸ner Kopfwickel
+ltblue_head_wrap,Hellblauer Kopfwickel
+dkblue_head_wrap,Dunkelblauer Kopfwickel
+purple_head_wrap,Lila Kopfwickel
+pink_head_wrap,Rosa Kopfwickel
+red_sun_cap,Rote Sonnenkappe
+orange_sun_cap,Orangefarbene Sonnenkappe
+yellow_sun_cap,Gelbe Sonnenkappe
+green_sun_cap,Gr¸ne Sonnenkappe
+ltblue_sun_cap,Hellblaue Sonnenkappe
+dkblue_sun_cap,Dunkelblaue Sonnenkappe
+purple_sun_cap,Lila Sonnenkappe
+pink_sun_cap,Rosa Sonnenkappe
+red_knitted_cap,Rote Strickm¸tze
+orange_knitted_cap,Orangefarbene Strickm¸tze
+yellow_knitted_cap,Gelbe Strickm¸tze
+green_knitted_cap,Gr¸ne Strickm¸tze
+ltblue_knitted_cap,Hellblaue Strickm¸tze
+dkblue_knitted_cap,Dunkelblaue Strickm¸tze
+purple_knitted_cap,Lila Strickm¸tze
+pink_knitted_cap,Rosa Strickm¸tze
+maple,Ahornbaum
+corn,Maispflanze
+corncob,Maiskolben
+roasted_corncob,Gerˆsteter Maiskolben
+corn_seeds,Maissamen
+auto_oven,Automatischer Ofen
+automatic_cooking,Wird zum automatischen Garen von Speisen verwendet.
+solar_lamp_post,Solar-Laternenpfahl
+warehouse,Warehouse
+silo,Silo
+potato,Potato
+potato_plant,Potato Plant
+foot_light_small,Small Floor Light
+floor_light_large,Large Floor Light
+tin_plate,Tin Coated Iron Plate
+plate_casting,Plate Casting
+used_for_casting_plates,Used for casting metal plates.
+steel_drill,Electric Drill
+chainsaw,Electric Chainsaw
+cattle_miner,Mining Machine
+cattle_miner_desc,A machine made that utilizes animals mine ore.
+nursery,Tree Nursery
+nursery_desc,A greenhouse where trees are grown and then made into wood.
+tin_plate,A thin plate of metal coated in tin.
+advanced_buildings,Advanced Buildings

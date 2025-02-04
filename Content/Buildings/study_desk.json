@@ -1,0 +1,187 @@
+{
+  "name_key": "study_desk",
+  "description_key": "primitive_school_description",
+  "width": 2,
+  "height": 1,
+  "type": "Crafter",
+  "category": "Production",
+  "animated": true,
+  "rotatable": false,
+  "cloneable": true,
+  "requireBuilding": true,
+  "destructible": true,
+  "movementSpeed": 50,
+  "constructionTime": 25,
+  "lightEmitter": {
+    "radius": 50
+          },
+  "crafter": {
+    "laborType": "Learning",
+    "autocrafter": false,
+    "recipes": [
+      {
+        "id": 802,
+        "main_item": "knowledge_points",
+        "time": 75,
+        "result": [
+          {
+            "item": "knowledge_points",
+            "weight": 50
+          }
+        ],
+        "ingredients": [
+          {
+            "item": "glass",
+            "weight": 1,
+            "show": false
+          }
+        ]
+      },
+      {
+        "id": 803,
+        "main_item": "knowledge_points",
+        "time": 75,
+        "result": [
+          {
+            "item": "knowledge_points",
+            "weight": 100
+          }
+        ],
+        "ingredients": [
+          {
+            "item": "copper",
+            "weight": 1,
+            "show": false
+          }
+        ]
+      },
+      {
+        "id": 804,
+        "main_item": "knowledge_points",
+        "time": 75,
+        "result": [
+          {
+            "item": "knowledge_points",
+            "weight": 200
+          }
+        ],
+        "ingredients": [
+          {
+            "item": "bronze",
+            "weight": 1,
+            "show": false
+          }
+        ]
+      },
+      {
+        "id": 805,
+        "main_item": "knowledge_points",
+        "time": 75,
+        "result": [
+          {
+            "item": "knowledge_points",
+            "weight": 400
+          }
+        ],
+        "ingredients": [
+          {
+            "item": "iron",
+            "weight": 1,
+            "show": false
+          }
+        ]
+      },
+      {
+        "id": 807,
+        "main_item": "knowledge_points",
+        "time": 75,
+        "result": [
+          {
+            "item": "knowledge_points",
+            "weight": 500
+          }
+        ],
+        "ingredients": [
+          {
+            "item": "steel_ingot",
+            "weight": 1,
+            "show": false
+          }
+        ]
+      },
+      {
+        "id": 808,
+        "main_item": "knowledge_points",
+        "time": 75,
+        "result": [
+          {
+            "item": "knowledge_points",
+            "weight": 600
+          }
+        ],
+        "ingredients": [
+          {
+            "item": "silicon_ingot",
+            "weight": 1,
+            "show": false
+          }
+        ]
+      }
+    ]
+  },
+  "texture": {
+    "name": "study_desk",
+    "width": 32,
+    "height": 32
+  },
+  "walkable_pattern": [
+    [
+      true,
+      true
+    ],
+    [
+      true,
+      true
+    ]
+  ],
+  "target_pattern": [
+    [
+      true,
+      true
+    ],
+    [
+      false,
+      false
+    ]
+  ],
+  "ground_pattern": [
+    [
+      "A",
+      "A"
+    ],
+    [
+      "A",
+      "A"
+    ]
+  ],
+  "ingredients": [
+    {
+      "item": "wood",
+      "weight": 4
+    },
+    {
+      "item": "candle",
+      "weight": 1
+    }
+  ],
+  "fuelConsumer": {
+    "fuel": [
+      "charcoal",
+      "candle",
+      "animal_fat",
+      "dry_manure_fuel",
+      "full_battery"
+    ],
+    "energy_consumption": 0.06
+  }
+}

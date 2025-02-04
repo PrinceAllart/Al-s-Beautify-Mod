@@ -1,0 +1,76 @@
+{
+  "name_key": "corn",
+  "description_key": "corn",
+  "width": 1,
+  "height": 1,
+  "type": "FarmPlot",
+  "category": "Agriculture",
+  "buildingLaborType": "Plant",
+  "buildingToolType": "Plowing",
+  "animated": false,
+  "rotatable": false,
+  "cloneable": true,
+  "requireBuilding": true,
+  "destructible": false,
+  "constructionTime": 30,
+  "movementSpeed": 75,
+  "plant": {
+    "key": "corn",
+    "growthSpeed": 20,
+    "toolType": "Harvesting",
+    "toolRequired": false,
+    "stages": 8,
+    "variations": 3,
+    "maxStrength": 30,
+    "isFlower": false,
+    "harvestable":
+    {
+      "harvest":
+      [
+        {
+          "item": "corncob",
+          "weight": 1
+        },
+        {
+          "item": "corn_seeds",
+          "weight": 1
+        }
+      ],
+      "removeAfterHarvest": true
+    },
+    "texture": 
+    {
+      "name": "corn",
+      "width": 16,
+      "height": 48
+    },
+    "seasonsVariations":
+    {
+      "3": [0],
+      "0": [0],
+      "1": [0,1],
+      "2": [2]
+    }
+  },
+  "texture": {
+    "name": "corn",
+    "width": 16,
+    "height": 48
+  },
+  "walkable_pattern": [
+    [
+      true
+    ]
+  ],
+  "target_pattern": [
+    [
+      false
+    ]
+  ],
+  "ground_pattern": [
+    [
+      "A"
+    ]
+  ],
+  "ingredients": []
+}

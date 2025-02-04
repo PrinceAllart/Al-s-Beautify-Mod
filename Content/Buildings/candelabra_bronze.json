@@ -1,0 +1,57 @@
+{
+  "name_key": "candelabra_bronze",
+  "description_key": "torch_description",
+  "width": 1,
+  "height": 1,
+  "type": "Lighter",
+  "category": "Settlement",
+  "animated": true,
+  "cloneable": true,
+  "rotatable": false,
+  "requireBuilding": true,
+  "destructible": true,
+  "movementSpeed": -1,
+  "constructionTime": 50,
+  "lightEmitter": {
+    "radius": 200
+  },
+  "texture": {
+    "name": "candelabra_bronze",
+    "width": 16,
+    "height": 32
+  },
+  "walkable_pattern": [
+    [
+      true
+    ]
+  ],
+  "target_pattern": [
+    [
+      false
+    ]
+  ],
+  "ground_pattern": [
+    [
+      "A"
+    ]
+  ],
+  "ingredients": [
+    {
+      "item": "bronze",
+      "weight": 2
+    },
+    {
+      "item": "candle",
+      "weight": 4
+    }
+  ],
+  "fuelConsumer": {
+    "fuel": [
+      "charcoal",
+      "animal_fat",
+      "candle",
+      "dry_manure_fuel"
+    ],
+    "energy_consumption": 0.02
+  }
+}

@@ -1,0 +1,1394 @@
+{
+  "name_key": "dye_station",
+  "description_key": "used_to_dye_clothes",
+  "width": 4,
+  "height": 3,
+  "type": "Crafter",
+  "category": "Production",
+  "animated": true,
+  "rotatable": false,
+  "cloneable": true,
+  "requireBuilding": true,
+  "destructible": true,
+  "movementSpeed": 50,
+  "constructionTime": 30,
+  "crafter": {
+    "laborType": "Craft",
+    "autocrafter": true,
+    "recipes": [
+      {
+        "id": 1110,
+        "main_item": "red_tunic",
+        "time": 300,
+        "result": [
+          {
+            "item": "red_tunic",
+            "weight": 1
+          },
+          {
+            "item": "ceramic_pot",
+            "weight": 1
+          }
+        ],
+        "ingredients": [
+          {
+            "item": "pot_of_vinegar",
+            "weight": 1
+          },
+          {
+            "item": "woven_clothing",
+            "weight": 1
+          },
+          {
+            "item": "sycamore_pod",
+            "weight": 4
+          }
+        ]
+      },
+      {
+        "id": 1112,
+        "main_item": "orange_tunic",
+        "time": 300,
+        "result": [
+          {
+            "item": "orange_tunic",
+            "weight": 1
+          },
+          {
+            "item": "ceramic_pot",
+            "weight": 1
+          }
+        ],
+        "ingredients": [
+          {
+            "item": "pot_of_vinegar",
+            "weight": 1
+          },
+          {
+            "item": "woven_clothing",
+            "weight": 1
+          },
+          {
+            "item": "carrot",
+            "weight": 4
+          }
+        ]
+      },
+      {
+        "id": 1113,
+        "main_item": "orange_tunic",
+        "time": 300,
+        "result": [
+          {
+            "item": "orange_tunic",
+            "weight": 1
+          },
+          {
+            "item": "ceramic_pot",
+            "weight": 1
+          }
+        ],
+        "ingredients": [
+          {
+            "item": "pot_of_vinegar",
+            "weight": 1
+          },
+          {
+            "item": "woven_clothing",
+            "weight": 1
+          },
+          {
+            "item": "onion",
+            "weight": 4
+          }
+        ]
+      },
+      {
+        "id": 1114,
+        "main_item": "yellow_tunic",
+        "time": 300,
+        "result": [
+          {
+            "item": "yellow_tunic",
+            "weight": 1
+          },
+          {
+            "item": "ceramic_pot",
+            "weight": 1
+          }
+        ],
+        "ingredients": [
+          {
+            "item": "pot_of_vinegar",
+            "weight": 1
+          },
+          {
+            "item": "woven_clothing",
+            "weight": 1
+          },
+          {
+            "item": "lemon",
+            "weight": 4
+          }
+        ]
+      },
+      {
+        "id": 1116,
+        "main_item": "green_tunic",
+        "time": 300,
+        "result": [
+          {
+            "item": "green_tunic",
+            "weight": 1
+          },
+          {
+            "item": "ceramic_pot",
+            "weight": 1
+          }
+        ],
+        "ingredients": [
+          {
+            "item": "pot_of_vinegar",
+            "weight": 1
+          },
+          {
+            "item": "woven_clothing",
+            "weight": 1
+          },
+          {
+            "item": "spinach",
+            "weight": 4
+          }
+        ]
+      },
+      {
+        "id": 1117,
+        "main_item": "ltblue_tunic",
+        "time": 300,
+        "result": [
+          {
+            "item": "ltblue_tunic",
+            "weight": 1
+          },
+          {
+            "item": "ceramic_pot",
+            "weight": 1
+          }
+        ],
+        "ingredients": [
+          {
+            "item": "pot_of_vinegar",
+            "weight": 1
+          },
+          {
+            "item": "woven_clothing",
+            "weight": 1
+          },
+          {
+            "item": "woad_leaves",
+            "weight": 4
+          }
+        ]
+      },
+      {
+        "id": 1118,
+        "main_item": "dkblue_tunic",
+        "time": 300,
+        "result": [
+          {
+            "item": "dkblue_tunic",
+            "weight": 1
+          },
+          {
+            "item": "ceramic_pot",
+            "weight": 1
+          }
+        ],
+        "ingredients": [
+          {
+            "item": "pot_of_vinegar",
+            "weight": 1
+          },
+          {
+            "item": "woven_clothing",
+            "weight": 1
+          },
+          {
+            "item": "blueberries",
+            "weight": 4
+          }
+        ]
+      },
+      {
+        "id": 1119,
+        "main_item": "purple_tunic",
+        "time": 300,
+        "result": [
+          {
+            "item": "purple_tunic",
+            "weight": 1
+          },
+          {
+            "item": "ceramic_pot",
+            "weight": 1
+          }
+        ],
+        "ingredients": [
+          {
+            "item": "pot_of_vinegar",
+            "weight": 1
+          },
+          {
+            "item": "woven_clothing",
+            "weight": 1
+          },
+          {
+            "item": "blueberries",
+            "weight": 4
+          }
+        ]
+      },
+      {
+        "id": 1121,
+        "main_item": "pink_tunic",
+        "time": 300,
+        "result": [
+          {
+            "item": "pink_tunic",
+            "weight": 1
+          },
+          {
+            "item": "ceramic_pot",
+            "weight": 1
+          }
+        ],
+        "ingredients": [
+          {
+            "item": "pot_of_vinegar",
+            "weight": 1
+          },
+          {
+            "item": "woven_clothing",
+            "weight": 1
+          },
+          {
+            "item": "avacado_seed",
+            "weight": 4
+          }
+        ]
+      },
+      {
+        "id": 1123,
+        "main_item": "red_coat",
+        "time": 300,
+        "result": [
+          {
+            "item": "red_coat",
+            "weight": 1
+          },
+          {
+            "item": "ceramic_pot",
+            "weight": 1
+          }
+        ],
+        "ingredients": [
+          {
+            "item": "pot_of_vinegar",
+            "weight": 1
+          },
+          {
+            "item": "woven_cape",
+            "weight": 1
+          },
+          {
+            "item": "sycamore_pod",
+            "weight": 4
+          }
+        ]
+      },
+      {
+        "id": 1125,
+        "main_item": "orange_coat",
+        "time": 300,
+        "result": [
+          {
+            "item": "orange_coat",
+            "weight": 1
+          },
+          {
+            "item": "ceramic_pot",
+            "weight": 1
+          }
+        ],
+        "ingredients": [
+          {
+            "item": "pot_of_vinegar",
+            "weight": 1
+          },
+          {
+            "item": "woven_cape",
+            "weight": 1
+          },
+          {
+            "item": "carrot",
+            "weight": 4
+          }
+        ]
+      },
+      {
+        "id": 1126,
+        "main_item": "orange_coat",
+        "time": 300,
+        "result": [
+          {
+            "item": "orange_coat",
+            "weight": 1
+          },
+          {
+            "item": "ceramic_pot",
+            "weight": 1
+          }
+        ],
+        "ingredients": [
+          {
+            "item": "pot_of_vinegar",
+            "weight": 1
+          },
+          {
+            "item": "woven_cape",
+            "weight": 1
+          },
+          {
+            "item": "onion",
+            "weight": 4
+          }
+        ]
+      },
+      {
+        "id": 1127,
+        "main_item": "yellow_coat",
+        "time": 300,
+        "result": [
+          {
+            "item": "yellow_coat",
+            "weight": 1
+          },
+          {
+            "item": "ceramic_pot",
+            "weight": 1
+          }
+        ],
+        "ingredients": [
+          {
+            "item": "pot_of_vinegar",
+            "weight": 1
+          },
+          {
+            "item": "woven_cape",
+            "weight": 1
+          },
+          {
+            "item": "lemon",
+            "weight": 4
+          }
+        ]
+      },
+      {
+        "id": 1129,
+        "main_item": "green_coat",
+        "time": 300,
+        "result": [
+          {
+            "item": "green_coat",
+            "weight": 1
+          },
+          {
+            "item": "ceramic_pot",
+            "weight": 1
+          }
+        ],
+        "ingredients": [
+          {
+            "item": "pot_of_vinegar",
+            "weight": 1
+          },
+          {
+            "item": "woven_cape",
+            "weight": 1
+          },
+          {
+            "item": "spinach",
+            "weight": 4
+          }
+        ]
+      },
+      {
+        "id": 1130,
+        "main_item": "ltblue_coat",
+        "time": 300,
+        "result": [
+          {
+            "item": "ltblue_coat",
+            "weight": 1
+          },
+          {
+            "item": "ceramic_pot",
+            "weight": 1
+          }
+        ],
+        "ingredients": [
+          {
+            "item": "pot_of_vinegar",
+            "weight": 1
+          },
+          {
+            "item": "woven_cape",
+            "weight": 1
+          },
+          {
+            "item": "woad_leaves",
+            "weight": 4
+          }
+        ]
+      },
+      {
+        "id": 1131,
+        "main_item": "dkblue_coat",
+        "time": 300,
+        "result": [
+          {
+            "item": "dkblue_coat",
+            "weight": 1
+          },
+          {
+            "item": "ceramic_pot",
+            "weight": 1
+          }
+        ],
+        "ingredients": [
+          {
+            "item": "pot_of_vinegar",
+            "weight": 1
+          },
+          {
+            "item": "woven_cape",
+            "weight": 1
+          },
+          {
+            "item": "blueberries",
+            "weight": 4
+          }
+        ]
+      },
+      {
+        "id": 1132,
+        "main_item": "purple_coat",
+        "time": 300,
+        "result": [
+          {
+            "item": "purple_coat",
+            "weight": 1
+          },
+          {
+            "item": "ceramic_pot",
+            "weight": 1
+          }
+        ],
+        "ingredients": [
+          {
+            "item": "pot_of_vinegar",
+            "weight": 1
+          },
+          {
+            "item": "woven_cape",
+            "weight": 1
+          },
+          {
+            "item": "blueberries",
+            "weight": 4
+          }
+        ]
+      },
+      {
+        "id": 1134,
+        "main_item": "pink_coat",
+        "time": 300,
+        "result": [
+          {
+            "item": "pink_coat",
+            "weight": 1
+          },
+          {
+            "item": "ceramic_pot",
+            "weight": 1
+          }
+        ],
+        "ingredients": [
+          {
+            "item": "pot_of_vinegar",
+            "weight": 1
+          },
+          {
+            "item": "woven_cape",
+            "weight": 1
+          },
+          {
+            "item": "avacado_seed",
+            "weight": 4
+          }
+        ]
+      },
+      {
+        "id": 1136,
+        "main_item": "pink_sun_cap",
+        "time": 100,
+        "result": [
+          {
+            "item": "pink_sun_cap",
+            "weight": 1
+          },
+          {
+            "item": "ceramic_pot",
+            "weight": 1
+          }
+
+        ],
+        "ingredients": [
+          {
+            "item": "pot_of_vinegar",
+            "weight": 1
+          },
+          {
+            "item": "sun_cap",
+            "weight": 1
+          },
+          {
+            "item": "avacado_seed",
+            "weight": 2
+          }
+        ]
+      },
+      {
+        "id": 1138,
+        "main_item": "red_sun_cap",
+        "time": 100,
+        "result": [
+          {
+            "item": "red_sun_cap",
+            "weight": 1
+          },
+          {
+            "item": "ceramic_pot",
+            "weight": 1
+          }
+        ],
+        "ingredients": [
+          {
+            "item": "pot_of_vinegar",
+            "weight": 1
+          },
+          {
+            "item": "sun_cap",
+            "weight": 1
+          },
+          {
+            "item": "sycamore_pod",
+            "weight": 2
+          }
+        ]
+      },
+      {
+        "id": 1139,
+        "main_item": "orange_sun_cap",
+        "time": 100,
+        "result": [
+          {
+            "item": "orange_sun_cap",
+            "weight": 1
+          },
+          {
+            "item": "ceramic_pot",
+            "weight": 1
+          }
+        ],
+        "ingredients": [
+          {
+            "item": "pot_of_vinegar",
+            "weight": 1
+          },
+          {
+            "item": "sun_cap",
+            "weight": 1
+          },
+          {
+            "item": "carrot",
+            "weight": 2
+          }
+        ]
+      },
+      {
+        "id": 1140,
+        "main_item": "orange_sun_cap",
+        "time": 100,
+        "result": [
+          {
+            "item": "orange_sun_cap",
+            "weight": 1
+          },
+          {
+            "item": "ceramic_pot",
+            "weight": 1
+          }
+        ],
+        "ingredients": [
+          {
+            "item": "pot_of_vinegar",
+            "weight": 1
+          },
+          {
+            "item": "sun_cap",
+            "weight": 1
+          },
+          {
+            "item": "onion",
+            "weight": 4
+          }
+        ]
+      },
+      {
+        "id": 1141,
+        "main_item": "yellow_sun_cap",
+        "time": 100,
+        "result": [
+          {
+            "item": "yellow_sun_cap",
+            "weight": 1
+          },
+          {
+            "item": "ceramic_pot",
+            "weight": 1
+          }
+        ],
+        "ingredients": [
+          {
+            "item": "pot_of_vinegar",
+            "weight": 1
+          },
+          {
+            "item": "sun_cap",
+            "weight": 1
+          },
+          {
+            "item": "lemon",
+            "weight": 2
+          }
+        ]
+      },
+      {
+        "id": 1143,
+        "main_item": "green_sun_cap",
+        "time": 100,
+        "result": [
+          {
+            "item": "green_sun_cap",
+            "weight": 1
+          },
+          {
+            "item": "ceramic_pot",
+            "weight": 1
+          }
+        ],
+        "ingredients": [
+          {
+            "item": "pot_of_vinegar",
+            "weight": 1
+          },
+          {
+            "item": "sun_cap",
+            "weight": 1
+          },
+          {
+            "item": "spinach",
+            "weight": 2
+          }
+        ]
+      },
+      {
+        "id": 1144,
+        "main_item": "ltblue_sun_cap",
+        "time": 100,
+        "result": [
+          {
+            "item": "ltblue_sun_cap",
+            "weight": 1
+          },
+          {
+            "item": "ceramic_pot",
+            "weight": 1
+          }
+        ],
+        "ingredients": [
+          {
+            "item": "pot_of_vinegar",
+            "weight": 1
+          },
+          {
+            "item": "sun_cap",
+            "weight": 1
+          },
+          {
+            "item": "woad_leaves",
+            "weight": 2
+          }
+        ]
+      },
+      {
+        "id": 1145,
+        "main_item": "dkblue_sun_cap",
+        "time": 100,
+        "result": [
+          {
+            "item": "dkblue_sun_cap",
+            "weight": 1
+          },
+          {
+            "item": "ceramic_pot",
+            "weight": 1
+          }
+        ],
+        "ingredients": [
+          {
+            "item": "pot_of_vinegar",
+            "weight": 1
+          },
+          {
+            "item": "sun_cap",
+            "weight": 1
+          },
+          {
+            "item": "blueberries",
+            "weight": 2
+          }
+        ]
+      },
+      {
+        "id": 1146,
+        "main_item": "purple_sun_cap",
+        "time": 100,
+        "result": [
+          {
+            "item": "purple_sun_cap",
+            "weight": 1
+          },
+          {
+            "item": "ceramic_pot",
+            "weight": 1
+          }
+        ],
+        "ingredients": [
+          {
+            "item": "pot_of_vinegar",
+            "weight": 1
+          },
+          {
+            "item": "sun_cap",
+            "weight": 1
+          },
+          {
+            "item": "blueberries",
+            "weight": 4
+          }
+        ]
+      },
+      {
+        "id": 1148,
+        "main_item": "pink_knitted_cap",
+        "time": 100,
+        "result": [
+          {
+            "item": "pink_knitted_cap",
+            "weight": 1
+          },
+          {
+            "item": "ceramic_pot",
+            "weight": 1
+          }
+
+        ],
+        "ingredients": [
+          {
+            "item": "pot_of_vinegar",
+            "weight": 1
+          },
+          {
+            "item": "knitted_cap",
+            "weight": 1
+          },
+          {
+            "item": "avacado_seed",
+            "weight": 2
+          }
+        ]
+      },
+      {
+        "id": 1150,
+        "main_item": "red_knitted_cap",
+        "time": 100,
+        "result": [
+          {
+            "item": "red_knitted_cap",
+            "weight": 1
+          },
+          {
+            "item": "ceramic_pot",
+            "weight": 1
+          }
+        ],
+        "ingredients": [
+          {
+            "item": "pot_of_vinegar",
+            "weight": 1
+          },
+          {
+            "item": "knitted_cap",
+            "weight": 1
+          },
+          {
+            "item": "sycamore_pod",
+            "weight": 4
+          }
+        ]
+      },
+      {
+        "id": 1151,
+        "main_item": "orange_knitted_cap",
+        "time": 100,
+        "result": [
+          {
+            "item": "orange_knitted_cap",
+            "weight": 1
+          },
+          {
+            "item": "ceramic_pot",
+            "weight": 1
+          }
+        ],
+        "ingredients": [
+          {
+            "item": "pot_of_vinegar",
+            "weight": 1
+          },
+          {
+            "item": "knitted_cap",
+            "weight": 1
+          },
+          {
+            "item": "carrot",
+            "weight": 2
+          }
+        ]
+      },
+      {
+        "id": 1152,
+        "main_item": "orange_knitted_cap",
+        "time": 100,
+        "result": [
+          {
+            "item": "orange_knitted_cap",
+            "weight": 1
+          },
+          {
+            "item": "ceramic_pot",
+            "weight": 1
+          }
+        ],
+        "ingredients": [
+          {
+            "item": "pot_of_vinegar",
+            "weight": 1
+          },
+          {
+            "item": "knitted_cap",
+            "weight": 1
+          },
+          {
+            "item": "onion",
+            "weight": 4
+          }
+        ]
+      },
+      {
+        "id": 1153,
+        "main_item": "yellow_knitted_cap",
+        "time": 100,
+        "result": [
+          {
+            "item": "yellow_knitted_cap",
+            "weight": 1
+          },
+          {
+            "item": "ceramic_pot",
+            "weight": 1
+          }
+        ],
+        "ingredients": [
+          {
+            "item": "pot_of_vinegar",
+            "weight": 1
+          },
+          {
+            "item": "knitted_cap",
+            "weight": 1
+          },
+          {
+            "item": "lemon",
+            "weight": 2
+          }
+        ]
+      },
+      {
+        "id": 1155,
+        "main_item": "green_knitted_cap",
+        "time": 100,
+        "result": [
+          {
+            "item": "green_knitted_cap",
+            "weight": 1
+          },
+          {
+            "item": "ceramic_pot",
+            "weight": 1
+          }
+        ],
+        "ingredients": [
+          {
+            "item": "pot_of_vinegar",
+            "weight": 1
+          },
+          {
+            "item": "knitted_cap",
+            "weight": 1
+          },
+          {
+            "item": "spinach",
+            "weight": 2
+          }
+        ]
+      },
+      {
+        "id": 1156,
+        "main_item": "ltblue_knitted_cap",
+        "time": 100,
+        "result": [
+          {
+            "item": "ltblue_knitted_cap",
+            "weight": 1
+          },
+          {
+            "item": "ceramic_pot",
+            "weight": 1
+          }
+        ],
+        "ingredients": [
+          {
+            "item": "pot_of_vinegar",
+            "weight": 1
+          },
+          {
+            "item": "knitted_cap",
+            "weight": 1
+          },
+          {
+            "item": "woad_leaves",
+            "weight": 2
+          }
+        ]
+      },
+      {
+        "id": 1157,
+        "main_item": "dkblue_knitted_cap",
+        "time": 100,
+        "result": [
+          {
+            "item": "dkblue_knitted_cap",
+            "weight": 1
+          },
+          {
+            "item": "ceramic_pot",
+            "weight": 1
+          }
+        ],
+        "ingredients": [
+          {
+            "item": "pot_of_vinegar",
+            "weight": 1
+          },
+          {
+            "item": "knitted_cap",
+            "weight": 1
+          },
+          {
+            "item": "blueberries",
+            "weight": 2
+          }
+        ]
+      },
+      {
+        "id": 1158,
+        "main_item": "purple_knitted_cap",
+        "time": 100,
+        "result": [
+          {
+            "item": "purple_knitted_cap",
+            "weight": 1
+          },
+          {
+            "item": "ceramic_pot",
+            "weight": 1
+          }
+        ],
+        "ingredients": [
+          {
+            "item": "pot_of_vinegar",
+            "weight": 1
+          },
+          {
+            "item": "knitted_cap",
+            "weight": 1
+          },
+          {
+            "item": "blueberries",
+            "weight": 4
+          }
+        ]
+      },
+      {
+        "id": 1160,
+        "main_item": "pink_head_wrap",
+        "time": 100,
+        "result": [
+          {
+            "item": "pink_head_wrap",
+            "weight": 1
+          },
+          {
+            "item": "ceramic_pot",
+            "weight": 1
+          }
+
+        ],
+        "ingredients": [
+          {
+            "item": "pot_of_vinegar",
+            "weight": 1
+          },
+          {
+            "item": "head_wrap",
+            "weight": 1
+          },
+          {
+            "item": "avacado_seed",
+            "weight": 2
+          }
+        ]
+      },
+      {
+        "id": 1162,
+        "main_item": "red_head_wrap",
+        "time": 100,
+        "result": [
+          {
+            "item": "red_head_wrap",
+            "weight": 1
+          },
+          {
+            "item": "ceramic_pot",
+            "weight": 1
+          }
+        ],
+        "ingredients": [
+          {
+            "item": "pot_of_vinegar",
+            "weight": 1
+          },
+          {
+            "item": "head_wrap",
+            "weight": 1
+          },
+          {
+            "item": "sycamore_pod",
+            "weight": 4
+          }
+        ]
+      },
+      {
+        "id": 1163,
+        "main_item": "orange_head_wrap",
+        "time": 100,
+        "result": [
+          {
+            "item": "orange_head_wrap",
+            "weight": 1
+          },
+          {
+            "item": "ceramic_pot",
+            "weight": 1
+          }
+        ],
+        "ingredients": [
+          {
+            "item": "pot_of_vinegar",
+            "weight": 1
+          },
+          {
+            "item": "head_wrap",
+            "weight": 1
+          },
+          {
+            "item": "carrot",
+            "weight": 2
+          }
+        ]
+      },
+      {
+        "id": 1164,
+        "main_item": "orange_head_wrap",
+        "time": 100,
+        "result": [
+          {
+            "item": "orange_head_wrap",
+            "weight": 1
+          },
+          {
+            "item": "ceramic_pot",
+            "weight": 1
+          }
+        ],
+        "ingredients": [
+          {
+            "item": "pot_of_vinegar",
+            "weight": 1
+          },
+          {
+            "item": "head_wrap",
+            "weight": 1
+          },
+          {
+            "item": "onion",
+            "weight": 4
+          }
+        ]
+      },
+      {
+        "id": 1165,
+        "main_item": "yellow_head_wrap",
+        "time": 100,
+        "result": [
+          {
+            "item": "yellow_head_wrap",
+            "weight": 1
+          },
+          {
+            "item": "ceramic_pot",
+            "weight": 1
+          }
+        ],
+        "ingredients": [
+          {
+            "item": "pot_of_vinegar",
+            "weight": 1
+          },
+          {
+            "item": "head_wrap",
+            "weight": 1
+          },
+          {
+            "item": "lemon",
+            "weight": 2
+          }
+        ]
+      },
+      {
+        "id": 1167,
+        "main_item": "green_head_wrap",
+        "time": 100,
+        "result": [
+          {
+            "item": "green_head_wrap",
+            "weight": 1
+          },
+          {
+            "item": "ceramic_pot",
+            "weight": 1
+          }
+        ],
+        "ingredients": [
+          {
+            "item": "pot_of_vinegar",
+            "weight": 1
+          },
+          {
+            "item": "head_wrap",
+            "weight": 1
+          },
+          {
+            "item": "spinach",
+            "weight": 2
+          }
+        ]
+      },
+      {
+        "id": 1168,
+        "main_item": "ltblue_head_wrap",
+        "time": 100,
+        "result": [
+          {
+            "item": "ltblue_head_wrap",
+            "weight": 1
+          },
+          {
+            "item": "ceramic_pot",
+            "weight": 1
+          }
+        ],
+        "ingredients": [
+          {
+            "item": "pot_of_vinegar",
+            "weight": 1
+          },
+          {
+            "item": "head_wrap",
+            "weight": 1
+          },
+          {
+            "item": "woad_leaves",
+            "weight": 2
+          }
+        ]
+      },
+      {
+        "id": 1169,
+        "main_item": "dkblue_head_wrap",
+        "time": 100,
+        "result": [
+          {
+            "item": "dkblue_head_wrap",
+            "weight": 1
+          },
+          {
+            "item": "ceramic_pot",
+            "weight": 1
+          }
+        ],
+        "ingredients": [
+          {
+            "item": "pot_of_vinegar",
+            "weight": 1
+          },
+          {
+            "item": "head_wrap",
+            "weight": 1
+          },
+          {
+            "item": "blueberries",
+            "weight": 2
+          }
+        ]
+      },
+      {
+        "id": 1170,
+        "main_item": "purple_head_wrap",
+        "time": 100,
+        "result": [
+          {
+            "item": "purple_head_wrap",
+            "weight": 1
+          },
+          {
+            "item": "ceramic_pot",
+            "weight": 1
+          }
+        ],
+        "ingredients": [
+          {
+            "item": "pot_of_vinegar",
+            "weight": 1
+          },
+          {
+            "item": "head_wrap",
+            "weight": 1
+          },
+          {
+            "item": "blueberries",
+            "weight": 4
+          }
+        ]
+      }
+    ]
+  },
+  "texture": {
+    "name": "dye_station",
+    "width": 64,
+    "height": 64
+  },
+  "walkable_pattern": [
+    [
+      true,
+      true,
+      true,
+      true
+    ],
+    [
+      true,
+      true,
+      true,
+      true
+    ],
+    [
+      true,
+      true,
+      true,
+      true
+    ]
+  ],
+  "target_pattern": [
+    [
+      false,
+      false,
+      false,
+      false
+    ],
+    [
+      false,
+      true,
+      true,
+      false
+    ],
+    [
+      false,
+      false,
+      false,
+      false
+    ]
+  ],
+  "ground_pattern": [
+    [
+      "A",
+      "A",
+      "A",
+      "A"
+    ],
+    [
+      "A",
+      "A",
+      "A",
+      "A"
+    ],
+    [
+      "A",
+      "A",
+      "A",
+      "A"
+    ]
+  ]
+}

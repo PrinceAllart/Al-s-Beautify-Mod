@@ -1,0 +1,62 @@
+{
+  "name_key": "star_flower",
+  "description_key": "star_flower",
+  "width": 1,
+  "height": 1,
+  "type": "FarmPlot",
+  "category": "Agriculture",
+  "buildingLaborType": "Plant",
+  "buildingToolType": "Plowing",
+  "animated": true,
+  "rotatable": false,
+  "cloneable": true,
+  "requireBuilding": true,
+  "destructible": false,
+  "constructionTime": 30,
+  "movementSpeed": 10,
+  "plant": {
+    "key": "star_flower",
+    "growthSpeed": 20,
+    "toolType": "Harvesting",
+    "toolRequired": false,
+    "maxStrength": 30,
+    "isFlower": true,
+    "harvestable": null,
+    "stages": 4,
+    "variations": 4,
+    "texture": 
+    {
+      "name": "star_flower",
+      "width": 20,
+      "height": 20
+    },
+    "seasonsVariations":
+    {
+      "3": [0,1],
+      "0": [0,1],
+      "1": [2,3],
+      "2": [2,3]
+    }
+  },
+  "texture": {
+    "name": "star_flower",
+    "width": 20,
+    "height": 20
+  },
+  "walkable_pattern": [
+    [
+      true
+    ]
+  ],
+  "target_pattern": [
+    [
+      false
+    ]
+  ],
+  "ground_pattern": [
+    [
+      "A"
+    ]
+  ],
+  "ingredients": []
+}

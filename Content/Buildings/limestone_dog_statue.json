@@ -1,0 +1,60 @@
+{
+  "name_key": "limestone_dog_statue",
+  "description_key": "decoration_desc",
+  "width": 1,
+  "height": 2,
+  "type": "None",
+  "category": "Settlement",
+  "animated": false,
+  "rotatable": true,
+  "cloneable": true,
+  "requireBuilding": true,
+  "destructible": true,
+  "movementSpeed": -1,
+  "constructionTime": 50,
+  "texture": {
+    "name": "limestone_dog_statue",
+    "width": 25,
+    "height": 25
+  },
+  "walkable_pattern": [
+    [
+      true,
+      true
+    ],
+    [
+      false,
+      false
+    ]
+  ],
+  "target_pattern": [
+    [
+      false,
+      false
+    ],
+    [
+      false,
+      false
+    ]
+  ],
+  "ground_pattern": [
+    [
+      "A",
+      "A"
+    ],
+    [
+      "A",
+      "A"
+    ]
+  ],
+  "ingredients": [
+    {
+      "item": "limestone",
+      "weight": 2
+    },
+    {
+      "item": "stone",
+      "weight": 2
+    }    
+  ]
+}

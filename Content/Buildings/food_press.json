@@ -1,0 +1,138 @@
+{
+   "name_key": "food_press",
+   "description_key": "used_to_make_oil",
+   "width": 1,
+   "height": 1,
+   "type": "Crafter",
+   "category": "Food",
+   "animated": true,
+   "rotatable": false,
+   "cloneable": true,
+   "requireBuilding": true,
+   "destructible": true,
+   "movementSpeed": 50,
+   "constructionTime": 10,
+   "crafter": {
+      "laborType": "Craft",
+      "autocrafter": false,
+      "recipes": [
+         {
+            "main_item": "avacado_oil",
+            "time": 100,
+            "result": [
+               {
+                  "item": "avacado_oil",
+                  "weight": 1
+               }
+            ],
+            "ingredients": [
+               {
+                  "item": "avacado",
+                  "weight": 2
+               },
+               {
+                  "item": "glass_bottle",
+                  "weight": 1
+               }
+            ]
+         },
+         {
+            "main_item": "lemonade",
+            "time": 100,
+            "result": [
+               {
+                  "item": "lemonade",
+                  "weight": 1
+               }
+            ],
+            "ingredients": [
+               {
+                  "item": "lemon",
+                  "weight": 2
+               },
+               {
+                  "item": "glass_bottle",
+                  "weight": 1
+               },
+               {
+                  "item": "sugar",
+                  "weight": 1
+               }
+            ]
+         },
+         {
+            "main_item": "honey",
+            "time": 80,
+            "result": [
+               {
+                  "item": "honey",
+                  "weight": 1
+               },
+               {
+                  "item": "wax",
+                  "weight": 1
+               }
+            ],
+            "ingredients": [
+               {
+                  "item": "honeycomb",
+                  "weight": 1
+               },
+               {
+                  "item": "glass_bottle",
+                  "weight": 1
+               }
+            ]
+         }
+      ]
+   },
+   "texture": {
+      "name": "food_press",
+      "width": 32,
+      "height": 32
+   },
+   "walkable_pattern": [
+      [
+         true,
+         true
+      ],
+      [
+         true,
+         true
+      ]
+   ],
+   "target_pattern": [
+      [
+         false,
+         false
+      ],
+      [
+         false,
+         false
+      ]
+   ],
+   "ground_pattern": [
+      [
+         "A",
+         "A"
+      ],
+      [
+         "A",
+         "A"
+      ]
+   ],
+   "ingredients": [
+      {
+         "item": "stone",
+         "weight": 4
+      },
+      {
+         "item": "ceramic_pot",
+         "weight": 1
+      },
+      {
+         "item": "wood",
+         "weight": 4
+      }
+   ]
+}

@@ -1,0 +1,76 @@
+{
+  "name_key": "charging_station",
+  "description_key": "used_to_charge_batteries",
+  "width": 1,
+  "height": 1,
+  "type": "Crafter",
+  "category": "Mechanisms",
+  "animated": true,
+  "rotatable": false,
+  "cloneable": true,
+  "requireBuilding": true,
+  "destructible": true,
+  "movementSpeed": 50,
+  "constructionTime": 30,
+  "EnergyConsumer": {
+    "RequiredPower": 20,
+    "EnergyType": "Kinetic"
+  },
+  "crafter": {
+    "laborType": "Craft",
+    "autocrafter": true,
+    "recipes": [
+      {
+        "main_item": "full_battery",
+        "time": 50,
+        "result": [
+          {
+            "item": "full_battery",
+            "weight": 2
+          }
+        ],
+        "ingredients": [
+          {
+            "item": "empty_battery",
+            "weight": 2,
+            "show": false
+          }
+        ]
+      }
+    ]
+  },
+  "texture": {
+    "name": "charging_station",
+    "width": 18,
+    "height": 32
+  },
+  "walkable_pattern": [
+    [
+      true
+    ]
+  ],
+  "target_pattern": [
+    [
+      true
+    ]
+  ],
+  "ground_pattern": [
+    [
+      "A"
+    ]
+  ],
+  "ingredients": [
+    {
+      "item": "silicon_ingot",
+      "weight": 2
+    },
+    {
+      "item": "brick",
+      "weight": 5
+    },
+    {
+      "item": "copper_wire",
+      "weight": 2
+    }
+  ]
+}

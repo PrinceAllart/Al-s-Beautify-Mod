@@ -1,0 +1,62 @@
+{
+  "name_key": "rose_bush",
+  "description_key": "rose_bush",
+  "width": 1,
+  "height": 1,
+  "type": "FarmPlot",
+  "category": "Agriculture",
+  "buildingLaborType": "Plant",
+  "buildingToolType": "Plowing",
+  "animated": false,
+  "rotatable": false,
+  "cloneable": true,
+  "requireBuilding": true,
+  "destructible": false,
+  "constructionTime": 30,
+  "movementSpeed": 75,
+  "plant": {
+    "key": "rose_bush",
+    "growthSpeed": 20,
+    "toolType": "Harvesting",
+    "toolRequired": false,
+    "maxStrength": 30,
+    "isFlower": true,
+    "harvestable": null,
+    "stages": 4,
+    "variations": 15,
+    "texture": 
+    {
+      "name": "rose_bush",
+      "width": 24,
+      "height": 24
+    },
+    "seasonsVariations":
+    {
+      "3": [0,1,2,3],
+      "0": [4,5,6,7],
+      "1": [8,9,10,11],
+      "2": [12,13,14]
+    }
+  },
+  "texture": {
+    "name": "rose_bush",
+    "width": 24,
+    "height": 24
+  },
+  "walkable_pattern": [
+    [
+      true
+    ]
+  ],
+  "target_pattern": [
+    [
+      false
+    ]
+  ],
+  "ground_pattern": [
+    [
+      "A"
+    ]
+  ],
+  "ingredients": []
+}

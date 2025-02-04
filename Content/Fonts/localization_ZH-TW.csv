@@ -1,0 +1,802 @@
+key,translation
+language_change_warning,請重新啟動遊戲使變更生效。
+language_name,Traditional Chinese
+new_game,新遊戲
+resume,回到遊戲
+result,結果
+language,語言
+load_game,載入遊戲
+exit_to_desktop,回到桌面
+exit_to_main_menu,回到主選單
+save,儲存
+gather,收集
+mine,開採
+mine_mine,礦井
+chop,砍伐
+cut,收割
+chop_completely,完全砍伐
+cut_completely,完全收割
+сhop_automatically,自動砍伐
+cut_automatically,自動收割
+chop_now,現在砍伐
+cut_now,現在收割
+сhop_automatically_description,自動砍伐成熟植物。
+сut_automatically_description,自動收割成熟植物。
+hunt,狩獵
+cancel,取消
+destruct,拆除
+stone_tools,石製工具
+charcoal_kiln,炭窯
+copper_smelting,冶煉銅礦
+bronze_smelting,冶煉青銅礦
+iron_smelting,冶煉鐵礦
+time_machine,時間機器
+grain_processing,穀物加工
+pottery,陶器
+brewing,釀造
+alcoholic_drinks,酒精飲料
+tanning,鞣製皮革
+animals_domestication,馴化動物
+cheesemaking,製作起士
+oven,窯爐
+agriculture,農業
+fertilizing,施肥
+weaving,編織
+satiety,飽腹
+energy,體力
+health,健康
+age,年齡
+day,天
+settlers,居民
+animals,動物
+wall,牆壁
+floor,地板
+hut,房屋
+production,生產
+storage,貯存
+religion,信仰
+level,等級
+defense,防禦
+bridge,橋梁
+paleolithic,舊石器時代
+mesolithic,中石器時代
+neolithic,新石器時代
+chalcolithic,紅銅時代
+bronze_age,青銅時代
+iron_age,鐵器時代
+fuel,燃料
+burial,葬禮
+consumption,消耗
+irrigation,澆水
+sowing,播種
+irrigate,澆水
+fertilize,施肥
+technologies,科技研究
+rest,休息
+work,工作
+sleep,睡眠
+happiness,幸福
+nutrition,營養
+time,時間
+ingredients,原料
+hours,小時
+felling,砍伐
+gathering,收集
+building,建造
+farming,農耕
+supplying,供應
+ranching,畜牧
+capacity,容量
+per hour,每小時
+resource,資源
+required_technology,需要科技研究
+ration,食物配給
+growth_speed,成長速度
+growth_progress,成長進度
+days,天
+food_drying,食品乾燥
+fertilizer,肥料
+None,None
+spinning,紡紗
+new_settlers_arrived,新的居民已抵達。
+new_technologies_available,可解鎖新技術。
+required,需要
+deposit,礦床
+recipe,配方
+progress,進展
+crafting,製造
+Pick,掘
+copy_settings,複製設定
+value,價值
+trade,交易
+metallurgy,冶煉
+open,開
+close,關
+clone,複製
+mechanisms,機械
+experience_points,經驗值
+world_settings,世界設定
+create,創造
+back,返回
+world_with_that_name_already_exists,已存在同名世界。
+world_name,世界名稱
+world_size,世界規模
+cooking,料理
+freshness,新鮮
+durability,耐久
+season,季節
+spoilage_rate,腐敗度
+per_day,每天
+soil,土壤
+moisture,水分
+plant,植物
+name,名字
+temperature,溫度
+protects_against_low_temperatures,防止低溫。
+priority,優先度
+speed,速度
+spoiled,變質
+barley,大麥
+flax,亞麻
+grape_bush,葡萄藤
+oak,橡樹
+pea,豌豆
+culinary_ingredients,料理食材
+fertilizers,肥料
+resources,資源
+seeds,種子
+food,食物
+tools,工具
+clothes,服裝
+containers,容器
+summer,夏
+autumn,秋
+winter,冬
+spring,春
+woodcutting,伐木
+mining,開採
+hunting,狩獵
+harvesting,採收
+planting,種植
+plowing,耕作
+fishing,捕魚
+hauling,搬運
+wooden_cart,木車
+wooden_plow,木犁
+copper_reaper,銅收割機
+copper,銅錠
+bronze,青銅錠
+iron,鐵錠
+manure,糞便
+wood,木材
+charcoal,木炭
+stone,石材
+clay,黏土
+leather,熟皮革
+copper_ore,銅礦
+tin_ore,錫礦
+iron_ore,鐵礦
+crushed_copper_ore,碎銅礦
+crushed_tin_ore,碎錫礦
+crushed_iron_ore,碎鐵礦
+fiber,纖維
+cloth,布料
+yarn,紗線
+woven_clothing,編織服裝
+dry_skin,乾皮革
+raw_skin,生皮革
+mudbrick,泥磚
+settler_corpse,居民屍體
+stone_sickle,石鐮刀
+copper_sickle,銅鐮刀
+bronze_sickle,青銅鐮刀
+iron_sickle,鐵鐮刀
+stone_axe,石斧
+copper_axe,銅斧
+bronze_axe,青銅斧
+iron_axe,鐵斧
+stone_hoe,石鋤頭
+copper_hoe,銅鋤頭
+bronze_hoe,青銅鋤頭
+iron_hoe,鐵鋤頭
+stone_pick,石鎬
+copper_pick,銅鎬
+bronze_pick,青銅鎬
+iron_pick,鐵鎬
+wooden_spear,木矛
+stone_spear,石矛
+copper_spear,銅矛
+bronze_spear,青銅矛
+iron_spear,鐵矛
+wooden_harpoon,木魚叉
+stone_harpoon,石魚叉
+copper_harpoon,銅魚叉
+bronze_harpoon,青銅魚叉
+iron_harpoon,鐵魚叉
+sling,投石索
+bow,弓
+crossbow,弩
+barley_seeds,大麥種子
+skins_outfit,皮製衣服
+warm_fur_clothes,保暖的毛皮衣
+warm_knitted_clothes,保暖的針織衣
+chainmail,鏈甲
+leather_outfit,皮革衣服
+ceramic_pot,陶罐
+unfired_pot,未燒製的罐
+pot_of_beer,一罐啤酒
+pot_of_wine,一罐葡萄酒
+pot_of_mead,一罐蜂蜜酒
+pot_of_water,一罐水
+pot_of_milk,一罐奶
+flour,麵粉
+grape,葡萄
+raisin,葡萄乾
+raw_meat,生肉
+dry_fish,魚乾
+dry_meat,肉乾
+raw_fish,生魚
+number_of_fish,魚的數量
+peas,豆子
+cooked_meat,熟肉
+cooked_fish,熟魚
+flatbread,麵餅
+cheese,奶酪
+hay,乾草
+mudbrick_hut,泥磚屋
+bloomery,鍛造爐
+used_to_smelting_metals_from_its_ores,將礦石冶煉成金屬錠。
+clay_barn,黏土倉庫
+used_for_storing_resources,儲存資源。
+used_for_coal_production,生產煤炭。
+clay_deposit,黏土礦床
+clay_hut,黏土屋
+clay_oven,黏土窯爐
+used_for_quick_cooking,更快的烹煮食材。
+iron_smithy,鐵鍛造場
+used_for_forging_iron_tools,鍛造鐵製工具。
+copper_deposit,銅礦床
+crafter,製作台
+used_to_create_primitive_tools,製作原始工具。
+dirt_path,土路
+dolmen,巨石墓
+drop_spindle,紡線錘
+used_for_spinning_yarn,用於紡製紗線。
+farm_plot,農地
+used_for_growing_plants,種植農作物。
+fermenting_pot,釀造罐
+used_to_ferment_foods,用於釀造及發酵。
+fishing_place,捕魚點
+used_for_fishing,在這裡捕魚。
+fish_trap,魚簍
+food_dryer,乾燥架
+used_for_drying_food,"將食物曬乾,可延長保鮮期。"
+grave,墳墓
+used_to_bury_the_dead,埋葬死者。
+hearth,石爐
+used_for_cooking,用來料理。
+iron_deposit,鐵礦床
+kiln,陶窯
+used_for_firing_ceramic_products,"溫度更高,可燒製陶器。"
+warp_weighted_loom,織布機
+used_to_weave_cloth,將紗線紡成布料。
+mechanical_crusher,破碎機
+used_to_crushing_resources,用來粉碎材料。
+millstone,石磨
+used_for_quick_grinding_of_grain,提高研磨穀物的效率。
+used_for_mining,用於開採。
+mortar_and_pestle,石臼和杵
+used_to_grinding_and_crushing_resources,碾碎及研磨礦石。
+mudbrick_dryer,泥磚乾燥處
+used_for_drying_adobe,在這裡烘乾土坯。
+palisade,柵欄
+barn,穀倉
+primitive_animal_dwelling,原始的畜欄。
+used_to_cross_water,用來穿越水面。
+skin_drying_rack,晾皮架
+used_for_drying_skins,簡單的晾乾生皮。
+spinning_wheel,紡車
+stick_hut,簡陋小屋
+stockpile,儲存
+copper_smithy,銅鍛造場
+used_for_forging_copper_and_bronze_tools,鍛造銅及青銅工具。
+stone_deposit,石礦
+stone_floor,石路
+allows_creatures_to_move_faster,加快移動速度。
+primitive_dwelling,原始的住所。
+stone_pieces,石塊
+stone_wall,石牆
+tannery,製革場
+used_for_tanning_skins,將晾乾的皮革鞣製成熟皮革。
+tin_deposit,錫礦床
+water_gathering_place,汲水處
+used_to_collect_water,用來取水。
+well,水井
+windmill,風車
+used_for_automated_grinding_of_grain,利用風力研磨穀物。
+wooden_gate,木門
+point_of_entry_to_a_space_which_is_enclosed_by_walls,被牆壁包圍的空間出入口。
+wood_pieces,木片
+workshop,工作坊
+used_to_create_advanced_tools,製作進階工具。
+sound_volume,音量
+accept,同意
+decline,衰退
+tailors_workshop,裁縫工作坊
+used_to_make_clothes,製作服裝。
+irrigation_canals,水渠
+build_irrigation_canal,修建水渠
+destruct_irrigation_canal,拆除水渠
+melee_damage,近戰傷害
+range_damage,遠攻傷害
+recharge_time,再生時間
+tool_type,工具種類
+efficiency,效率
+chance,機會
+projectile_speed,射擊速度
+repeat,重複
+fishing_rod,釣竿
+source_of_mechanical_energy,機械能量來源
+mechanical_millstone,機械石磨
+energy_consumer,能量消耗
+energy_source,能量來源
+connected,已連接
+disconnected,未連接
+travel_speed,移動速度
+beekeeping,養蜂
+wild_bee_hive,野生蜂巢
+bee_hive,蜂巢
+beeswax,蜂蠟
+dandelion,蒲公英
+pot_of_honey,一罐蜂蜜
+honeycomb,蜂巢板
+flowers,花朵
+base_speed,基礎速度
+total_speed,整體速度
+honey,蜂蜜
+bee_hive_description,生產蜂蜜的效率是野生蜂巢的兩倍。
+a_wild_bee_hive_has_appeared_near_you,你附近有一個野生蜂巢。
+future,未來
+game_finished,遊戲結束
+energy_consumption,能量消耗
+energy_output,能量輸出
+time_machine_description,時間旅行裝置
+energy_available,可用能量
+return_to_the_future,回到未來
+windowed,視窗化
+fullscreen,全螢幕
+open_game_data_folder,開啟遊戲資料夾
+credits,製作人員
+turn_on_music,開啟音樂
+turn_off_music,關閉音樂
+recipes,配方
+aurochs,原牛
+boar,野豬
+tarpan,泰班野馬
+mouflon,摩弗倫羊
+workers,工作者
+knowledge_points,知識點數
+knowledge,知識
+primitive_school_description,用來獲得知識點數。
+skin_tent,皮製帳篷
+edge_scrolling_camera,邊緣滾動相機
+learning,研究
+left_click,左鍵
+right_click,右鍵
+enable_all,全部啟用
+disable_all,全部停用
+pregnancy,懷孕
+was_killed_by,{0} 被 {1} 殺死
+command_line,指令列
+x_died_of_starvation,{0} 餓死
+x_died_from_the_cold,{0} 冷死
+x_died_of_old_age,{0} 老死
+domesticate,馴化
+slaughter,屠宰
+animal_male,公
+animal_female,母
+shelf_life_of_products,保存期限
+food_storage_hut_description,"用來儲存食物,延長食物的保鮮期。"
+food_storage_hut,食物倉庫
+mammoth,猛瑪象
+copy,複製
+paste,貼上
+brick,磚塊
+the_settlers_are_freezing,凍僵的居民
+the_settlers_are_starving,飢餓的居民
+child,幼年
+adult,成年
+old,老年
+animal_pen,畜欄
+animal_pen_description,讓動物吃飯及休息。
+animal_filter,篩選動物
+the_settlers_are_unhappy,不開心的居民
+production_limit,產量限制
+repeat_until_production_limits_are_reached,生產至數量上限。
+all,全部
+stored,已儲存
+wolf,狼
+peaceful_mode,和平模式
+a_wild_animal_is_about_to_attack_your_settlement,野生動物即將攻擊您的聚落！
+weapon,武器
+attack,攻擊
+equip,裝備
+come_here,來這裡
+bone,骨頭
+bone_sickle,骨鐮刀
+bone_harpoon,骨魚叉
+bone_spear,骨矛
+bone_tools,骨製工具
+items,物品
+wolf_domestication,馴化野狼
+clean_up_manure,清理糞便
+cattle,牛
+horse,馬
+pig,豬
+sheep,綿羊
+dog,狗
+brick_floor,磚地板
+brick_wall,磚牆
+haystack,乾草垛
+haystack_description,存放乾草。
+disband,解散
+automatically_mine_spawned_deposits,自動開採生成的礦物。
+mine_description,在周圍產出可開採的資源。
+shelf_life,保鮮期
+raisin_buns,葡萄乾麵包
+rename,改名
+wool,羊毛
+wool_clothing,羊毛衣服
+wool_yarn,羊毛線
+wool_cloth,羊毛布料
+new_settlers,新的居民
+duration_x_minutes,持續時間: {0} 分鐘
+duration_x_hours,持續時間: {0:0.0} 小時
+movement_speed,移動速度
+effects,影響
+herbalist_table,製藥桌
+herbalist_table_description,製造原始的藥物。
+food_poisoning_cure,食物中毒治療藥
+primitive_medicine,原始醫學
+medicine,醫藥
+causes,原因
+cures,治療
+productivity,產量
+wind,風速
+calm,平靜
+light,照明
+moderate,溫和
+strong,強烈
+depends_on_wind_speed,取決於風速。
+mudbrick_wall,泥磚牆
+mudbrick_floor,泥磚地板
+torch,火炬
+torch_description,用木材照明。
+energy_type,能源類型
+kinetic,動力學
+gas,煤氣
+knowledge_table,研究桌
+pause,暫停
+has_joined_your_settlement,{0} 已加入你的聚落。
+walls,牆壁
+wall_description,用來建造不可通過的結構。
+basket,籃子
+number_of_uses,使用次數
+to_do_the_job_of_x_you_need_tools,你需要 {0} 工具才能工作。
+game_menu,遊戲選單
+food_poisoning,食物中毒
+vomiting,嘔吐
+sleeping,睡眠
+sleeping_on_the_ground,睡在地上
+winter_cold,寒流
+warm_clothing,溫暖的衣服
+cozy_hut,舒適的小屋
+cozy_tent,舒適的帳篷
+warm_place,溫暖的地方
+dirty_animal_pen,骯髒的畜欄
+hunger,飢餓
+low_light,照明不足
+spawn_time,產出時間
+show_resource_in_the_general_list,顯示清單上的所有資源。
+rain,下雨
+stopped_due_to,因此停止: {0}
+pea_seeds,豌豆種子
+pea_soup,豌豆湯
+thresher,脫粒器
+thresher_description,將種子與乾草分離。
+sheaf_of_barley,一捆大麥
+bunch_of_peas,一把豌豆
+threshing_floor,脫粒場
+threshing_floor_description,"利用動物脫粒,分離種子與乾草。"
+noria,鏟輪水車
+noria_description,從井中取水並引導其通過水渠。
+iron_bloom,鐵坯
+assigned_to,已指派給 {0}
+assign_to,指派給 {0}
+unassign_from,取消指派給 {0}  
+assign_a_pet,指派寵物
+pets,寵物
+music_volume,音樂音量
+destruct_surface,拆除地板
+x_got_the_y_effect,{0} 得到 {1} 效果
+days_until_aging_x,離增齡還有: {0} 天
+days_until_death_x,離死亡還有: {0} 天
+trading_post,交易站
+trading,交易
+trading_post_assortment_update,交易站的貨物已更新！
+buying,購買
+selling,販賣
+trading_post_description,"允許購買和出售商品,每天更新一次貨物內容。"
+mealing_stone,石磨盤
+mealing_stone_description,用於加工穀物和種子。
+animal_fat,動物脂肪
+oil_lamp,油燈
+oil_lamp_description,使用油或動物脂肪照明。
+pemmican,乾肉餅
+settlement,Settlement
+side_item,Side item
+mulberry,Mulberry
+carrot,Carrot
+carrot_seeds,Carrot Seeds
+carrot_wild,Carrot Plant
+lettuce_leaves,Lettuce Leaves
+wineberries,Wineberries
+wineberry_bush,Wineberry Bush
+limestone,Limestone
+limestone_deposit,Limestone Deposit
+lettuce_wild,Lettuce Plant
+lettuce_seeds,Lettuce Seeds
+lamp_post,Lamp Post
+sycamore,Sycamore Tree
+sycamore_pod,Sycamore Seed
+red_beet_seeds,Red beet Seeds
+pine,Pine Tree
+pinecone,Pinecone
+avacado_seed,Avocado Seed
+avacado,Avocado
+avacado_tree,Avocado Tree
+red_beet,Red Beet
+red_beet_plant,Red Beet Plant
+onion,Onion
+onion_seeds,Onion Seeds
+onion_plant,Onion Plant
+lemon_seeds,Lemon Seeds
+tumeric,Tumeric
+tumeric_plant,Tumeric Plant
+lemon,Lemon
+lemon_tree,Lemon Tree
+spinach_plant,Spinach Plant
+spinach,Spinach Leaves
+spinach_seeds,Spinach Seeds
+woad_leaves,Woad Leaves
+woad_plant,Woad Plant
+woad_seeds,Woad Seeds
+red_cabbage,Red Cabbage
+red_cabbage_plant,Red Cabbage Plant
+red_cabbage_seeds,Red Cabbage Seeds
+blueberries,Blueberries
+blueberry_ plant,Blueberry Plant
+blueberry_seeds,Blueberry Seeds
+red_beet_chips,Red beet Chips
+used_to_dye_clothes,Used to dye clothes
+dye_station,Dye Station
+red_tunic,Red Tunic
+pink_tunic,Pink Tunic
+orange_tunic,Orange Tunic
+yellow_tunic,Yellow Tunic
+green_tunic,Green Tunic
+ltblue_tunic,Light Blue Tunic
+dkblue_tunic,Dark Blue Tunic
+purple_tunic,Purple Tunic
+pot_of_vinegar,Pot of Vinegar
+redwood_tree,Redwood Tree
+blueberry_bush,Blueberry Bush
+mulberry_tree,Mulberry Tree
+purple_coat,Purple Coat
+dkblue_coat,Dark Blue Coat
+ltblue_coat,Light Blue Coat
+green_coat,Green Coat
+orange_coat,Orange Coat
+yellow_coat,Yellow Coat
+pink_coat,Pink Coat
+red_coat,Red Coat
+quarry,Quarry
+quarry_description,"Used to gather Stones, Sand, Limestone, and someones Silicon."
+sand,Sand
+silicon,Silicon
+silicon_ingot,Silicon Ingot
+butterfly_bush,Butterfly Bush
+decoration_desc,Used only for decoration.
+farmer_statue,Farmer Statue
+bird_bath,Bird Bath
+joyful_statue,Statue of Joy
+merchant_statue,Merchant Statue
+merchant_statue_desc,The one who brings joy upon arrival.
+fountain,Fountain
+fountain_small,Small Fountain
+stone_ball,Stone Ball Sculpture
+holder_statue_light,Lit Holder Statue
+holder_statue,Holder Statue
+copper_lamp,Copper Lamp
+copper_lamp_post,Copper Lamp on Post
+bronze_lamp,Bronze Lamp
+bronze_lamp_post,Bronze Lamp on Post
+iron_lamp,Iron Lamp
+iron_lamp_post,Iron Lamp on Post
+stone_arch,Stone Archway
+dog_statue,Stone Dog Statue
+limestone_dog_statue,Limestone Dog Statue
+totem,Totem
+timothy_grass,Timothy Grass (Hay)
+timothy_grass_desc,Can be cut to produce animal feed (Hay)
+timothy_grass_seeds,Timothy Grass Seeds
+multiflora_rose_bush,Multiflora Rose Bush
+rose_bush,Rose bush
+dames_rockets,Dame Rocket Flowers
+tulip,Tulip
+star_flower,Star Flower
+wood_flower_wall,Wooden Flower Wall
+stone_flower_wall,Stone Flower Wall
+hedge,Leafy Hedge Wall
+stone_rose_wall,Stone Rose Wall
+brick_flower_wall,Brick Flower Wall
+mudbrick_flower_wall,Mudbright Flower Wall
+brick_rose_wall,Brick Rose Wall
+mudbrick_rose_wall,Midbrick Rose Wall
+wood_rose_wall,Wooden Rose Wall
+wood_butterfly_wall,Wooden Butterfly Flower Wall
+stone_butterfly_wall,Stone Butterfly Flower Wall
+brick_butterfly_wall,Brick Butterfly Flower Wall
+mudbrick_butterfly_wall,Mudbright Butterfly Flower Wall
+chicken,Chicken
+egg,Egg
+sugar,Sugar
+limestone_pillar,Limestone Pillar
+rose_sculpture_large,Rose Sculpture Pillar
+rose_sculpture_small,Small Rose Sculpture Pillar
+fish_cake,Fish Patty
+spinach_quiche,Spinach Quiche
+lemon_square,Lemon Square
+blueberry_tart,Blueberry Tart
+onion_quiche,Onion Quiche
+meat_pie,Meat Pie
+wineberry_pie,Wineberry Pie
+muffin,Muffin
+carving,Decorative Carving
+dwelling,A place to call Home.
+brick_abode,Brick House
+wooden_gate_small,Small Wooden Doors
+wooden_gate_large,Large Wooden Doors
+simple_bed,Simple Bed
+steel_smelting,Steel Smelting
+blast_furnace,Blast Furnace
+steel_ingot,Steel Ingot
+solar_power,Solar Power
+solar_panel,Solar Panel
+charging_station,Charging Station
+used_to_charge_batteries,Used to charge batteries
+empty_battery,Empty Battery
+full_battery,Full Battery
+copper_wire,Copper Wire
+coop,Chicken Coop
+glass,Glass
+used_to_make_glass,Used to make Glass.
+glass_workshop,Glass Workshop
+glass_bottle,Glass Bottle
+source_of_solar_energy,Creates a power source using Solar Energy
+solar_light_desc,Solar Powered Lamp
+plank_floor,Wooden Plank Floor
+used_to_create_tools,Used to Create Advanced Tools
+crafting_desk,Crafting Desk
+sewing_desk,Sewing Desk
+study_desk,Study Desk
+used_to_make_clothes,Used to make Clothes
+used_for_crafting,Used for Crafting Items
+steel_smelting,Steel Smelting
+candle,Candle
+wax,Wax
+honey,Honey
+avacado_oil,Avocado Oil
+candle_maker,Candle Maker
+candle_making,Candle Making
+used_for_crafting_candles,Used for crafting Candles
+advanced_crafting,Advanced Crafting Desks
+candelabra_copper,Copper Candelabra
+candelabra_bronze,Bronze Candelabra
+candelabra_iron,Iron Candelabra
+candelabra_steel,Steel Candelabra
+lemonade,Lemonade
+used_for_cooking,Used for Faster Cooking
+stove_iron,Iron Stove
+brick_oven,Brick Pizza Oven
+food_press,Food Press
+used_to_make_oil,"Used to make Oil, Juices, and Honey"
+used_for_making_pizza,Used for Making Pizza
+tomato,Tomato
+tomato_plant,Tomato Plant
+tomato_seeds,Tomato Seeds
+bell_pepper,Bell Pepper
+bell_pepper_plant,Bell Pepper Plant
+bell_pepper_seeds,Bell Pepper Seeds
+tomato_pizza,Tomato Pizza Pie
+cheese_pizza,Cheese Pizza
+meaty_pizza,Meat Pizza
+veggie_pizza,Vegetable Pizza
+iron_gate,Small Iron Gate
+iron_gate_large,Large Iron Gate
+acorn,Acorn
+tapped_maple,Tapped Maple Tree
+tapped_pine,Tapped Pine Tree
+tapper,Tapper
+maple_sap,Raw Maple Sap
+pine_sap,Raw Pine Sap
+maple_syrup,Maple Syrup
+to_tap_trees,Used to collect sap from a trees.
+tree_tapping,Tree Tapping
+tea_seed,Tea Tree Seed
+tea_leaves,Tea Leaves
+tea_plant,Tea Plant
+black_tea,Black Tea
+tomato_soup,Tomato Soup
+veg_soup,Vegitable Soup
+fried_egg,Fried Egg
+potato_chips,Potato Chips
+knitted_cap,Knitted Hat
+sun_cap,Sun Hat
+head_wrap,Head Wrap
+pancakes,Pancakes w/ Syrup
+maple_seed,Maple Tree Seed
+jack_o_lantern,Jack-O-Lantern
+toasted_pumpkin_seeds,Toasted Pumpkin Seeds
+pumpkin_pie,Pumpkin Pie
+pumpkin,Pumpkin
+pumpkin_seeds,Pumpkin Seeds
+red_head_wrap,Red Head Wrap
+orange_head_wrap,Orange head Wrap
+yellow_head_wrap,Yellow Head Wrap
+green_head_wrap,Green  Head Wrap
+ltblue_head_wrap,Light Blue Head Wrap
+dkblue_head_wrap,Dark Blue  Head Wrap
+purple_head_wrap,Purple  Head Wrap
+pink_head_wrap,Pink  Head Wrap
+red_sun_cap,Red Sun Cap
+orange_sun_cap,Orange Sun Cap
+yellow_sun_cap,Yellow Sun Cap
+green_sun_cap,Green Sun Cap
+ltblue_sun_cap,Light Blue Sun Cap
+dkblue_sun_cap,Dark Blue Sun Cap
+purple_sun_cap,Purple Sun Cap
+pink_sun_cap,Pink Sun Cap
+red_knitted_cap,Red Knitted Cap
+orange_knitted_cap,Orange Knitted Cap
+yellow_knitted_cap,Yellow Knitted Cap
+green_knitted_cap,Green Knitted Cap
+ltblue_knitted_cap,Light Blue Knitted Cap
+dkblue_knitted_cap,Dark Blue Knitted Cap
+purple_knitted_cap,Purple Knitted Cap
+pink_knitted_cap,Pink Knitted Cap
+maple,Maple Tree
+corn,Corn Plant
+corncob,Corncob
+roasted_corncob,Roasted Corncob
+corn_seeds,Corn Seeds
+auto_oven,Auto Oven
+automatic_cooking,Used to cook food automatically.
+solar_lamp_post,Solar Lamp Post
+warehouse,Warehouse
+silo,Silo
+potato,Potato
+potato_plant,Potato Plant
+foot_light_small,Small Floor Light
+floor_light_large,Large Floor Light
+tin_plate,Tin Coated Iron Plate
+plate_casting,Plate Casting
+used_for_casting_plates,Used for casting metal plates.
+steel_drill,Electric Drill
+chainsaw,Electric Chainsaw
+cattle_miner,Mining Machine
+cattle_miner_desc,A machine made that utilizes animals mine ore.
+nursery,Tree Nursery
+nursery_desc,A greenhouse where trees are grown and then made into wood.
+tin_plate,A thin plate of metal coated in tin.
+advanced_buildings,Advanced Buildings

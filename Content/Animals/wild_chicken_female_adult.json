@@ -1,0 +1,57 @@
+{
+    "key":  "chicken",
+    "kind":  "chicken",
+    "texture":  {
+                    "name":  "chicken_female_adult",
+                    "width":  16,
+                    "height":  16
+                },
+    "attributes":  [
+                       {
+                           "name":  "Energy"
+                       },
+                       {
+                           "name":  "Health"
+                       }
+                   ],
+    "movementSpeed":  3.5,
+    "DomesticationData":  {
+                              "TamedForm":  "chicken_female_adult",
+                              "Chance":  60
+                          },
+    "canProtect":  false,
+    "isWild":  true,
+    "gender":  "F",
+    "health":  50,
+    "hunger":  100,
+    "energy":  100,
+    "DaysUntilAging":  60,
+    "damage":  6,
+    "defense":  0,
+    "drop":  [
+                 {
+                     "item":  "raw_meat",
+                     "count":  2
+                 },
+                 {
+                     "item":  "bone",
+                     "count":  2
+                 }
+             ],
+    "ration":  [
+                   "hay"
+               ],
+    "allowedLabors":  [
+
+                      ],
+    "attackChance":  "75",
+    "PregnancyData":  {
+                          "DurationInDays":  2,
+                          "Offspring":  [
+                                            "chicken_female_baby",
+                                            "chicken_male_baby"
+                                        ]
+                      },
+    "Price":  50,
+    "AgeState":  "Adult"
+}

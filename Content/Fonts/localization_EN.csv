@@ -1,0 +1,780 @@
+key,translation
+language_change_warning,Please restart the game for the changes to take effect
+language_name,English
+new_game,New game
+resume,Resume
+result,Result
+language,Language
+load_game,Load game
+exit_to_desktop,Exit to desktop
+exit_to_main_menu,Exit to main menu
+save,Save
+gather,Gather
+mine,Mine
+mine_mine,Mine
+chop,Chop
+cut,Cut
+chop_completely,Chop completely
+cut_completely,Cut completely
+сhop_automatically,Chop automatically
+cut_automatically,Cut automatically
+chop_now,Chop now
+cut_now,Cut now
+сhop_automatically_description,Automatically chop the plant after full growth
+сut_automatically_description,Automatically cut the plant after full growth
+hunt,Hunt
+cancel,Cancel
+destruct,Destruct
+stone_tools,Stone tools
+charcoal_kiln,Charcoal kiln
+copper_smelting,Copper smelting
+bronze_smelting,Bronze smelting
+iron_smelting,Iron smelting
+time_machine,Time machine
+grain_processing,Grain processing
+pottery,Pottery
+brewing,Brewing
+alcoholic_drinks,Alcoholic drinks
+tanning,Tanning
+animals_domestication,Animals domestication
+cheesemaking,Cheesemaking
+oven,Oven
+agriculture,Agriculture
+fertilizing,Fertilizing
+weaving,Weaving
+satiety,Satiety
+energy,Energy
+health,Health
+age,Age
+day,Day
+settlers,Settlers
+animals,Animals
+wall,Wall
+floor,Floor
+hut,Hut
+production,Production
+storage,Storage
+level,Level
+defense,Defense
+bridge,Bridge
+paleolithic,Paleolithic
+mesolithic,Mesolithic
+neolithic,Neolithic
+chalcolithic,Chalcolithic
+bronze_age,Bronze Age
+iron_age,Iron Age
+fuel,Fuel
+burial,Burial
+consumption,Consumption
+irrigation,Irrigation
+sowing,Sowing
+irrigate,Irrigate
+fertilize,Fertilize
+technologies,Technologies
+rest,Rest
+work,Work
+sleep,Sleep
+happiness,Happiness
+nutrition,Nutrtion
+time,Time
+ingredients,Ingredients
+hours,Hours
+felling,Felling
+gathering,Gathering
+building,Building
+farming,Farming
+supplying,Supplying
+ranching,Ranching
+capacity,Capacity
+resource,Resource
+required_technology,Required technology
+ration,Ration
+growth_speed,Growth speed
+growth_progress,Growth progress
+days,days
+food_drying,Food drying
+fertilizer,Fertilizer
+None,None
+spinning,Spinning
+new_settlers_arrived,New settlers arrived
+new_technologies_available,New technologies available
+required,Required
+deposit,Deposit
+recipe,Recipe
+progress,Progress
+crafting,Crafting
+Pick,Pick
+copy_settings,Copy settings
+value,Value
+trade,Trade
+metallurgy,Metallurgy
+open,Open
+close,Close
+clone,Clone
+mechanisms,Mechanisms
+experience_points,Experience points
+world_settings,World settings
+create,Create
+back,Back
+world_with_that_name_already_exists,World with that name already exists
+world_name,World name
+world_size,World size
+cooking,Cooking
+freshness,Freshness
+durability,Durability
+season,Season
+spoilage_rate,Spoilage rate
+per_day,per day
+soil,Soil
+moisture,Moisture
+plant,Plant
+name,Name
+temperature,Temperature
+protects_against_low_temperatures,Protects against low temperatures
+priority,Priority
+speed,Speed
+spoiled,Spoiled
+barley,Barley
+flax,Flax
+grape_bush,Grape bush
+oak,Oak
+pea,Pea
+culinary_ingredients,Culinary ingredients
+fertilizers,Fertilizers
+resources,Resources
+seeds,Seeds
+food,Food
+tools,Tools
+clothes,Clothes
+containers,Containers
+summer,Summer
+autumn,Autumn
+winter,Winter
+spring,Spring
+woodcutting,Woodcutting
+mining,Mining
+hunting,Hunting
+harvesting,Harvesting
+planting,Planting
+plowing,Plowing
+fishing,Fishing
+hauling,Hauling
+wooden_cart,Wooden cart
+wooden_plow,Wooden plow
+copper_reaper,Copper reaper
+copper,Copper
+bronze,Bronze
+iron,Iron
+manure,Manure
+wood,Wood
+charcoal,Charcoal
+stone,Stone
+clay,Clay
+leather,Leather
+copper_ore,Copper ore
+tin_ore,Tin ore
+iron_ore,Iron ore
+crushed_copper_ore,Crushed copper ore
+crushed_tin_ore,Crushed tin ore
+crushed_iron_ore,Crushed iron ore
+fiber,Fiber
+cloth,Cloth
+yarn,Yarn
+woven_clothing,Woven clothing
+dry_skin,Dry skin
+raw_skin,Raw skin
+mudbrick,Mudbrick
+settler_corpse,Settler corpse
+stone_sickle,Stone sickle
+copper_sickle,Copper sickle
+bronze_sickle,Bronze sickle
+iron_sickle,Iron sickle
+stone_axe,Stone axe
+copper_axe,Copper axe
+bronze_axe,Bronze axe
+iron_axe,Iron axe
+stone_hoe,Stone hoe
+copper_hoe,Copper hoe
+bronze_hoe,Bronze hoe
+iron_hoe,Iron hoe
+stone_pick,Stone pick
+copper_pick,Copper pick
+bronze_pick,Bronze pick
+iron_pick,Iron pick
+wooden_spear,Wooden spear
+stone_spear,Stone spear
+copper_spear,Copper spear
+bronze_spear,Bronze spear
+iron_spear,Iron spear
+wooden_harpoon,Wooden harpoon
+stone_harpoon,Stone harpoon
+copper_harpoon,Copper harpoon
+bronze_harpoon,Bronze harpoon
+iron_harpoon,Iron harpoon
+sling,Sling
+bow,Bow
+crossbow,Crossbow
+barley_seeds,Barley seeds
+skins_outfit,Skins outfit
+warm_fur_clothes,Warm fur clothes
+warm_knitted_clothes,Warm knitted clothes
+chainmail,Chainmail
+leather_outfit,Leather outfit
+ceramic_pot,Ceramic pot
+unfired_pot,Unfired pot
+pot_of_beer,Pot of beer
+pot_of_wine,Pot of wine
+pot_of_mead,Pot of mead
+pot_of_water,Pot of water
+pot_of_milk,Pot of milk
+flour,Flour
+grape,Grape
+raisin,Raisin
+raw_meat,Raw meat
+dry_fish,Dry fish
+dry_meat,Dry meat
+raw_fish,Raw fish
+number_of_fish,Number of fish
+peas,Peas
+cooked_meat,Cooked meat
+cooked_fish,Cooked fish
+flatbread,Flatbread
+cheese,Cheese
+hay,Hay
+mudbrick_hut,Mudbrick hut
+bloomery,Bloomery
+used_to_smelting_metals_from_its_ores,Used to smelting metals from its ores
+clay_barn,Clay barn
+used_for_storing_resources,Used for storing resources
+used_for_coal_production,Used for coal production
+clay_deposit,Clay deposit
+clay_hut,Clay hut
+clay_oven,Clay oven
+used_for_quick_cooking,Used for quick cooking
+iron_smithy,Iron smithy
+used_for_forging_iron_tools,Used for forging iron tools
+copper_deposit,Copper deposit
+crafter,Crafter
+used_to_create_primitive_tools,Used to create primitive tools
+dirt_path,Dirt path
+dolmen,Dolmen
+drop_spindle,Drop spindle
+used_for_spinning_yarn,Used for spinning yarn
+farm_plot,Farm plot
+used_for_growing_plants,Used for growing plants
+fermenting_pot,Fermenting pot
+used_to_ferment_foods,Used to ferment foods
+fishing_place,Fishing place
+used_for_fishing,Used for fishing
+fish_trap,Fish trap
+food_dryer,Food dryer
+used_for_drying_food,Used for drying food
+grave,Grave
+used_to_bury_the_dead,Used to bury the dead
+hearth,Hearth
+used_for_cooking,Used for cooking
+iron_deposit,Iron deposit
+kiln,Kiln
+used_for_firing_ceramic_products,Used for firing ceramic products
+warp_weighted_loom,Warp-weighted loom
+used_to_weave_cloth,Used to weave cloth
+mechanical_crusher,Mechanical crusher
+used_to_crushing_resources,Used to crushing resources
+millstone,Millstone
+used_for_quick_grinding_of_grain,Used for quick grinding of grain
+used_for_mining,Used for mining
+mortar_and_pestle,Mortar and pestle
+used_to_grinding_and_crushing_resources,Used to grinding and crushing resources
+mudbrick_dryer,Mudbrick dryer
+used_for_drying_adobe,Used for drying adobe
+palisade,Palisade
+barn,Barn
+primitive_animal_dwelling,Primitive animal dwelling
+used_to_cross_water,Used to cross water
+skin_drying_rack,Skin drying rack
+used_for_drying_skins,Used for drying skins
+spinning_wheel,Spinning wheel
+stick_hut,Stick hut
+stockpile,Stockpile
+copper_smithy,Copper smithy
+used_for_forging_copper_and_bronze_tools,Used for forging copper and bronze tools
+stone_deposit,Stone deposit
+stone_floor,Stone floor
+allows_creatures_to_move_faster,Allows creatures to move faster
+primitive_dwelling,Primitive dwelling
+stone_pieces,Stone pieces
+stone_wall,Stone wall
+tannery,Tannery
+used_for_tanning_skins,Used for tanning skins
+tin_deposit,Tin deposit
+water_gathering_place,Water gathering place
+used_to_collect_water,Used to collect water
+well,Well
+windmill,Windmill
+windmill_description,Converts wind energy into mechanical energy
+used_for_automated_grinding_of_grain,Used for automated grinding of grain
+wooden_gate,Wooden gate
+point_of_entry_to_a_space_which_is_enclosed_by_walls,Point of entry to a space which is enclosed by walls
+wood_pieces,Wood pieces
+workshop,Workshop
+used_to_create_advanced_tools,Used to create advanced tools
+sound_volume,Sound volume
+accept,Accept
+decline,Decline
+tailors_workshop,Tailor's workshop
+used_to_make_clothes,Used to make clothes
+irrigation_canals,Irrigation canals
+build_irrigation_canal,Build irrigation canal
+destruct_irrigation_canal,Destruct irrigation canal
+melee_damage,Melee damage
+range_damage,Range damage
+recharge_time,Recharge time
+tool_type,Tool type
+efficiency,Efficiency
+chance,Chance
+projectile_speed,Projectile speed
+repeat,Repeat
+fishing_rod,Fishing rod
+mechanical_millstone,Mechanical millstone
+energy_consumer,Energy consumer
+energy_source,Energy source
+connected,Connected
+disconnected,Disconnected
+travel_speed,Travel speed
+beekeeping,Beekeeping
+wild_bee_hive,Wild bee hive
+bee_hive,Bee hive
+beeswax,Beeswax
+dandelion,Dandelion
+pot_of_honey,Pot of honey
+honeycomb,Honeycomb
+flowers,Flowers
+base_speed,Base speed
+total_speed,Total speed
+honey,Honey
+bee_hive_description,Produces honey twice as efficiently as a wild hive
+a_wild_bee_hive_has_appeared_near_you,A wild bee hive has appeared near you
+future,Future
+game_finished,Game finished
+energy_consumption,Energy consumption
+energy_output,Energy output
+time_machine_description,Time travel device
+energy_available,Availabe energy
+return_to_the_future,Return to the future
+windowed,Windowed
+fullscreen,Fullscreen
+open_game_data_folder,Open game data folder
+credits,Credits
+turn_on_music,Turn on music
+turn_off_music,Turn off music
+recipes,Recipes
+aurochs,Aurochs
+boar,Boar
+tarpan,Tarpan
+mouflon,Mouflon
+workers,Workers
+knowledge_points,Knowledge Points
+knowledge,Knowledge
+primitive_school_description,Used to earn knowledge points
+skin_tent,Skin tent
+edge_scrolling_camera,Edge scrolling camera
+learning,Learning
+left_click,Left click
+right_click,Right click
+enable_all,Enable all
+disable_all,Disable all
+pregnancy,Pregnancy
+was_killed_by,{0} was killed by {1}
+command_line,command line
+x_died_of_starvation,{0} died of starvation
+x_died_from_the_cold,{0} died from the cold
+x_died_of_old_age,{0} died of old age
+domesticate,Domesticate
+slaughter,Slaughter
+animal_male,Male
+animal_female,Female
+shelf_life_of_products,Shelf life of products
+food_storage_hut_description,Used to store food. Keeps food fresh for a long time
+food_storage_hut,Food storage hut
+mammoth,Mammoth
+copy,Copy
+paste,Paste
+brick,Brick
+the_settlers_are_freezing,The settlers are freezing
+the_settlers_are_starving,The settlers are starving
+child,Child
+adult,Adult
+old,Old
+animal_pen,Animal pen
+animal_pen_description,Used for rest and feeding animals
+animal_filter,Animal filter
+the_settlers_are_unhappy,The settlers are unhappy
+production_limit,Production limit
+repeat_until_production_limits_are_reached,Repeat until production limits are reached
+all,All
+stored,Stored
+wolf,Wolf
+peaceful_mode,Peaceful mode
+a_wild_animal_is_about_to_attack_your_settlement,A wild animal is about to attack your settlement!
+weapon,Weapon
+attack,Attack
+equip,Equip
+come_here,Come here
+bone,Bone
+bone_sickle,Bone sickle
+bone_harpoon,Bone harpoon
+bone_spear,Bone spear
+bone_tools,Bone tools
+items,Items
+wolf_domestication,Wolf domestication
+clean_up_manure,Clean up manure
+cattle,Cattle
+horse,Horse
+pig,Pig
+sheep,Sheep
+dog,Dog
+brick_floor,Brick floor
+brick_wall,Brick wall
+haystack,Haystack
+haystack_description,Used to store hay
+disband,Disband
+automatically_mine_spawned_deposits,Automatically mine spawned deposits
+mine_description,Used to extract resources from mines. Generates deposits around itself
+shelf_life,Shelf life
+raisin_buns,Raisin buns
+rename,Rename
+wool,Wool
+wool_clothing,Wool clothing
+wool_yarn,Wool yarn
+wool_cloth,Wool cloth
+new_settlers,New settlers
+duration_x_minutes,Duration: {0} minutes
+duration_x_hours,Duration: {0:0.0} hours
+movement_speed,Movement speed
+effects,Effects
+herbalist_table,Herbalist table
+herbalist_table_description,Used to create primitive medicines
+food_poisoning_cure,Food poisoning cure
+primitive_medicine,Primitive medicine
+medicine,Medicine
+causes,Causes
+cures,Cures
+productivity,Productivity
+wind,Wind
+calm,Calm
+light,Light
+moderate,Moderate
+strong,Strong
+depends_on_wind_speed,Depends on wind speed
+mudbrick_wall,Mudbrick wall
+mudbrick_floor,Mudbrick floor
+torch,Torch
+torch_description,Used to illuminate a space
+energy_type,Energy type
+kinetic,Kinetic
+gas,Gas
+knowledge_table,Knowledge table
+pause,Pause
+has_joined_your_settlement,{0} has joined your settlement
+walls,Walls
+wall_description,A structure used to create an impassable barrier
+basket,Basket
+number_of_uses,Number of uses
+to_do_the_job_of_x_you_need_tools,To do the job of {0} you need tools
+game_menu,Game menu
+food_poisoning,Food poisoning
+vomiting,Vomiting
+sleeping,Sleeping
+sleeping_on_the_ground,Sleeping on the ground
+winter_cold,Winter cold
+warm_clothing,Warm clothing
+cozy_hut,Cozy hut
+cozy_tent,Cozy tent
+warm_place,Warm place
+dirty_animal_pen,Dirty animal pen
+hunger,Hunger
+low_light,Low light
+spawn_time,Spawn time
+show_resource_in_the_general_list,Show resource in the general list
+rain,Rain
+stopped_due_to,Stopped due to: {0}
+pea_seeds,Pea seeds
+pea_soup,Pea soup
+thresher,Thresher
+thresher_description,Used to thresh plants to separate seeds from hay
+sheaf_of_barley,Sheaf of barley
+bunch_of_peas,Bunch of peas
+threshing_floor,Threshing floor
+threshing_floor_description,"Used for mass animal threshing of 
+plants to separate seeds from hay"
+noria,Noria
+noria_description,Used to lift water from a well and direct it through irrigation canals
+iron_bloom,Iron bloom
+assigned_to,Assigned to {0}
+assign_to,Assign to {0}
+unassign_from,Unassign from {0}
+assign_a_pet,Assign a pet
+pets,Pets
+music_volume,Music volume
+destruct_surface,Destruct surface
+x_got_the_y_effect,{0} got the {1} effect
+days_until_aging_x,Days until aging: {0}
+days_until_death_x,Days until death: {0}
+trading_post,Trading post
+trading,Trading
+trading_post_assortment_update,The assortment of trading posts has been updated!
+buying,Buying
+selling,Selling
+trading_post_description,Allows you to buy and sell goods. Updates its assortment once a day
+mealing_stone,Mealing stone
+mealing_stone_description,Used for processing grain and seeds
+animal_fat,Animal fat
+oil_lamp,Oil lamp
+oil_lamp_description,"Used for lighting, uses oils and animal fats as fuel"
+pemmican,Pemmican
+settlement,Settlement
+side_item,Side item
+dry_manure_fuel,Dry manure fuel
+manure_drying_area,Manure drying area
+manure_drying_area_description,Used for drying manure
+energy_production,Energy production
+treadmill,Treadmill
+treadmill_description,Converts the energy of animals and settlers into mechanical energy
+x_is_already_assigned_to_this_hut,{0} is already assigned to this hut
+x_is_already_assigned_to_another_hut,{0} is already assigned to another hut
+assign_x_to_this_hut,Assign {0} to this hut
+assign_a_settler,Assign a settler
+free_up,Free up
+view_settler,View settler
+information,Information
+inventory,Inventory
+equipment,Equipment
+remove_equipment,Remove equipment
+redwood,Redwood Tree
+maple,Maple Tree
+pine,Pine Tree
+carrot_seeds,Carrot Seeds
+carrot_wild,Wild Carrot Plant
+carrot,Carrot
+red_beet_seeds,Red Beet Seeds
+red_beet_plant,Red Beet Plant
+red_beet,Red Beet
+wineberry_bush,Wineberry Bush
+wineberries,Wineberries
+lettuce_wild,Wild Lettuce
+lettuce_leaves,Lettuce Leaves
+avacado_seed,Avacado Pit
+avacado_tree,Avacado Tree
+avacado,Avacado
+mulberry_tree,Mulberry Tree
+mulberry,Mulberry
+onion_seeds,Onion Seeds
+onion_plant,Onion Plant
+onion,Onion
+tumeric_plant,Tumeric Plant
+tumeric,Tumeric
+lemon_seeds,Lemon Seeds
+lemon_tree,Lemon Tree
+lemon,Lemon
+timothy_grass,Timothy Grass
+timothy_grass_seeds,Timothy Grass Seeds
+butterfly_bush,Butterfly Bush
+dames_rockets,Dame Rocket Flowers
+multiflora_rose_bush,Multiflora Rose Bush
+rose_bush,Rose Bush
+blueberries,Blueberries
+blueberry_seeds,Blueberry Seeds
+blueberry_bush,Blueberry Bush
+star_flower,Star Flower
+tulip,Tulip Flower
+tomato_seeds,Tomato Seeds
+tomato_plant,Tomato Plant
+tomato,Tomato
+bell_pepper_seeds,Bell Pepper Seeds
+bell_pepper_plant,Bell Pepper Plant
+bell_pepper,Bell Pepper
+corn,Corn
+corn_seeds,Corn Seeds
+corncob,Corncob
+spinach_seeds,Spinach Seeds
+spinach,Spinach
+spinach_plant,Spinach Plant
+fish_cake,Fish Patty
+spinach_quiche,Spinach Quiche
+lemon_square,Lemon Square
+blueberry_tart,Blueberry Tart
+onion_quiche,Onion Quiche
+meat_pie,Meat Pie
+wineberry_pie,Wineberry Pie
+muffin,Muffin
+egg,Egg
+chicken,Chicken
+pot_of_vinegar,Pot of Vinegar
+wax,Wax
+roasted_corncob,Roasted Corn on the cob
+quarry,Quarry
+plank_floor,Wooden Plank Flooring
+steel_ingot,Steel Ingot
+silicon,Silicon
+silicon_ingot,Silicon Ingot
+solar_power,Solar Power
+empty_battery,Empty Battery
+full_battery,Full Battery
+carving,Carving
+lettuce_tea,Lettuce Tea
+red_beet_chips,Red Beet Chips
+sycamore,Sycamore Tree
+woad_plant,Woad Plant
+woad_leaves,Woad leaves
+woad_seeds,Woad Seeds
+coop,Coop
+red_tunic,Red Tunic
+orange_tunic,Orange Tunic
+yellow_tunic,Yellow Tunic
+green_tunic,Green Tunic
+ltblue_tunic,Light Blue Tunic
+dkblue_tunic,Dark Blue Tunic
+purple_tunic,Purple Tunic
+pink_tunic,Pink Tunic
+red_coat,Red Coat
+orange_coat,Orange Coat
+yellow_coat,Yellow Coat
+green_coat,Green Coat
+ltblue_coat,Light Blue Coat
+dkblue_coat,Dark Blue Coat
+purple_coat,Purple Coat
+pink_coat,Pink Coat
+copper_lamp,Copper Lantern
+copper_lamp_post,Copper Lantern on Post
+bronze_lamp,Bronze Lantern
+bronze_lamp_post,Bronze Lantern on a Post
+iron_gate_large,Large Iron Gate
+iron_gate,Small Iron Gate
+iron_lamp,Iron Lantern
+iron_lamp_post,Iron Lantern on a Post
+stove_iron,Iron Stove
+avacado_oil,Avacado Oil
+lemonade,Lemonade
+stone_ball,Stone Ball Sculpture
+stone_arch,Stone Arch
+rose_sculpture_large,Large Rose Sculpture
+rose_sculpture_small,Small Rose Sculpture
+limestone_pillar,Limestone Pillar
+joyful_statue,Joyful Statue
+fountain,Fountain
+holder_statue,Holder Sculpture
+limestone_dog_statue,Limestone Dog Sculpture
+dog_statue,Stone Dog Sculpture
+farmer_statue,Farmer Sculpture
+merchant_statue,Merchant Sculpture
+totem,Wooden Totem
+brick_abode,Brick Home
+brick_oven,Brick Oven
+candle,Candle
+candle_making,Candle Making
+candle_maker,Candle Maker
+candelabra_copper,Copper Candelabra
+candelabra_bronze,Bronze Candelabra
+candelabra_iron,Iron Candelabra
+candelabra_steel,Steel Candelabra
+sand,Sand
+glass,Glass
+glass_bottle,Glass Bottle
+glass_workshop,Glass Workshop
+holder_statue_light,Lit Holder Sculpture
+food_press,Food Press
+dye_station,Dye Station
+advanced_crafting,Advanced Crafting
+crafting_desk,Crafting Desk
+sewing_desk,Sewing Desk
+study_desk,Research Desk
+steel_smelting,Steel Smelting
+steel_ingot,Steel Ingot
+silicon,Silicon
+silicon_ingot,Silicon Ingot
+solar_panel,Solar Panel
+charging_station,Solar Charging Station
+copper_wire,Copper Wire
+blast_furnace,Blast Furnace
+bird_bath,Bird Bath
+used_for_making_pizza,Used for baking Pizza
+tomato_pizza,Tomato Pie Pizza
+cheese_pizza,Cheese Pizza
+meaty_pizza,Meaty Pizza
+veggie_pizza,Veggie Pizza
+wooden_gate_small,Small Wooden Gate
+wooden_gate_large,Large Wooden Gate
+used_to_dye_clothes,Used to Dye Clothes different colors
+sycamore_pod,Sycamore Seed
+red_cabbage,Red Cabbage
+red_cabbage_plant,Red Cabbage Plant
+acorn,Acorn
+sugar,Sugar
+tapped_maple,Tapped Maple Tree
+tapped_pine,Tapped Pine Tree
+tapper,Tapper
+maple_sap,Raw Maple Sap
+pine_sap,Raw Pine Sap
+maple_syrup,Maple Syrup
+to_tap_trees,Used to collect sap from a trees.
+tree_tapping,Tree Tapping
+tea_seed,Tea Tree Seed
+tea_leaves,Tea Leaves
+tea_plant,Tea Plant
+black_tea,Black Tea
+limestone,Limestone
+tomato_soup,Tomato Soup
+veg_soup,Vegitable Soup
+fried_egg,Fried Eggs
+potato_chips,Potato Chips
+knitted_cap,Knitted Hat
+sun_cap,Sun Hat
+head_wrap,Head Wrap
+pancakes,Pancakes w/ Syrup
+pinecone,Pinecone
+maple_seed,Maple Tree Seed
+jack_o_lantern,Jack-O-Lantern
+toasted_pumpkin_seeds,Toasted Pumpkin Seeds
+pumpkin_pie,Pumpkin Pie
+pumpkin,Pumpkin
+pumpkin_seeds,Pumpkin Seeds
+red_head_wrap,Red Head Wrap
+orange_head_wrap,Orange head Wrap
+yellow_head_wrap,Yellow Head Wrap
+green_head_wrap,Green Head Wrap
+ltblue_head_wrap,Light Blue Head Wrap
+dkblue_head_wrap,Dark Blue Head Wrap
+purple_head_wrap,Purple Head Wrap
+pink_head_wrap,Pink Head Wrap
+red_sun_cap,Red Sun Cap
+orange_sun_cap,Orange Sun Cap
+yellow_sun_cap,Yellow Sun Cap
+green_sun_cap,Green Sun Cap
+ltblue_sun_cap,Light Blue Sun Cap
+dkblue_sun_cap,Dark Blue Sun Cap
+purple_sun_cap,Purple Sun Cap
+pink_sun_cap,Pink Sun Cap
+red_knitted_cap,Red Knitted Cap
+orange_knitted_cap,Orange Knitted Cap
+yellow_knitted_cap,Yellow Knitted Cap
+green_knitted_cap,Green Knitted Cap
+ltblue_knitted_cap,Light Blue Knitted Cap
+dkblue_knitted_cap,Dark Blue Knitted Cap
+purple_knitted_cap,Purple Knitted Cap
+pink_knitted_cap,Pink Knitted Cap
+warehouse,Warehouse
+silo,Silo
+potato,Potato
+potato_plant,Potato Plant
+foot_light_small,Small Floor Light
+floor_light_large,Large Floor Light
+tin_plate,Tin Coated Iron Plate
+plate_casting,Plate Casting
+used_for_casting_plates,Used for casting metal plates.
+steel_drill,Electric Drill
+chainsaw,Electric Chainsaw
+cattle_miner,Mining Machine
+cattle_miner_desc,A machine made that utilizes animals mine ore.
+nursery,Tree Nursery
+nursery_desc,A greenhouse where trees are grown and then made into wood.
+advanced_buildings,Advanced Buildings

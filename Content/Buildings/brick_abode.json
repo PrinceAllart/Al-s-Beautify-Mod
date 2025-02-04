@@ -1,0 +1,106 @@
+{
+  "name_key": "brick_abode",
+  "description_key": "dwelling",
+  "width": 4,
+  "height": 3,
+  "type": "Hut",
+  "category": "Settlement",
+  "animated": true,
+  "rotatable": false,
+  "cloneable": true,
+  "requireBuilding": true,
+  "destructible": true,
+  "movementSpeed": 50,
+  "constructionTime": 100,
+  "assignable": {
+    "slots": 6,
+    "ApplyStatusEffect": "CozyHut"
+  },
+  "texture": {
+    "name": "brick_abode",
+    "width": 64,
+    "height": 64
+  },
+  "walkable_pattern": [
+    [
+      true,
+      true,
+      true,
+      true
+    ],
+    [
+      true,
+      true,
+      true,
+      true
+    ],
+    [
+      true,
+      true,
+      true,
+      true
+    ]
+  ],
+  "target_pattern": [
+    [
+      false,
+      false,
+      false,
+      false
+    ],
+    [
+      false,
+      false,
+      false,
+      false
+    ],
+    [
+      false,
+      false,
+      false,
+      false
+    ]
+  ],
+  "ground_pattern": [
+    [
+      "A",
+      "A",
+      "A",
+      "A"
+    ],
+    [
+      "A",
+      "A",
+      "A",
+      "A"
+    ],
+    [
+      "A",
+      "A",
+      "A",
+      "A"
+    ]
+  ],
+  "ingredients": [
+    {
+      "item": "wood",
+      "weight": 10
+    },
+    {
+      "item": "brick",
+      "weight": 12
+    },
+    {
+      "item": "glass",
+      "weight": 4
+    }
+  ],
+  "fuelConsumer": {
+    "fuel": [
+      "wood",
+      "charcoal",
+      "dry_manure_fuel"
+    ],
+    "energy_consumption": 0.06
+  }
+}

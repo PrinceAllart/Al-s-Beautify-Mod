@@ -1,0 +1,76 @@
+{
+  "name_key": "onion_plant",
+  "description_key": "onion_plant",
+  "width": 1,
+  "height": 1,
+  "type": "FarmPlot",
+  "category": "Agriculture",
+  "buildingLaborType": "Plant",
+  "buildingToolType": "Plowing",
+  "animated": false,
+  "rotatable": false,
+  "cloneable": true,
+  "requireBuilding": true,
+  "destructible": false,
+  "constructionTime": 30,
+  "movementSpeed": 75,
+  "plant": {
+    "key": "onion_plant",
+    "growthSpeed": 10,
+    "toolType": "Harvesting",
+    "toolRequired": false,
+    "stages": 6,
+    "variations": 2,
+    "maxStrength": 30,
+    "isFlower": false,
+    "harvestable":
+    {
+      "harvest":
+      [
+        {
+          "item": "onion",
+          "weight": 1
+        },
+        {
+          "item": "onion_seeds",
+          "weight": 2
+        }
+      ],
+      "removeAfterHarvest": true
+    },
+    "texture": 
+    {
+      "name": "onion_plant",
+      "width": 16,
+      "height": 19
+    },
+    "seasonsVariations":
+    {
+      "3": [0],
+      "0": [0],
+      "1": [0],
+      "2": [1]
+    }
+  },
+  "texture": {
+    "name": "onion_plant",
+    "width": 16,
+    "height": 18
+  },
+  "walkable_pattern": [
+    [
+      true
+    ]
+  ],
+  "target_pattern": [
+    [
+      false
+    ]
+  ],
+  "ground_pattern": [
+    [
+      "A"
+    ]
+  ],
+  "ingredients": []
+}

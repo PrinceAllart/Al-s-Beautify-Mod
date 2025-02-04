@@ -1,0 +1,381 @@
+{
+  "name_key": "hearth",
+  "description_key": "used_for_cooking",
+  "width": 1,
+  "height": 1,
+  "type": "Crafter",
+  "category": "Food",
+  "animated": true,
+  "cloneable": true,
+  "rotatable": false,
+  "requireBuilding": true,
+  "destructible": true,
+  "movementSpeed": 50,
+  "constructionTime": 10,
+  "smokeGenerator": {
+    "x": 8,
+    "y": 0
+  },
+  "crafter": {
+    "laborType": "Cook",
+    "autocrafter": false,
+    "recipes": [
+      {
+        "id": 1000,
+        "main_item": "cooked_meat",
+        "time": 50,
+        "result": [
+          {
+            "item": "cooked_meat",
+            "weight": 1
+          }
+        ],
+        "ingredients": [
+          {
+            "item": "raw_meat",
+            "weight": 1,
+            "show": true
+          },
+          {
+            "item": "wood",
+            "weight": 2
+          }
+        ]
+      },
+      {
+        "id": 1001,
+        "main_item": "cooked_meat",
+        "time": 50,
+        "result": [
+          {
+            "item": "cooked_meat",
+            "weight": 1
+          }
+        ],
+        "ingredients": [
+          {
+            "item": "raw_meat",
+            "weight": 1,
+            "show": true
+          },
+          {
+            "item": "charcoal",
+            "weight": 1
+          }
+        ]
+      },
+      {
+        "id": 1004,
+        "main_item": "cooked_meat",
+        "time": 50,
+        "result": [
+          {
+            "item": "cooked_meat",
+            "weight": 1
+          }
+        ],
+        "ingredients": [
+          {
+            "item": "raw_meat",
+            "weight": 1,
+            "show": true
+          },
+          {
+            "item": "dry_manure_fuel",
+            "weight": 3
+          }
+        ]
+      },
+      {
+        "id": 1002,
+        "main_item": "cooked_fish",
+        "time": 50,
+        "result": [
+          {
+            "item": "cooked_fish",
+            "weight": 1
+          }
+        ],
+        "ingredients": [
+          {
+            "item": "raw_fish",
+            "weight": 1,
+            "show": true
+          },
+          {
+            "item": "wood",
+            "weight": 2
+          }
+        ]
+      },
+      {
+        "id": 1003,
+        "main_item": "cooked_fish",
+        "time": 50,
+        "result": [
+          {
+            "item": "cooked_fish",
+            "weight": 1
+          }
+        ],
+        "ingredients": [
+          {
+            "item": "raw_fish",
+            "weight": 1,
+            "show": true
+          },
+          {
+            "item": "charcoal",
+            "weight": 1
+          }
+        ]
+      },
+      {
+        "id": 1005,
+        "main_item": "cooked_fish",
+        "time": 50,
+        "result": [
+          {
+            "item": "cooked_fish",
+            "weight": 1
+          }
+        ],
+        "ingredients": [
+          {
+            "item": "raw_fish",
+            "weight": 1,
+            "show": true
+          },
+          {
+            "item": "dry_manure_fuel",
+            "weight": 3
+          }
+        ]
+      },
+      {
+        "id": 1100,
+        "main_item": "roasted_corncob",
+        "time": 30,
+        "result": [
+          {
+            "item": "roasted_corncob",
+            "weight": 3
+          }
+        ],
+        "ingredients": [
+          {
+            "item": "corncob",
+            "weight": 3,
+            "show": false
+          },
+          {
+            "item": "charcoal",
+            "weight": 1
+          }
+        ]
+      },
+      {
+        "id": 1101,
+        "main_item": "roasted_corncob",
+        "time": 30,
+        "result": [
+          {
+            "item": "roasted_corncob",
+            "weight": 2
+          }
+        ],
+        "ingredients": [
+          {
+            "item": "corncob",
+            "weight": 2,
+            "show": false
+          },
+          {
+            "item": "dry_manure_fuel",
+            "weight": 1
+          }
+        ]
+      },
+      {
+        "id": 1102,
+        "main_item": "roasted_corncob",
+        "time": 30,
+        "result": [
+          {
+            "item": "roasted_corncob",
+            "weight": 1
+          }
+        ],
+        "ingredients": [
+          {
+            "item": "corncob",
+            "weight": 1,
+            "show": false
+          },
+          {
+            "item": "wood",
+            "weight": 1
+          }
+        ]
+      },
+      {
+        "id": 1103,
+        "main_item": "fried_egg",
+        "time": 30,
+        "result": [
+          {
+            "item": "fried_egg",
+            "weight": 4
+          }
+        ],
+        "ingredients": [
+          {
+            "item": "egg",
+            "weight": 4
+          },
+          {
+            "item": "charcoal",
+            "weight": 1
+          }
+        ]
+      },
+      {
+        "id": 1104,
+        "main_item": "fried_egg",
+        "time": 30,
+        "result": [
+          {
+            "item": "fried_egg",
+            "weight": 2
+          }
+        ],
+        "ingredients": [
+          {
+            "item": "egg",
+            "weight": 2
+          },
+          {
+            "item": "dry_manure_fuel",
+            "weight": 1
+          }
+        ]
+      },
+      {
+        "id": 1105,
+        "main_item": "fried_egg",
+        "time": 30,
+        "result": [
+          {
+            "item": "fried_egg",
+            "weight": 1
+          }
+        ],
+        "ingredients": [
+          {
+            "item": "egg",
+            "weight": 1
+          },
+          {
+            "item": "wood",
+            "weight": 1
+          }
+        ]
+      },
+      {
+        "id": 1106,
+        "main_item": "toasted_pumpkin_seeds",
+        "time": 30,
+        "result": [
+          {
+            "item": "toasted_pumpkin_seeds",
+            "weight": 4
+          }
+        ],
+        "ingredients": [
+          {
+            "item": "pumpkin_seeds",
+            "weight": 4,
+            "show": false
+          },
+          {
+            "item": "charcoal",
+            "weight": 1
+          }
+        ]
+      },
+      {
+        "id": 1107,
+        "main_item": "toasted_pumpkin_seeds",
+        "time": 30,
+        "result": [
+          {
+            "item": "toasted_pumpkin_seeds",
+            "weight": 2
+          }
+        ],
+        "ingredients": [
+          {
+            "item": "pumpkin_seeds",
+            "weight": 2,
+            "show": false
+          },
+          {
+            "item": "dry_manure_fuel",
+            "weight": 1
+          }
+        ]
+      },
+      {
+        "id": 1108,
+        "main_item": "toasted_pumpkin_seeds",
+        "time": 30,
+        "result": [
+          {
+            "item": "toasted_pumpkin_seeds",
+            "weight": 1
+          }
+        ],
+        "ingredients": [
+          {
+            "item": "pumpkin_seeds",
+            "weight": 1,
+            "show": false
+          },
+          {
+            "item": "wood",
+            "weight": 1
+          }
+        ]
+      }
+    ]
+  },
+  "lightEmitter": {
+    "radius": 200
+  },
+  "texture": {
+    "name": "hearth",
+    "width": 16,
+    "height": 20
+  },
+  "walkable_pattern": [
+    [
+      true
+    ]
+  ],
+  "target_pattern": [
+    [
+      false
+    ]
+  ],
+  "ground_pattern": [
+    [
+      "A"
+    ]
+  ],
+  "ingredients": [
+    {
+      "item": "stone",
+      "weight": 1
+    }
+  ]
+}

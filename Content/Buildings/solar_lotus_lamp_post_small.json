@@ -1,0 +1,52 @@
+{
+  "name_key": "solar_lotus_lamp_post_small",
+  "description_key": "torch_description",
+  "width": 1,
+  "height": 1,
+  "type": "Lighter",
+  "category": "Settlement",
+  "animated": true,
+  "cloneable": true,
+  "rotatable": false,
+  "requireBuilding": true,
+  "destructible": true,
+  "movementSpeed": -1,
+  "constructionTime": 50,
+  "lightEmitter": {
+    "radius": 200
+  },
+  "texture": {
+    "name": "solar_lotus_lamp_post_small",
+    "width": 16,
+    "height": 22
+  },
+  "walkable_pattern": [
+    [
+      true
+    ]
+  ],
+  "target_pattern": [
+    [
+      false
+    ]
+  ],
+  "ground_pattern": [
+    [
+      "A"
+    ]
+  ],
+  "ingredients": [
+    {
+      "item": "iron",
+      "weight": 1
+    },
+    {
+      "item": "silicon_ingot",
+      "weight": 1
+    },
+    {
+      "item": "glass",
+      "weight": 1
+    }
+  ]
+}

@@ -1,0 +1,79 @@
+{
+  "name_key": "pumpkin_plant",
+  "description_key": "pumpkin_plant",
+  "width": 1,
+  "height": 1,
+  "type": "FarmPlot",
+  "category": "Agriculture",
+  "buildingLaborType": "Plant",
+  "buildingToolType": "Plowing",
+  "animated": false,
+  "rotatable": false,
+  "cloneable": true,
+  "requireBuilding": true,
+  "destructible": false,
+  "constructionTime": 30,
+  "movementSpeed": 75,
+  "plant": {
+    "key": "pumpkin_plant",
+    "growthSpeed": 20,
+    "toolType": "Harvesting",
+    "toolRequired": false,
+    "stages": 9,
+    "variations": 3,
+    "maxStrength": 30,
+    "isFlower": false,
+    "harvestable":
+    {
+      "harvest":
+      [
+        {
+          "item": "pumpkin",
+          "weight": 1
+        },
+        {
+          "item": "pumpkin_seeds",
+          "weight": 1
+        }
+      ],
+      "removeAfterHarvest": true
+    },
+    "texture": 
+    {
+      "name": "pumpkin_plant",
+      "width": 32,
+      "height": 32
+    },
+    "seasonsVariations":
+    {
+      "3": [0],
+      "0": [0],
+      "1": [1],
+      "2": [2]
+    }
+  },
+  "texture": {
+    "name": "pumpkin_plant",
+    "width": 32,
+    "height": 32
+  },
+  "walkable_pattern": [
+    [
+      true
+    ]
+  ],
+  "target_pattern": [
+    [
+      false
+    ]
+  ],
+  "ground_pattern": [
+    [
+      "A" 
+    ]
+  ],
+  "ingredients":  [{ 
+          "item": "pumpkin_seeds",
+          "weight": 1
+          } ]
+ } 

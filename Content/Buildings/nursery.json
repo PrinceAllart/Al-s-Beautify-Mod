@@ -1,0 +1,187 @@
+{
+  "name_key": "nursery",
+  "description_key": "nursery_desc",
+  "width": 4,
+  "height": 5,
+  "type": "Crafter",
+  "category": "Agriculture",
+  "animated": false,
+  "rotatable": false,
+  "cloneable": true,
+  "requireBuilding": true,
+  "destructible": true,
+  "movementSpeed": 50,
+  "constructionTime": 40,
+  "stages": 4,
+  "crafter": {
+    "laborType": "Craft",
+    "autocrafter": true,
+    "recipes": [
+      {
+        "id": 1000,
+        "main_item": "wood",
+        "time": 1800,
+        "result": [
+          {
+            "item": "wood",
+            "weight": 40
+          }
+        ],
+        "ingredients": [
+          {
+            "item": "manure",
+            "weight": 8
+          },
+          {
+            "item": "acorn",
+            "weight": 2
+          },
+          {
+            "item": "pinecone",
+            "weight": 2
+          }
+        ]
+      },
+      {
+        "id": 1001,
+        "main_item": "wood",
+        "time": 1200,
+        "result": [
+          {
+            "item": "wood",
+            "weight": 20
+          }
+        ],
+        "ingredients": [
+          {
+            "item": "manure",
+            "weight": 4
+          },
+          {
+            "item": "acorn",
+            "weight": 1
+          },
+          {
+            "item": "pinecone",
+            "weight": 1
+          }
+        ]
+      }
+    ]
+  },
+  "texture": {
+    "name": "nursery",
+    "width": 64,
+    "height": 120
+  },
+  "walkable_pattern": [
+    [
+      false,
+      true,
+      true,
+      false
+    ],
+    [
+      false,
+      true,
+      true,
+      false
+    ],
+    [
+      false,
+      true,
+      true,
+      false
+    ],
+    [
+      false,
+      true,
+      true,
+      false
+    ],
+    [
+      false,
+      true,
+      true,
+      false
+    ]
+  ],
+  "target_pattern": [
+    [
+      false,
+      false,
+      false,
+      false
+    ],
+    [
+      false,
+      false,
+      false,
+      false
+    ],
+    [
+      false,
+      false,
+      false,
+      false
+    ],
+    [
+      true,
+      false,
+      false,
+      true
+    ],
+    [
+      true,
+      false,
+      false,
+      true
+    ]
+  ],
+  "ground_pattern": [
+    [
+      "G",
+      "G",
+      "G",
+      "G"
+    ],
+    [
+      "G",
+      "G",
+      "G",
+      "G"
+    ],
+    [
+      "G",
+      "G",
+      "G",
+      "G"
+    ],
+    [
+      "G",
+      "G",
+      "G",
+      "G"
+    ],
+    [
+      "G",
+      "G",
+      "G",
+      "G"
+    ]
+  ],
+  "ingredients": [
+    {
+      "item": "iron",
+      "weight": 2
+    },
+    {
+      "item": "glass",
+      "weight": 10
+    },
+    {
+      "item": "mudbrick",
+      "weight": 12
+    }
+  ]
+}

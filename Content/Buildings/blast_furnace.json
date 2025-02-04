@@ -1,0 +1,239 @@
+{
+  "name_key": "blast_furnace",
+  "description_key": "used_to_smelting_metals_from_its_ores",
+  "width": 7,
+  "height": 4,
+  "type": "Crafter",
+  "category": "Metallurgy",
+  "animated": true,
+  "cloneable": true,
+  "rotatable": false,
+  "requireBuilding": true,
+  "destructible": true,
+  "movementSpeed": 50,
+  "constructionTime": 300,
+  "smokeGenerator": {
+    "x": 55,
+    "y": -75
+  },
+  "crafter": {
+    "laborType": "Craft",
+    "autocrafter": true,
+    "recipes": [
+      {
+        "main_item": "steel_ingot",
+        "time": 175,
+        "result": [
+          {
+            "item": "steel_ingot",
+            "weight": 2
+          }
+        ],
+        "ingredients": [
+          {
+            "item": "iron_bloom",
+            "weight": 2,
+            "show": true
+          },
+          {
+            "item": "charcoal",
+            "weight": 6,
+            "show": true
+          }
+        ]
+      },
+      {
+        "main_item": "iron",
+        "time": 60,
+        "result": [
+          {
+            "item": "iron",
+            "weight": 4
+          }
+        ],
+        "ingredients": [
+          {
+            "item": "iron_bloom",
+            "weight": 4
+          },
+          {
+            "item": "charcoal",
+            "weight": 4
+          }
+        ]
+      },
+      {
+        "main_item": "silicon",
+        "time": 60 ,
+        "result": [
+          {
+            "item": "silicon",
+            "weight": 4
+          }
+        ],
+        "ingredients": [
+          {
+            "item": "sand",
+            "weight": 8
+          }
+        ]
+      },
+      {
+        "main_item": "silicon_ingot",
+        "time": 200,
+        "result": [
+          {
+            "item": "silicon_ingot",
+            "weight": 2
+          }
+        ],
+        "ingredients": [
+          {
+            "item": "silicon",
+            "weight": 4,
+            "show": true
+          }
+        ]
+      }
+    ]
+  },
+  "texture": {
+    "name": "blast_furnace",
+    "width": 112,
+    "height": 127
+  },
+  "walkable_pattern": [
+    [
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true
+    ],
+    [
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true
+    ],
+    [
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true
+    ],
+    [
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true
+    ]
+  ],
+  "target_pattern": [
+    [
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false
+    ],
+    [
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false
+    ],
+    [
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false
+    ],
+    [
+      false,
+      false,
+      false,
+      true,
+      false,
+      false,
+      false
+    ]
+  ],
+  "ground_pattern": [
+    [
+      "A",
+      "A",
+      "A",
+      "A",
+      "A",
+      "A",
+      "A"
+    ],
+    [
+      "A",
+      "A",
+      "A",
+      "A",
+      "A",
+      "A",
+      "A"
+    ],
+    [
+      "A",
+      "A",
+      "A",
+      "A",
+      "A",
+      "A",
+      "A"
+    ],
+    [
+      "A",
+      "A",
+      "A",
+      "A",
+      "A",
+      "A",
+      "A"
+    ]
+  ],
+  "ingredients": [
+    {
+      "item": "steel_ingot",
+      "weight": 8
+    },
+    {
+      "item": "brick",
+      "weight": 10
+    }
+  ],
+  "lightEmitter": {
+    "radius": 300
+  },
+  "fuelConsumer": {
+    "fuel": [
+      "charcoal",
+      "full_battery"
+    ],
+    "energy_consumption": 0.10
+  }
+}

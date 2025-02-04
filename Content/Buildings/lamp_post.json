@@ -1,0 +1,52 @@
+{
+  "name_key": "lamp_post",
+  "description_key": "solar_light_desc",
+  "width": 1,
+  "height": 1,
+  "type": "Lighter",
+  "category": "Settlement",
+  "animated": true,
+  "cloneable": true,
+  "rotatable": true,
+  "requireBuilding": true,
+  "destructible": true,
+  "movementSpeed": -1,
+  "constructionTime": 100,
+  "lightEmitter": {
+    "radius": 200
+  },
+  "texture": {
+    "name": "lamp_post",
+    "width": 48,
+    "height": 48
+  },
+  "walkable_pattern": [
+    [
+      true
+    ]
+  ],
+  "target_pattern": [
+    [
+      true
+    ]
+  ],
+  "ground_pattern": [
+    [
+      "A"
+    ]
+  ],
+  "ingredients": [
+    {
+      "item": "iron",
+      "weight": 1
+    },
+    {
+      "item": "glass",
+      "weight": 1
+    },
+    {
+      "item": "silicon_ingot",
+      "weight": 1
+    }
+ ]
+}

@@ -1,0 +1,35 @@
+{
+  "plants": [
+    "grape_bush",
+    "barley",
+    "pea",
+    "flax",
+    "dandelion",
+    "carrot_wild",
+    "wineberry_bush",
+    "redwood",
+    "avacado_tree",
+    "mulberry_tree",
+    "onion_plant",
+    "lemon_tree",
+    "timothy_grass",
+    "butterfly_bush",
+    "dames_rockets",
+    "multiflora_rose_bush",
+    "rose_bush",
+    "blueberry_bush",
+    "star_flower",
+    "tulip",
+    "tomato_plant",
+    "bell_pepper_plant",
+    "corn",
+    "tea_plant",
+    "pumpkin_plant",
+    "potato_plant"
+  ],
+  "trees": [
+    "oak",
+    "maple",
+    "pine"
+  ]
+}

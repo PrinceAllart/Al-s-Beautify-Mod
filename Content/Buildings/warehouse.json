@@ -1,0 +1,122 @@
+{
+  "name_key": "warehouse",
+  "description_key": "used_for_storing_resources",
+  "width": 5,
+  "height": 3,
+  "type": "Stockpile",
+  "category": "Storage",
+  "animated": false,
+  "rotatable": false,
+  "cloneable": true,
+  "requireBuilding": true,
+  "show_item_on_top": false,
+  "destructible": true,
+  "movementSpeed": 50,
+  "constructionTime": 50,
+  "storage": {
+    "canCopySettings": true,
+    "capacity": 1000,
+    "shelfLifeOfProducts": 5,
+    "filters": [
+      0,
+      1,
+      2,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10,
+      13,
+      14,
+      3,
+      15
+    ],
+    "stages": 1,
+    "isEditable": true
+  },
+  "texture": {
+    "name": "warehouse",
+    "width": 80,
+    "height": 53
+  },
+  "walkable_pattern": [
+    [
+      true,
+      true,
+      true,
+      true,
+      true
+    ],
+    [
+      true,
+      true,
+      true,
+      true,
+      true
+    ],
+    [
+      true,
+      true,
+      true,
+      true,
+      true
+    ]
+  ],
+  "target_pattern": [
+    [
+      true,
+      true,
+      true,
+      true,
+      true
+    ],
+    [
+      true,
+      false,
+      true,
+      false,
+      true
+    ],
+    [
+      true,
+      true,
+      true,
+      true,
+      true
+    ]
+  ],
+  "ground_pattern": [
+    [
+      "A",
+      "A",
+      "A",
+      "A",
+      "A"
+    ],
+    [
+      "A",
+      "A",
+      "A",
+      "A",
+      "A"
+    ],
+    [
+      "A",
+      "A",
+      "A",
+      "A",
+      "A"
+    ]
+  ],
+  "ingredients": [
+    {
+      "item": "tin_plate",
+      "weight": 4
+    },
+    {
+      "item": "brick",
+      "weight": 12
+    }
+  ]
+}

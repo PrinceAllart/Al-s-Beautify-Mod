@@ -1,0 +1,269 @@
+{
+  "name_key": "candle_maker",
+  "description_key": "used_for_crafting_candles",
+  "width": 2,
+  "height": 2,
+  "type": "Crafter",
+  "category": "Production",
+  "animated": true,
+  "rotatable": false,
+  "cloneable": true,
+  "requireBuilding": true,
+  "destructible": true,
+  "movementSpeed": 50,
+  "constructionTime": 25,
+  "crafter": {
+    "laborType": "Craft",
+    "autocrafter": false,
+    "recipes": [
+      {
+        "main_item": "candle",
+        "id": "1220",
+        "time": 50,
+        "result": [
+          {
+            "item": "candle",
+            "weight": 8
+          }
+        ],
+        "ingredients": [
+          {
+            "item": "wax",
+            "weight": 8,
+            "show": true
+          },
+          {
+            "item": "yarn",
+            "weight": 8,
+            "show": true
+          }
+        ]
+      },
+      {
+        "main_item": "candle",
+        "id": "1221",
+        "time": 50,
+        "result": [
+          {
+            "item": "candle",
+            "weight": 8
+          }
+        ],
+        "ingredients": [
+          {
+            "item": "animal_fat",
+            "weight": 8,
+            "show": true
+          },
+          {
+            "item": "yarn",
+            "weight": 8,
+            "show": true
+          }
+        ]
+      },
+      {
+        "main_item": "candle",
+        "id": "1222",
+        "time": 50,
+        "result": [
+          {
+            "item": "candle",
+            "weight": 6
+          }
+        ],
+        "ingredients": [
+          {
+            "item": "wax",
+            "weight": 6,
+            "show": true
+          },
+          {
+            "item": "yarn",
+            "weight": 6,
+            "show": true
+          }
+        ]
+      },
+      {
+        "main_item": "candle",
+        "id": "1223",
+        "time": 50,
+        "result": [
+          {
+            "item": "candle",
+            "weight": 6
+          }
+        ],
+        "ingredients": [
+          {
+            "item": "animal_fat",
+            "weight": 6,
+            "show": true
+          },
+          {
+            "item": "yarn",
+            "weight": 6,
+            "show": true
+          }
+        ]
+      },
+      {
+        "main_item": "candle",
+        "id": "1224",
+        "time": 50,
+        "result": [
+          {
+            "item": "candle",
+            "weight": 4
+          }
+        ],
+        "ingredients": [
+          {
+            "item": "wax",
+            "weight": 4,
+            "show": true
+          },
+          {
+            "item": "yarn",
+            "weight": 4,
+            "show": true
+          }
+        ]
+      },
+      {
+        "main_item": "candle",
+        "id": "1225",
+        "time": 50,
+        "result": [
+          {
+            "item": "candle",
+            "weight": 4
+          }
+        ],
+        "ingredients": [
+          {
+            "item": "animal_fat",
+            "weight": 4,
+            "show": true
+          },
+          {
+            "item": "yarn",
+            "weight": 4,
+            "show": true
+          }
+        ]
+      },
+      {
+        "main_item": "candle",
+        "id": "1226",
+        "time": 50,
+        "result": [
+          {
+            "item": "candle",
+            "weight": 2
+          }
+        ],
+        "ingredients": [
+          {
+            "item": "wax",
+            "weight": 2,
+            "show": true
+          },
+          {
+            "item": "yarn",
+            "weight": 2,
+            "show": true
+          }
+        ]
+      },
+      {
+        "main_item": "candle",
+        "id": "1227",
+        "time": 50,
+        "result": [
+          {
+            "item": "candle",
+            "weight": 2
+          }
+        ],
+        "ingredients": [
+          {
+            "item": "animal_fat",
+            "weight": 2,
+            "show": true
+          },
+          {
+            "item": "yarn",
+            "weight": 2,
+            "show": true
+          }
+        ]
+      }
+    ]
+  },
+  "texture": {
+    "name": "candle_maker",
+    "width": 32,
+    "height": 64
+  },
+  "walkable_pattern": [
+    [
+      true,
+      true
+    ],
+    [
+      true,
+      true
+    ]
+  ],
+  "target_pattern": [
+    [
+      false,
+      false
+    ],
+    [
+      true,
+      true
+    ]
+  ],
+  "ground_pattern": [
+    [
+      "A",
+      "A"
+    ],
+    [
+      "A",
+      "A"
+    ]
+  ],
+  "ingredients": [
+    {
+      "item": "clay",
+      "weight": 4
+    },
+    {
+      "item": "wood",
+      "weight": 4
+    },
+    {
+      "item": "copper",
+      "weight": 4
+    },
+    {
+      "item": "stone",
+      "weight": 4
+    }
+  ],
+  "lightEmitter": {
+    "radius": 100
+  },
+  "fuelConsumer": {
+    "fuel": [
+      "charcoal",
+      "wood",
+      "dry_manure_fuel"
+    ],
+    "energy_consumption": 0.06
+  }
+}

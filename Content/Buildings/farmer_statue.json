@@ -1,0 +1,57 @@
+{
+  "name_key": "farmer_statue",
+  "description_key": "decoration_desc",
+  "width": 2,
+  "height": 2,
+  "type": "None",
+  "category": "Settlement",
+  "animated": false,
+  "rotatable": true,
+  "cloneable": true,
+  "requireBuilding": false,
+  "show_item_on_top": false,
+  "destructible": true,
+  "movementSpeed": -1,
+  "constructionTime": 1,
+  "texture": {
+    "name": "farmer_statue",
+    "width": 32,
+    "height": 32
+  },
+  "walkable_pattern": [
+    [
+      true,
+      true
+    ],
+    [
+      false,
+      false
+    ]
+  ],
+  "target_pattern": [
+    [
+      false,
+      false
+    ],
+    [
+      false,
+      false
+    ]
+  ],
+  "ground_pattern": [
+    [
+      "A",
+      "A"
+    ],
+    [
+      "A",
+      "A"
+    ]
+  ],
+  "ingredients": [
+    {
+      "item": "limestone",
+      "weight": 8
+    }
+  ]
+}

@@ -1,0 +1,811 @@
+key,translation
+language_change_warning,Veuillez redémarrer le jeu pour que les modifications soient prises en compte.
+language_name,Français
+new_game,Nouvelle Partie
+resume,Continuer
+result,Résultat
+language,Langue
+load_game,Charger Partie
+exit_to_desktop,Retourner au Bureau
+exit_to_main_menu,Retourner au Menu Principal
+save,Sauvegarder
+gather,Ramasser
+mine,Miner
+mine_mine,Mine
+chop,Couper
+cut,Tailler
+chop_completely,Couper complètement
+cut_completely,Tailler complètement
+сhop_automatically,Couper automatiquement
+cut_automatically,Tailler automatiquement
+chop_now,Couper maintenant
+cut_now,Tailler maintenant
+сhop_automatically_description,Couper automatiquement la plante après sa pleine croissance
+сut_automatically_description,Tailler automatiquement la plante après sa pleine croissance
+hunt,Chasser
+cancel,Annuler
+destruct,Détruire
+stone_tools,Outils en pierre
+charcoal_kiln,Four à charbon
+copper_smelting,Fonderie de cuivre
+bronze_smelting,Fonderie de bronze
+iron_smelting,Fonderie de fer
+time_machine,Machine temporelle
+grain_processing,Travail du grain
+pottery,Poterie
+brewing,Brassage
+alcoholic_drinks,Boissons alcoolisées
+tanning,Tannage
+animals_domestication,Domestication des animaux
+cheesemaking,Fabrication du fromage
+oven,Four
+agriculture,Agriculture
+fertilizing,Fertilisation
+weaving,Tissage
+satiety,Satiété
+energy,Energie
+health,Santé
+age,Âge
+day,Jour
+settlers,Colons
+animals,Animaux
+wall,Mur
+floor,Sol
+hut,Hutte
+production,Production
+storage,Stockage
+level,Niveau
+defense,Défense
+bridge,Pont
+paleolithic,Paléolithique
+mesolithic,Mésolithique
+neolithic,Néolithique
+chalcolithic,Chalcolithique
+bronze_age,Âge du Bronze
+iron_age,Âge du Fer
+fuel,Combustible
+burial,Enterrement
+consumption,Consommation
+irrigation,Irrigation
+sowing,Planter
+irrigate,Arroser
+fertilize,Fertiliser
+technologies,Technologies
+rest,Se reposer
+work,Travailler
+sleep,Dormir
+happiness,Bonheur
+nutrition,Alimentation
+time,Temps
+ingredients,Ingrédients
+hours,Heures
+felling,Abattage
+gathering,Collecte
+building,Construction
+farming,Agriculture
+supplying,Approvisionnement
+ranching,Élevage
+capacity,Capacité
+resource,Ressource
+required_technology,Technologie requise
+ration,Ration
+growth_speed,Vitesse croissance
+growth_progress,Progression croissance
+days,Jours
+food_drying,Séchage des aliments
+fertilizer,Engrais
+None,None
+spinning,Filage
+new_settlers_arrived,Nouveau colon arrivé
+new_technologies_available,Nouvelle technologie disponible
+required,Requis
+deposit,Dépôt
+recipe,Recette
+progress,Progrès
+crafting,Artisanat
+Pick,Pioche
+copy_settings,Copier paramètres
+value,Valeur
+trade,Commercer
+metallurgy,Métallurgie
+open,Ouvrir
+close,Fermer
+clone,Cloner
+mechanisms,Mécanismes
+experience_points,Points d'expérience
+world_settings,Paramètres du monde
+create,Créer
+back,Précédent
+world_with_that_name_already_exists,Un monde avec ce nom existe déjà
+world_name,Nom du monde
+world_size,Taille du monde
+cooking,Cuisine
+freshness,Fraîcheur
+durability,Durabilité
+season,Saison
+spoilage_rate,Taux de détérioration
+per_day,par jour
+soil,Sol
+moisture,Humidité
+plant,Plante
+name,Nom
+temperature,Température
+protects_against_low_temperatures,Protège contre les basses températures
+priority,Priorité
+speed,Vitesse
+spoiled,Pourri
+barley,Orge
+flax,Lin
+grape_bush,Vigne
+oak,Chêne
+pea,Pois
+culinary_ingredients,Ingrédients culinaires
+fertilizers,Engrais
+resources,Ressources
+seeds,Graines
+food,Aliments
+tools,Outils
+clothes,Vêtements
+containers,Contenants
+summer,Eté
+autumn,Automne
+winter,Hiver
+spring,Printemps
+woodcutting,Coupe du bois
+mining,Extraction minière
+hunting,Chasse
+harvesting,Récolte
+planting,Plante
+plowing,Labour
+fishing,Pêche
+hauling,Transporte
+wooden_cart,Chariot en bois
+wooden_plow,Charrue en bois
+copper_reaper,Faucheuse en cuivre
+copper,Cuivre
+bronze,Bronze
+iron,Fer
+manure,Fumier
+wood,Bois
+charcoal,Charbon
+stone,Pierre
+clay,Argile
+leather,Cuir
+copper_ore,Minerai de cuivre
+tin_ore,Minerai d'étain
+iron_ore,Minerai de fer
+crushed_copper_ore,Minerai de cuivre broyé
+crushed_tin_ore,Minerai d'étain broyé
+crushed_iron_ore,Minerai de fer broyé
+fiber,Fibre
+cloth,Tissu
+yarn,Fil
+woven_clothing,Vêtement tissé
+dry_skin,Peau séchée
+raw_skin,Peau brute
+mudbrick,Brique en argile
+settler_corpse,Cadavre de colon
+stone_sickle,Faucille en pierre
+copper_sickle,Faucille en cuivre
+bronze_sickle,Faucille en bronze
+iron_sickle,Faucille en fer
+stone_axe,Hache en pierre
+copper_axe,Hache en cuivre
+bronze_axe,Hache en bronze
+iron_axe,Hache en fer
+stone_hoe,Houe en pierre
+copper_hoe,Houe en cuivre
+bronze_hoe,Houe en bronze
+iron_hoe,Houe en fer
+stone_pick,Pioche en pierre
+copper_pick,Pioche en cuivre
+bronze_pick,Pioche en bronze
+iron_pick,Pioche en fer
+wooden_spear,Lance en bois
+stone_spear,Lance en pierre
+copper_spear,Lance en cuivre
+bronze_spear,Lance en bronze
+iron_spear,Lance en fer
+wooden_harpoon,Harpon en bois
+stone_harpoon,Harpon en pierre
+copper_harpoon,Harpon en cuivre
+bronze_harpoon,Harpon en bronze
+iron_harpoon,Harpon en fer
+sling,Fronde
+bow,Arc
+crossbow,Arbalète
+barley_seeds,Graines d'orge
+skins_outfit,Tenue en peau
+warm_fur_clothes,Vêtement en fourrure
+warm_knitted_clothes,Vêtement chaud tricoté
+chainmail,Cotte de maille
+leather_outfit,Tenue en cuir
+ceramic_pot,Jarre en céramique
+unfired_pot,Jarre non cuite
+pot_of_beer,Jarre de bière
+pot_of_wine,Jarre de vin
+pot_of_mead,Jarre d'hydromel
+pot_of_water,Jarre d'eau
+pot_of_milk,Jarre de lait
+flour,Farine
+grape,Raisin
+raisin,Raisin sec
+raw_meat,Viande crue
+dry_fish,Poisson séché
+dry_meat,Viande séchée
+raw_fish,Poisson cru
+number_of_fish,Nombre de poissons
+peas,Pois
+cooked_meat,Viande cuite
+cooked_fish,Poisson cuit
+flatbread,Pain plat
+cheese,Fromage
+hay,Foin
+mudbrick_hut,Hutte de brique en argile
+bloomery,Bas fourneau
+used_to_smelting_metals_from_its_ores,Utilisé pour fondre les métaux à partir de leur minerai
+clay_barn,Grange en argile
+used_for_storing_resources,Utilisée pour stocker des ressources
+used_for_coal_production,Utilisé pour produire du charbon
+clay_deposit,Gisement d'argile
+clay_hut,Hutte en argile
+clay_oven,Four en argile
+used_for_quick_cooking,Utilisé pour cuire rapidement
+iron_smithy,Forge de fer
+used_for_forging_iron_tools,Utilisée pour forger des outils en fer
+copper_deposit,Gisement de cuivre
+crafter,Établi
+used_to_create_primitive_tools,Utilisé pour créer des outils primitifs
+dirt_path,Chemin de terre
+dolmen,Dolmen
+drop_spindle,Fuseau
+used_for_spinning_yarn,Utilisé pour filer le fil
+farm_plot,Parcelle agricole
+used_for_growing_plants,Utilisée pour cultiver des plantes
+fermenting_pot,Jarre de fermentation
+used_to_ferment_foods,Utilisée pour fermenter les aliments
+fishing_place,Zone de pêche
+used_for_fishing,Utilisée pour la pêche
+fish_trap,Piège à poissons
+food_dryer,Séchoir à aliments
+used_for_drying_food,Utilisé pour sécher les aliments
+grave,Tombe
+used_to_bury_the_dead,Utilisée pour enterrer les morts
+hearth,Foyer
+used_for_cooking,Utilisé pour la cuisine
+iron_deposit,Gisement de fer
+kiln,Four
+used_for_firing_ceramic_products,Utilisé pour la cuisson de produits céramiques
+warp_weighted_loom,Métier à tisser à poids de chaîne
+used_to_weave_cloth,Utilisé pour confectionner du tissu
+mechanical_crusher,Broyeur mécanique
+used_to_crushing_resources,Utilisé pour broyer les ressources
+millstone,Meule
+used_for_quick_grinding_of_grain,Utilisée pour moudre rapidement des céréales
+used_for_mining,Utilisé pour l'extraction minière
+mortar_and_pestle,Mortier et pilon
+used_to_grinding_and_crushing_resources,Utilisés pour moudre et broyer les ressources
+mudbrick_dryer,Séchoir à briques
+used_for_drying_adobe,Utilisé pour sécher l'adobe
+palisade,Palissade
+barn,Grange
+primitive_animal_dwelling,Étable primitive
+used_to_cross_water,Utilisé pour traverser l'eau
+skin_drying_rack,Séchoir à peaux
+used_for_drying_skins,Utilisé pour sécher les peaux
+spinning_wheel,Rouet
+stick_hut,Hutte en bois
+stockpile,Réserve
+copper_smithy,Forge de cuivre
+used_for_forging_copper_and_bronze_tools,Utilisée pour forger des outils en cuivre et en bronze
+stone_deposit,Gisement de pierres
+stone_floor,Sol en pierre
+allows_creatures_to_move_faster,Permet de se déplacer plus rapidement
+primitive_dwelling,Habitation primitive
+stone_pieces,Morceaux de pierre
+stone_wall,Mur en pierre
+tannery,Tannerie
+used_for_tanning_skins,Utilisée pour tanner les peaux
+tin_deposit,Gisement d'étain
+water_gathering_place,Zone de collecte de l’eau
+used_to_collect_water,Utilisée pour collecter de l'eau
+well,Puits
+windmill,Moulin
+windmill_description,Converts wind energy into mechanical energy
+used_for_automated_grinding_of_grain,Utilisé pour le broyage automatisé des céréales
+wooden_gate,Porte en bois
+point_of_entry_to_a_space_which_is_enclosed_by_walls,Point d'entrée d’une zone entouré de murs
+wood_pieces,Morceaux de bois
+workshop,Atelier
+used_to_create_advanced_tools,Utilisé pour créer des outils avancés
+sound_volume,Volume sonore
+accept,Accepter
+decline,Refuser
+tailors_workshop,Atelier du tailleur
+used_to_make_clothes,Utilisé pour confectionner des vêtements
+irrigation_canals,Canaux d'irrigation
+build_irrigation_canal,Construire canal d'irrigation
+destruct_irrigation_canal,Détruire canal d'irrigation
+melee_damage,Dégâts de mêlée
+range_damage,Dégâts à distance
+recharge_time,Temps de recharge
+tool_type,Type d'outil
+efficiency,Efficacité
+chance,Chance
+projectile_speed,Vitesse des projectiles
+repeat,Répéter
+fishing_rod,Canne à pêche
+mechanical_millstone,Meule mécanique
+energy_consumer,Consommateur d'énergie
+energy_source,Source d'énergie
+connected,Connecté
+disconnected,Déconnecté
+travel_speed,Vitesse de déplacement
+beekeeping,Apiculture
+wild_bee_hive,Ruche d'abeilles sauvages
+bee_hive,Ruche d'abeilles
+beeswax,Cire d'abeille
+dandelion,Pissenlit
+pot_of_honey,Pot de miel
+honeycomb,Rayon de miel
+flowers,Fleurs
+base_speed,Vitesse de base
+total_speed,Vitesse totale
+honey,Miel
+bee_hive_description,Produit du miel deux fois plus efficacement qu'une ruche sauvage
+a_wild_bee_hive_has_appeared_near_you,Une ruche d'abeilles sauvages est apparue près de chez vous
+future,Futur
+game_finished,Partie terminée
+energy_consumption,Consommation d'énergie
+energy_output,Production d'énergie
+time_machine_description,Machine pour voyager dans le temps
+energy_available,Énergie disponible
+return_to_the_future,Retour vers le futur
+windowed,Fenêtré
+fullscreen,Plein écran
+open_game_data_folder,Ouvrir dossier données du jeu
+credits,Crédits
+turn_on_music,Activer musique
+turn_off_music,Désactiver musique
+recipes,Recettes
+aurochs,Aurochs
+boar,Sanglier
+tarpan,Tarpan
+mouflon,Mouflon
+workers,Ouvriers
+knowledge_points,Points de Connaissance
+knowledge,Connaissances
+primitive_school_description,Utilisée pour gagner des points de connaissance
+skin_tent,Tente en peau
+edge_scrolling_camera,Défilement sur les bords Caméra
+learning,Apprentissage
+left_click,Clic gauche
+right_click,Clic droit
+enable_all,Activer tout
+disable_all,Désactiver tout
+pregnancy,Grossesse
+was_killed_by,{0} a été tué par {1}
+command_line,ligne de commande
+x_died_of_starvation,{0} est mort de faim
+x_died_from_the_cold,{0} est mort de froid
+x_died_of_old_age,{0} est mort de vieillesse
+domesticate,Domestiquer
+slaughter,Abattage
+animal_male,Mâle
+animal_female,Femelle
+shelf_life_of_products,Durée de vie produits
+food_storage_hut_description,Utilisée pour conserver les aliments. Conserve les aliments frais pendant longtemps
+food_storage_hut,Hutte de stockage des aliments
+mammoth,Mammouth
+copy,Copier
+paste,Coller
+brick,Brique
+the_settlers_are_freezing,Les colons sont gelés
+the_settlers_are_starving,Les colons meurent de faim
+child,Enfant
+adult,Adulte
+old,Vieux
+animal_pen,Enclos pour animaux
+animal_pen_description,Utilisé pour le repos et l'alimentation des animaux
+animal_filter,Filtre animalier
+the_settlers_are_unhappy,Les colons sont mécontents
+production_limit,Limite de production
+repeat_until_production_limits_are_reached,Répéter jusqu'à ce que les limites de production soient atteintes
+all,Tout
+stored,Stocké
+wolf,Loup
+peaceful_mode,Mode pacifique
+a_wild_animal_is_about_to_attack_your_settlement,Un animal sauvage s'apprête à attaquer votre colonie !
+weapon,Arme
+attack,Attaquer
+equip,Équiper
+come_here,Venir ici
+bone,Os
+bone_sickle,Faucille en os
+bone_harpoon,Harpon en os
+bone_spear,Lance en os
+bone_tools,Outils en os
+items,Objets
+wolf_domestication,Domestication du loup
+clean_up_manure,Nettoyer fumier
+cattle,Vache
+horse,Cheval
+pig,Cochon
+sheep,Mouton
+dog,Chien
+brick_floor,Sol en brique
+brick_wall,Mur en brique
+haystack,Meule de foin
+haystack_description,Utilisée pour stocker le foin
+disband,Démanteler
+automatically_mine_spawned_deposits,Miner automatiquement les gisements créés
+mine_description,Utilisé pour extraire les ressources des mines. Génère des gisements tout autour
+shelf_life,Durée de vie
+raisin_buns,Brioche aux raisins
+rename,Renommer
+wool,Laine
+wool_clothing,Vêtements en laine
+wool_yarn,Fil de laine
+wool_cloth,Tissu de laine
+new_settlers,Nouveaux colons
+duration_x_minutes,Durée: {0} minutes
+duration_x_hours,Durée: {0:0.0} heures
+movement_speed,Vitesse de déplacement
+effects,Effets
+herbalist_table,Table d'herboriste
+herbalist_table_description,Utilisée pour créer des médicaments primitifs
+food_poisoning_cure,Remède intox alimentaire
+primitive_medicine,Médecine primitive
+medicine,Médecine
+causes,Raisons
+cures,Remèdes
+productivity,Productivité
+wind,Vent
+calm,Calme
+light,Léger
+moderate,Modéré
+strong,Fort
+depends_on_wind_speed,Dépend de la vitesse du vent
+mudbrick_wall,Mur en argile
+mudbrick_floor,Sol en argile
+torch,Torche
+torch_description,Utilisée pour éclairer un espace
+energy_type,Type d'énergie
+kinetic,Cinétique
+gas,Gaz
+knowledge_table,Table de connaissances
+pause,Pause
+has_joined_your_settlement,{0} a rejoint votre colonie
+walls,Murs
+wall_description,Une structure utilisée pour créer une barrière infranchissable
+basket,Panier
+number_of_uses,Nombre d'utilisations
+to_do_the_job_of_x_you_need_tools,Pour faire le travail de {0} vous avez besoin d'outils
+game_menu,Menu
+food_poisoning,Intox alimentaire
+vomiting,Vomi
+sleeping,Dort
+sleeping_on_the_ground,Dort par terre
+winter_cold,Froid hivernal
+warm_clothing,Vêtement chaud
+cozy_hut,Hutte confortable
+cozy_tent,Tente confortable
+warm_place,Endroit chaud
+dirty_animal_pen,Enclos pour animal sale
+hunger,Faim
+low_light,Faible éclairage
+spawn_time,Durée apparition
+show_resource_in_the_general_list,Afficher ressource dans liste générale
+rain,Pluie
+stopped_due_to,Arrêtée à cause de: {0}
+pea_seeds,Graines de pois
+pea_soup,Soupe de pois
+thresher,Batteur
+thresher_description,Utilisé pour battre les plantes afin de séparer les graines du foin
+sheaf_of_barley,Gerbe d'orge
+bunch_of_peas,Botte de petits pois
+threshing_floor,Aire de battage
+threshing_floor_description,"Utilisé pour le battage de masse des 
+plantes pour séparer les graines du foin"
+noria,Noria
+noria_description,Utilisé pour extraire l'eau d'un puits et la diriger vers les canaux d'irrigation.
+iron_bloom,Fleur de fer
+assigned_to,Attribué à {0}
+assign_to,Attribué à {0}
+unassign_from,Retirer de {0}
+assign_a_pet,Attribuer un compagnon
+pets,Compagnons
+music_volume,Volume de la musique
+destruct_surface,Destruct surface
+x_got_the_y_effect,{0} a reçu l'effet {1}
+days_until_aging_x,Days until aging: {0}
+days_until_death_x,Days until death: {0}
+trading_post,Poste de traite
+trading,Commerce
+trading_post_assortment_update,The assortment of trading posts has been updated!
+buying,Buying
+selling,Selling
+trading_post_description,Allows you to buy and sell goods. Updates its assortment once a day
+mealing_stone,Meule à grains
+mealing_stone_description,Used for processing grain and seeds
+animal_fat,Graisse animale
+oil_lamp,Lampe à huile
+oil_lamp_description,"Utilisée pour l'éclairage, utilise des huiles et des graisses animales comme combustible"
+pemmican,Pemmican
+settlement,Colonie
+side_item,Side item
+dry_manure_fuel,Bouse séchée
+manure_drying_area,Manure drying area
+manure_drying_area_description,Used for drying manure
+energy_production,Energy production
+treadmill,Treadmill
+treadmill_description,Converts the energy of animals and settlers into mechanical energy
+x_is_already_assigned_to_this_hut,{0} is already assigned to this hut
+x_is_already_assigned_to_another_hut,{0} is already assigned to another hut
+assign_x_to_this_hut,Assign {0} to this hut
+assign_a_settler,Assign a settler
+free_up,Free up
+view_settler,View settler
+information,Information
+inventory,Inventory
+equipment,Equipment
+remove_equipment,Remove equipment
+mulberry,M�rier
+carrot,Carotte
+carrot_seeds,Graines de Carotte
+carrot_wild,Plant de Carotte
+lettuce_leaves,Feuilles de Laitue
+wineberries,Airelles
+wineberry_bush,Buisson d'Airelles
+limestone,Calcaire
+limestone_deposit,Gisement de Calcaire
+lettuce_wild,Laitue Sauvage
+lettuce_seeds,Graines de Laitue
+lamp_post,Lampe Solaire
+sycamore,Sycomore
+sycamore_pod,Pousse de Sycomore
+lettuce_tea,Th� � la Laitue
+red_beet_seeds,Graines de Betterave Rouge
+pine,Pin
+pinecone,Pomme de Pain
+avacado_seed,Pousse d'Avocatier
+avacado,Avocat
+avacado_tree,Avocatier
+red_beet,Betterave Rouge
+red_beet_plant,Plant de Betterave Rouge
+onion,Oignon
+onion_seeds,Graines d'Oignon
+onion_plant,Plant d'Oignon
+lemon_seeds,Graines de Citron
+tumeric,Curcuma
+tumeric_plant,Plant de Curcuma
+lemon,Citron
+lemon_tree,Citronnier
+spinach_plant,Plant d'Epinard
+spinach,Feuilles d'Epinard
+spinach_seeds,Graines d'Epinard
+woad_leaves,Feuilles de Gu�de
+woad_plant,Plant de Gu�de
+woad_seeds,Graines de Gu�de
+red_cabbage,Chou Rouge
+red_cabbage_plant,Plant de Chou Rouge
+red_cabbage_seeds,Graines de Chou Rouge
+blueberries,Myrtilles
+blueberry_ plant,Myrtillier
+blueberry_seeds,Graines de Myrtille
+red_beet_chips,Chips de Betterave Rouge
+used_to_dye_clothes,Utilis� pour teindre les v�tements en diff�rentes couleurs
+dye_station,Station de Teinture
+red_tunic,Tunique Rouge
+pink_tunic,Tunique Rose
+orange_tunic,Tunique Orange
+yellow_tunic,Tunique Jaune
+green_tunic,Tunique Verte
+ltblue_tunic,Tunique Bleu clair
+dkblue_tunic,Tunique Bleu fonc�
+purple_tunic,Tunique Mauve
+pot_of_vinegar,Pot de Vinaigre
+redwood_tree,S�quoia
+blueberry_bush,Myrtillier
+mulberry_tree,M�rier
+purple_coat,Manteau Mauve
+dkblue_coat,Manteau Bleu fonc�
+ltblue_coat,Manteau Bleu clair
+green_coat,Manteau Vert
+orange_coat,Manteau Orange
+yellow_coat,Manteau Jaune
+pink_coat,Manteau Rose
+red_coat,Manteau Rouge
+quarry,Carri�re
+quarry_description,Utilis� pour obtenir du sable
+sand,Sable
+silicon,Silicium
+silicon_ingot,Lingot de Silicium
+butterfly_bush,Buisson � Papillons
+decoration_desc,Juste pour la D�coration
+farmer_statue,Sculpture de Fermier
+bird_bath,Bain d'Oiseaux
+joyful_statue,Sculpture de la Joie
+merchant_statue,Sculpture de Marchand
+merchant_statue_desc,Quelqu'un qui apporte des marchandises et de la joie
+fountain,Fontaine
+fountain_small,Petite Fontaine
+stone_ball,Sculpture en forme de Boule
+holder_statue_light,Sculpture sur Socle avec de la Lumi�re
+holder_statue,Sculpture sur Socle
+copper_lamp,Lampe en Cuivre
+copper_lamp_post,Lampe en Cuivre sur Pied
+bronze_lamp,Lampe en Bronze
+bronze_lamp_post,Lampe en Bronze sur Pied
+iron_lamp,Lampe en Fer
+iron_lamp_post,Lampe en Fer sur Pied
+stone_arch,Arche de Pierre
+dog_statue,Sculpture de Chien en Pierre
+limestone_dog_statue,Sculpture de Chien en Calcaire
+totem,Sculpture en Bois
+timothy_grass,Fl�ole des Pr�s
+timothy_grass_desc,Produit du Foin
+timothy_grass_seeds,Graines de Fl�ole des Pr�s
+multiflora_rose_bush,Rosier Multifleurs
+rose_bush,Rosier
+dames_rockets,Julienne des Dames
+tulip,Tulipe
+star_flower,Fleur d'Etoile
+wood_flower_wall,Mur de Fleurs en Bois
+stone_flower_wall,Mur en Pierre avec des Fleurs
+hedge,Haie
+stone_rose_wall,Mur en Pierre avec des Roses
+brick_flower_wall,Mur de Fleurs en Brique
+mudbrick_flower_wall,Mur en Brique de Boue avec des Fleurs
+brick_rose_wall,Mur en Brique avec des Roses
+mudbrick_rose_wall,Mur en Brique de Boue avec des Roses
+wood_rose_wall,Mur en Bois avec des Roses
+wood_butterfly_wall,Mur en Bois avec des Fleurs de Papillon
+stone_butterfly_wall,Mur en Pierre avec des Fleurs de Papillon
+brick_butterfly_wall,Mur de Brique avec des Fleurs de Papillon
+mudbrick_butterfly_wall,Mur de Brique de Boue avec des Fleurs de Papillon
+chicken,Poule
+egg,Oeuf
+sugar,Sucre
+limestone_pillar,Pilier en Calcaire
+rose_sculpture_large,Grande Sculpture de Rose
+rose_sculpture_small,Petite Sculpture de Rose
+fish_cake,Boulette de Poisson
+spinach_quiche,Quiche aux Epinards
+lemon_square,Fourr� au Citron
+blueberry_tart,Tarte aux Myrtilles
+onion_quiche,Quiche aux Oignons
+meat_pie,Tourte � la Viande
+wineberry_pie,Tarte aux Framboises
+muffin,Muffin
+carving,Sculpture
+dwelling,Logement de Base
+brick_abode,Maison en Brique
+wooden_gate_small,Porte en Bois Une porte
+wooden_gate_large,Porte en Bois Double Porte
+simple_bed,Lit Rudimentaire
+steel_smelting,Fonderie d'Acier
+blast_furnace,Haut Fourneau
+steel_ingot,Lingot d'Acier
+solar_power,Energie Solaire
+solar_panel,Panneau Solaire
+charging_station,Station de Recharge
+used_to_charge_batteries,Utilis� pour recharger les batteries
+empty_battery,Batterie Vide
+full_battery,Batterie Pleine
+copper_wire,Fil de Cuivre
+coop,Poulailler
+glass,Verre
+used_to_make_glass,Utilis� pour fabriquer des objets en verre
+glass_workshop,Atelier du Verre
+glass_bottle,Bouteille en Verre
+solar_power,Energie Solaire
+source_of_solar_energy,Source d'Energie Solaire
+solar_light_desc,Utilis� pour alimenter en �nergie solaire l'�clairage d'un espace
+plank_floor,Sol en planches de bois
+used_to_create_tools,Utilis� pour cr�er des outils
+crafting_desk,Table d'Artisanat
+sewing_desk,Table de Couture
+study_desk,Table de Recherche
+used_to_make_clothes,Utiliser pour confectionner des v�tements
+used_for_crafting,Utiliser pour fabriquer des objets
+steel_smelting,Fonderie d'Acier & Silicium
+candle,Bougie
+wax,Cire
+honey,Miel
+avacado_oil,Huile d'Avocat
+candle_maker,Fabricant de Bougies
+candle_making,Fabrication de Bougies
+used_for_crafting_candles,Utilis� pour fabriquer des bougies
+advanced_crafting,Artisanat Avanc�
+candelabra_copper,Chandelier en Cuivre
+candelabra_bronze,Chandelier en Bronze
+candelabra_iron,Chandelier en Fer
+candelabra_steel,Chandelier en Acier
+lemonade,Limonade
+used_for_cooking,Utilis� pour cuire les aliments plus rapidement
+stove_iron,Fourneau en Fer
+brick_oven,Fourneau en Brique
+food_press,Presse Alimentaire
+used_to_make_oil,Utilis� pour la fabrication d'huiles et de jus
+used_for_making_pizza,Utilis� pour la cuisson des pizzas
+tomato,Tomate
+tomato_plant,Plant de Tomate
+tomato_seeds,Graines de Tomate
+bell_pepper,Poivron
+bell_pepper_plant,Plant de Poivron
+bell_pepper_seeds,Graines de Poivron
+tomato_pizza,Tarte � la Tomate
+cheeze_pizza,Pizza au Fromage
+meaty_pizza,Pizza � la Viande
+veggie_pizza,Pizza V�g�tarienne
+iron_gate,Porte en Fer
+iron_gate_large,Grande Porte en Fer
+acorn,Gland
+tapped_maple,Erable Entaillé
+tapped_pine,Pin Entaillé
+tapper,Entailler
+maple_sap,Sève d'Erable
+pine_sap,Sève de Sapin
+maple_syrup,Sirop d'Erable
+to_tap_trees,Entailler les Arbres
+tree_tapping,Abattre des Abres
+tea_seed,Graines de Thé
+tea_leaves,Feuilles de Thé
+tea_plant,Plant de Thé
+black_tea,Thé Noir
+limestone,Calcaire
+tomato_soup,Soupe de Tomate
+veg_soup,Soupe aux Légumes
+fried_egg,Oeuf Frit
+potato_chips,Chips de Pomme de Terre
+knitted_cap,Bonnet Tricoté
+sun_cap,Chapeau de Soleil
+head_wrap,Bandeau
+pancakes,Pancakes
+maple_seed,Graines d'Erable
+jack_o_lantern,Jack-o'-lantern
+toasted_pumpkin_seeds,Graines de Citrouille Grillées
+pumpkin_pie,Tarte à la Citrouille
+pumpkin,Citrouille
+pumpkin_seeds,Graines de Citrouille
+red_head_wrap,Bandeau Rouge
+orange_head_wrap,Bandeau Orange
+yellow_head_wrap,Bandeau Jaune
+green_head_wrap,Bandeau Vert
+ltblue_head_wrap,Bandeau Bleu clair
+dkblue_head_wrap,Bandeau Bleu foncé
+purple_head_wrap,Bandeau Mauve
+pink_head_wrap,Bandeau Rose
+red_sun_cap,Chapeau de Soleil Rouge
+orange_sun_cap,Chapeau de Soleil Orange
+yellow_sun_cap,Chapeau de Soleil Jaune
+green_sun_cap,Chapeau de Soleil Vert
+ltblue_sun_cap,Chapeau de Soleil Bleu clair
+dkblue_sun_cap,Chapeau de Soleil Bleu foncé
+purple_sun_cap,Chapeau de Soleil Mauve
+pink_sun_cap,Chapeau de Soleil Rose
+red_knitted_cap,Bonnet Tricoté Rouge
+orange_knitted_cap,Bonnet Tricoté Orange
+yellow_knitted_cap,Bonnet Tricoté Jaune
+green_knitted_cap,Bonnet Tricoté Vert
+ltblue_knitted_cap,Bonnet Tricoté Bleu clair
+dkblue_knitted_cap,Bonnet Tricoté Bleu foncé
+purple_knitted_cap,Bonnet Tricoté Mauve
+pink_knitted_cap,Bonnet Tricoté Rose
+warehouse,Entrep�t
+silo,Le Silo
+potato,Pomme de terre
+potato_plant,Pomme de terre sauvage
+foot_light_small,Petit Lampadaire
+floor_light_large,Grand Lampadaire
+tin_plate,Le Fer Blanc
+plate_casting,Moulage de plaques
+used_for_casting_plates,Utilis� pour lancer des plaques
+steel_drill,Foret en acier
+chainsaw,Tron�onneuse
+cattle_miner,B�tail Mineur
+cattle_miner_desc,Une machine utilise la force animale pour extraire du minerai.
+nursery,P�pini�re
+nursery_desc,Une serre o� les arbres sont cultiv�s puis transform�s en bois.
+advanced_buildings,B�timents avanc�s

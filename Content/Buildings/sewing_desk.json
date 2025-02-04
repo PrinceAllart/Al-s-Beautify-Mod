@@ -1,0 +1,215 @@
+{
+  "name_key": "sewing_desk",
+  "description_key": "used_to_make_clothes",
+  "width": 2,
+  "height": 1,
+  "type": "Crafter",
+  "category": "Production",
+  "animated": true,
+  "rotatable": false,
+  "cloneable": true,
+  "requireBuilding": true,
+  "destructible": true,
+  "movementSpeed": 50,
+  "constructionTime": 25,
+  "lightEmitter": {
+    "radius": 50
+          },
+  "crafter": {
+    "laborType": "Craft",
+    "autocrafter": false,
+    "recipes": [
+      {
+        "main_item": "skins_outfit",
+        "time": 50,
+        "result": [
+          {
+            "item": "skins_outfit",
+            "weight": 2
+          }
+        ],
+        "ingredients": [
+          {
+            "item": "dry_skin",
+            "weight": 2,
+            "show": true
+          }
+        ]
+      },
+      {
+        "main_item": "fur_cape",
+        "time": 50,
+        "result": [
+          {
+            "item": "fur_cape",
+            "weight": 2
+          }
+        ],
+        "ingredients": [
+          {
+            "item": "dry_skin",
+            "weight": 4,
+            "show": true
+          }
+        ]
+      },
+      {
+        "main_item": "leather_outfit",
+        "time": 50,
+        "result": [
+          {
+            "item": "leather_outfit",
+            "weight": 2
+          }
+        ],
+        "ingredients": [
+          {
+            "item": "leather",
+            "weight": 2,
+            "show": true
+          }
+        ]
+      },
+      {
+        "main_item": "woven_clothing",
+        "time": 50,
+        "result": [
+          {
+            "item": "woven_clothing",
+            "weight": 2
+          }
+        ],
+        "ingredients": [
+          {
+            "item": "cloth",
+            "weight": 2,
+            "show": true
+          }
+        ]
+      },
+      {
+        "main_item": "woven_cape",
+        "time": 50,
+        "result": [
+          {
+            "item": "woven_cape",
+            "weight": 2
+          }
+        ],
+        "ingredients": [
+          {
+            "item": "wool_cloth",
+            "weight": 2,
+            "show": true
+          }
+        ]
+      },
+      {
+        "main_item": "sun_cap",
+        "time": 50,
+        "result": [
+          {
+            "item": "sun_cap",
+            "weight": 2
+          }
+        ],
+        "ingredients": [
+          {
+            "item": "cloth",
+            "weight": 2,
+            "show": true
+          }
+        ]
+      },
+      {
+        "main_item": "head_wrap",
+        "time": 50,
+        "result": [
+          {
+            "item": "head_wrap",
+            "weight": 2
+          }
+        ],
+        "ingredients": [
+          {
+            "item": "cloth",
+            "weight": 2,
+            "show": true
+          }
+        ]
+      },
+      {
+        "main_item": "knitted_cap",
+        "time": 50,
+        "result": [
+          {
+            "item": "knitted_cap",
+            "weight": 2
+          }
+        ],
+        "ingredients": [
+          {
+            "item": "wool_cloth",
+            "weight": 2,
+            "show": true
+          }
+        ]
+      }
+    ]
+  },
+  "texture": {
+    "name": "sewing_desk",
+    "width": 32,
+    "height": 22
+  },
+  "walkable_pattern": [
+    [
+      true,
+      true
+    ],
+    [
+      true,
+      true
+    ]
+  ],
+  "target_pattern": [
+    [
+      false,
+      true
+    ],
+    [
+      false,
+      false
+    ]
+  ],
+  "ground_pattern": [
+    [
+      "A",
+      "A"
+    ],
+    [
+      "A",
+      "A"
+    ]
+  ],
+  "ingredients": [
+    {
+      "item": "wood",
+      "weight": 4
+    },
+    {
+      "item": "candle",
+      "weight": 1
+    }
+  ],
+  "fuelConsumer": {
+    "fuel": [
+      "charcoal",
+      "dry_manure_fuel",
+      "candle",
+      "animal_fat",
+      "full_battery"
+    ],
+    "energy_consumption": 0.06
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "name_key": "joyful_statue",
+  "description_key": "decoration_desc",
+  "width": 1,
+  "height": 1,
+  "type": "None",
+  "category": "Settlement",
+  "animated": false,
+  "rotatable": true,
+  "cloneable": true,
+  "requireBuilding": true,
+  "destructible": true,
+  "movementSpeed": -1,
+  "constructionTime": 1,
+  "texture": {
+    "name": "joyful_statue",
+    "width": 30,
+    "height": 30
+  },
+  "walkable_pattern": [
+    [
+      true
+    ]
+  ],
+  "target_pattern": [
+    [
+      false
+    ]
+  ],
+  "ground_pattern": [
+    [
+      "A"
+    ]
+  ],
+  "ingredients": [
+    {
+      "item": "limestone",
+      "weight": 3
+    }
+  ]
+}

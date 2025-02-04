@@ -1,0 +1,56 @@
+{
+  "name_key": "rose_sculpture_small",
+  "description_key": "decoration_desc",
+  "width": 1,
+  "height": 1,
+  "type": "None",
+  "category": "Settlement",
+  "animated": false,
+  "rotatable": true,
+  "cloneable": true,
+  "requireBuilding": true,
+  "destructible": true,
+  "movementSpeed": -1,
+  "constructionTime": 1,
+  "texture": {
+    "name": "rose_sculpture_small",
+    "width": 25,
+    "height": 25
+  },
+  "walkable_pattern": [
+    [
+      true,
+      true
+    ],
+    [
+      false,
+      false
+    ]
+  ],
+  "target_pattern": [
+    [
+      false,
+      false
+    ],
+    [
+      false,
+      false
+    ]
+  ],
+  "ground_pattern": [
+    [
+      "A",
+      "A"
+    ],
+    [
+      "A",
+      "A"
+    ]
+  ],
+  "ingredients": [
+    {
+      "item": "limestone",
+      "weight": 4
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "name_key": "hedge",
+  "description_key": "wall_description",
+  "type": "Wall",
+  "category": "Wall",
+  "tilesetOffset": 80,
+  "walkable": false,
+  "cloneable": true,
+  "connectWithOtherBlocks": true,
+  "letLight": false,
+  "destructible": true,
+  "movementSpeed": -1,
+  "constructionTime": 10,
+  "ingredients": [
+    {
+      "item": "hay",
+      "weight": 2
+    }
+  ],
+  "ground_pattern": [
+    [
+      "A"
+    ]
+  ]
+}

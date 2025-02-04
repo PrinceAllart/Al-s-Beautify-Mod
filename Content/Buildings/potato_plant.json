@@ -1,0 +1,77 @@
+{
+  "name_key": "potato_plant",
+  "description_key": "potato_plant",
+  "width": 1,
+  "height": 1,
+  "type": "FarmPlot",
+  "category": "Agriculture",
+  "buildingLaborType": "Plant",
+  "buildingToolType": "Plowing",
+  "animated": false,
+  "rotatable": false,
+  "cloneable": true,
+  "requireBuilding": true,
+  "destructible": false,
+  "constructionTime": 30,
+  "movementSpeed": 75,
+  "plant": {
+    "key": "potato_plant",
+    "growthSpeed": 15,
+    "toolType": "Harvesting",
+    "toolRequired": false,
+    "stages": 4,
+    "variations": 3,
+    "maxStrength": 30,
+    "isFlower": false,
+    "harvestable":
+    {
+      "harvest":
+      [
+        {
+          "item": "potato",
+          "weight": 2
+        }
+      ],
+      "removeAfterHarvest": true
+    },
+    "texture": 
+    {
+      "name": "potato_plant",
+      "width": 16,
+      "height": 32
+    },
+    "seasonsVariations":
+    {
+      "3": [0],
+      "0": [0],
+      "1": [1],
+      "2": [2]
+    }
+  },
+  "texture": {
+    "name": "potato_plant",
+    "width": 16,
+    "height": 32
+  },
+  "walkable_pattern": [
+    [
+      true
+    ]
+  ],
+  "target_pattern": [
+    [
+      false
+    ]
+  ],
+  "ground_pattern": [
+    [
+      "A"
+    ]
+  ],
+  "ingredients": [
+    {
+          "item": "potato",
+          "weight": 1
+        }
+  ]
+}

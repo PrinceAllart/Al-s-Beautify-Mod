@@ -1,0 +1,48 @@
+{
+  "name_key": "floor_light_large",
+  "description_key": "torch_description",
+  "width": 1,
+  "height": 1,
+  "type": "Lighter",
+  "category": "Settlement",
+  "animated": true,
+  "cloneable": true,
+  "rotatable": false,
+  "requireBuilding": true,
+  "destructible": true,
+  "movementSpeed": -1,
+  "constructionTime": 50,
+  "lightEmitter": {
+    "radius": 100
+  },
+  "texture": {
+    "name": "floor_light_large",
+    "width": 16,
+    "height": 16
+  },
+  "walkable_pattern": [
+    [
+      true
+    ]
+  ],
+  "target_pattern": [
+    [
+      false
+    ]
+  ],
+  "ground_pattern": [
+    [
+      "A"
+    ]
+  ],
+  "ingredients": [
+    {
+      "item": "silicon_ingot",
+      "weight": 1
+    },
+    {
+      "item": "glass",
+      "weight": 1
+    }
+  ]
+}

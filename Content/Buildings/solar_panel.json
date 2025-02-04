@@ -1,0 +1,70 @@
+{
+  "name_key": "solar_panel",
+  "description_key": "source_of_solar_energy",
+  "width": 1,
+  "height": 1,
+  "type": "WindPoweredEnergySource",
+  "category": "Mechanisms",
+  "animated": true,
+  "rotatable": true,
+  "cloneable": true,
+  "requireBuilding": true,
+  "destructible": true,
+  "movementSpeed": 20,
+  "constructionTime": 50,
+  "range": 4,
+  "EnergySourceData":{
+    "GeneratedPower": 20,
+    "DependsOnWindSpeed": false,
+    "EnergyType": "Kinetic"
+  },
+  "texture": {
+    "name": "solar_panel",
+    "width": 20,
+    "height": 28
+  },
+  "walkable_pattern": [
+    [
+      true,
+      true
+    ],
+    [
+      true,
+      true
+    ]
+  ],
+  "target_pattern": [
+    [
+      false,
+      false
+    ],
+    [
+      false,
+      false
+    ]
+  ],
+  "ground_pattern": [
+    [
+      "G",
+      "G"
+    ],
+    [
+      "G",
+      "G"
+    ]
+  ],
+  "ingredients": [
+    {
+      "item": "silicon_ingot",
+      "weight": 4
+    },
+    {
+      "item": "glass",
+      "weight": 2
+    },
+    {
+      "item": "copper_wire",
+      "weight": 2
+    }
+  ]
+}
